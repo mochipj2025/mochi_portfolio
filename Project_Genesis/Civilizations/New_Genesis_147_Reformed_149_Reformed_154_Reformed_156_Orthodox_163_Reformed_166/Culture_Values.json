@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "life_force",
+    "gold": "divine_connection"
+  },
+  "numbers": {
+    "3": "foundation_of_change",
+    "7": "sacred_seven"
+  },
+  "concepts": {
+    "fire": "symbol_of_transformation",
+    "water": "symbol_of_purification",
+    "earth": "symbol_of_stability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Radicalism**\n\nThe wise one who represents Conservatism (賢者1) emphasizes the importance of preserving and building upon existing cultural and societal structures, valuing harmony and balance. They believe in creating new cultures and transforming the world through individual soul-force.\n\nOn the other hand, the wise one who represents Radicalism (賢者2) advocates for tearing down unrealistic systems and creating a new world order. They believe that individual heart and spirit are powerful enough to shape a better future.\n\nThese two perspectives represent the fundamental tension between preserving what exists and striving for revolutionary change. 💡"
+    }
+  ]
+}

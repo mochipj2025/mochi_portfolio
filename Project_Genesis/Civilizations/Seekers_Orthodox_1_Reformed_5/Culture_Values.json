@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "calming",
+    "green": "sustainable"
+  },
+  "numbers": {
+    "7": "perfect",
+    "1": "beginning"
+  },
+  "concepts": {
+    "water": "symbol_of_resilience",
+    "tree": "symbol_of_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Stability"
+    }
+  ]
+}

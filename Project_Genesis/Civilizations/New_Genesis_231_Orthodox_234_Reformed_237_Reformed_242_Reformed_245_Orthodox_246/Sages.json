@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Renn Fujimori",
+    "trait": "Ingenious",
+    "bio": "Believes that individual freedom and social harmony can be reconciled through a creative force or pattern that connects us all. Advocates for a balance between personal expression and collective well-being.",
+    "icon": "🌈",
+    "speech_style": "Whimsical and poetic",
+    "motivation": "Desire for harmony (生存欲)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Akira Tsubasa": 0
+    }
+  }
+]

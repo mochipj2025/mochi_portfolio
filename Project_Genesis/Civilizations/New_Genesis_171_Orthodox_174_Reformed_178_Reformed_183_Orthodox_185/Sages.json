@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Renn Fujikawa",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge is the ultimate driving force. Reality is what we perceive it to be.",
+    "icon": "",
+    "speech_style": "Curious and analytical, with a touch of skepticism",
+    "motivation": "Expansion",
+    "influence": 30,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lena Luminari": 0
+    }
+  }
+]

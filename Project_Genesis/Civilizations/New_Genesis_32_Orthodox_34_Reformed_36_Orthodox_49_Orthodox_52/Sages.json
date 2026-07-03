@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Tōrō Yamada",
+    "trait": "Kokoro no Sei (Heart's Serenity)",
+    "bio": "A true individualist, Tōrō believes that personal growth and self-actualization are the keys to a fulfilling life. He advocates for autonomy and free will, rejecting external authorities and dogmatic thinking.",
+    "icon": "",
+    "speech_style": "Softly spoken, with a gentle tone that calms the mind.",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kuroda": 0,
+      "Mayumi Mori": 0
+    }
+  },
+  {
+    "name": "Akira Kuroda",
+    "trait": "Kizuna no Sei (Bonding Spirit)",
+    "bio": "A passionate advocate for communal harmony and social justice, Akira believes that individual freedom is only possible when it's aligned with the greater good. He champions collective values and collaborative efforts to create a better world.",
+    "icon": "",
+    "speech_style": "Boldly spoken, with a fiery passion that inspires action.",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Tōrō Yamada": 0,
+      "Mayumi Mori": 0
+    }
+  },
+  {
+    "name": "Mayumi Mori",
+    "trait": "Kokoro no Kaori (Scent of the Heart)",
+    "bio": "A mystic sage, Mayumi believes that individuality is a mere illusion, and that true fulfillment lies in transcending the ego. She advocates for a return to basics, embracing the simplicity and humility that brings harmony with nature.",
+    "icon": "",
+    "speech_style": "Whispered revelations, with an air of mysterious wisdom that piques curiosity.",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Tōrō Yamada": 0,
+      "Akira Kuroda": 0
+    }
+  },
+  {
+    "name": "Masato Shū",
+    "trait": "Whimsical",
+    "bio": "I believe that collective wisdom is the greatest treasure humanity possesses. By embracing our shared experiences and working together towards a common goal, we can create a harmonious world where individuality flourishes.",
+    "icon": "",
+    "speech_style": "Using vivid imagery, often with a touch of metaphysical flair, as if the boundaries between reality and fantasy were blurred.",
+    "motivation": "Survival (生存欲)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Sō": 0,
+      "Takeshi Kō": 0
+    }
+  }
+]

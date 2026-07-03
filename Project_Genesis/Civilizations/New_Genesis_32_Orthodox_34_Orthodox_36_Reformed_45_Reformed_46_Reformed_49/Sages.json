@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Elyon Kaida",
+    "trait": "Luminous",
+    "bio": "Emphasizes collective harmony as the foundation for true progress. Believes that individual freedom is a means to achieve collective well-being, not an end in itself.",
+    "icon": "✨",
+    "speech_style": "Whispery wisdom",
+    "motivation": "Survival (ensure the continuation of human civilization)",
+    "influence": 10,
+    "relationships": {
+      "Arin Vexarath": 0,
+      "Kaito Renn": 0
+    }
+  },
+  {
+    "name": "Arin Vexarath",
+    "trait": "Astringent",
+    "bio": "Asserts that individual freedom is the essential prerequisite for innovation, creativity, and progress. Sees collective harmony as a means to maintain order, not create it.",
+    "icon": "⛓️",
+    "speech_style": "Razor-sharp logic",
+    "motivation": "Expansion (expand human knowledge and understanding)",
+    "influence": 10,
+    "relationships": {
+      "Elyon Kaida": 0,
+      "Kaito Renn": 0
+    }
+  },
+  {
+    "name": "Kaito Renn",
+    "trait": "Inquisitive",
+    "bio": "Seeks a balance between individual freedom and collective harmony, recognizing that both are essential for human flourishing. Believes that this balance can be achieved through careful consideration of the consequences of one's actions.",
+    "icon": "🔍",
+    "speech_style": "Thought-provoking curiosity",
+    "motivation": "Discovery (uncover new truths and understandings)",
+    "influence": 10,
+    "relationships": {
+      "Elyon Kaida": 0,
+      "Arin Vexarath": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

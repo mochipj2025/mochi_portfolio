@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "Seeking truth through empirical knowledge and philosophical inquiry.",
+    "icon": "🔥",
+    "speech_style": "Eloquent and calculated",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Takeru Shinoda": 0
+    }
+  },
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Free-spirited",
+    "bio": "Emphasizing the beauty of human experience through art, music, and storytelling.",
+    "icon": "🌊",
+    "speech_style": "Unconventional and emotive",
+    "motivation": "Expression",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Takeru Shinoda": 0
+    }
+  },
+  {
+    "name": "Takeru Shinoda",
+    "trait": "Visionary",
+    "bio": "Believing in humanity's potential to shape its own destiny through collective action and responsible leadership.",
+    "icon": "💡",
+    "speech_style": "Passionate and persuasive",
+    "motivation": "Empowerment",
+    "influence": 15,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Kaito Ryūjin": 0
+    }
+  },
+  {
+    "name": "Renn Kaito",
+    "trait": "Mysterious",
+    "bio": "Pursuing the hidden truths behind the lost legends, convinced that by unraveling their mysteries, we can unlock new paths of growth.",
+    "icon": "✨",
+    "speech_style": "Eloquent, employing cryptic phrases and veiled hints to convey his insights",
+    "motivation": "Exploration (the desire to uncover new knowledge and push the boundaries of human understanding)",
+    "influence": 10,
+    "relationships": {
+      "Kokoro Yamato": 0,
+      "Akira Shimizu": 0
+    }
+  }
+]

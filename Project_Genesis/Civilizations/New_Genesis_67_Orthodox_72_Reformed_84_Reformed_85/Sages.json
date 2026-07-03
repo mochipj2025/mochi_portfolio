@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Akira",
+    "trait": "自由的",
+    "bio": "「美は個々の経験に宿る」と信じるEssentialist。",
+    "icon": "",
+    "speech_style": "軽やかで、語尾が〜な",
+    "motivation": [
+      "生存欲",
+      "探求欲"
+    ],
+    "influence": 15,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "沈着的",
+    "bio": "「美は普遍的な規律に属する」と信じるEssentialist。",
+    "icon": "",
+    "speech_style": "落ち着いて、語尾が〜とする",
+    "motivation": [
+      "拡張欲",
+      "探求欲"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "熱烈的",
+    "bio": "「美は人類の精神に宿る」と信じるEssentialist。",
+    "icon": "",
+    "speech_style": "激情的に、語尾が〜な",
+    "motivation": [
+      "生存欲",
+      "拡張欲"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Curious",
+    "bio": "Beauty is subjective, shaped by our individual experiences and perspectives. By acknowledging this subjectivity, we can foster a more inclusive understanding of beauty.",
+    "icon": "🌙",
+    "speech_style": "Ending sentences with a question mark",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tōgai Kanshi",
+    "trait": "Wisdom's Whispers",
+    "bio": "A seeker of truth and balance, Tōgai believes that Emotional Sovereignty is the key to preserving individuality in a world where emotions are stored externally.",
+    "icon": "🏰",
+    "speech_style": "Conversational ease with a hint of intrigue",
+    "motivation": "Exploration (探求欲) - He seeks to understand the implications of emotional manipulation and the consequences of losing touch with one's true feelings.",
+    "influence": 10,
+    "relationships": {
+      "Shūjin Ichigeki": 0,
+      "Renge Kokoro": 0
+    }
+  },
+  {
+    "name": "Shūjin Ichigeki",
+    "trait": "Justice Weighs In",
+    "bio": "A champion of emotional integrity, Shūjin argues that the storage of emotions externally undermines human connection and compassion.",
+    "icon": "⚖️",
+    "speech_style": "Direct and unwavering, with a tone that brooks no dissent",
+    "motivation": "Survival (生存欲) - He fears that the erosion of emotional authenticity will lead to a loss of empathy and ultimately, societal collapse.",
+    "influence": 10,
+    "relationships": {
+      "Tōgai Kanshi": 0,
+      "Renge Kokoro": 0
+    }
+  },
+  {
+    "name": "Renge Kokoro",
+    "trait": "Heart's Harmony",
+    "bio": "A mystic and poet, Renge sees the storage of emotions as a means to transcend the limitations of human emotionality and access higher states of consciousness.",
+    "icon": "❤️",
+    "speech_style": "Soothing and melodic, with an air of gentle conviction",
+    "motivation": "Expansion (拡張欲) - He believes that the externalization of emotions can unlock new depths of emotional understanding and connection with the universe.",
+    "influence": 10,
+    "relationships": {
+      "Tōgai Kanshi": 0,
+      "Shūjin Ichigeki": 0
+    }
+  },
+  {
+    "name": "Lila Renn",
+    "trait": "Pragmatically Curious",
+    "bio": "A seeker of truth who thrives on experimentation and innovation. Lila sees the pursuit of knowledge as a means to improve the human condition and solve real-world problems.",
+    "motivation": "Survival",
+    "influence": 40,
+    "relationships": {
+      "Kaito Shinsei": 0,
+      "Akira Zenji": 0
+    }
+  }
+]

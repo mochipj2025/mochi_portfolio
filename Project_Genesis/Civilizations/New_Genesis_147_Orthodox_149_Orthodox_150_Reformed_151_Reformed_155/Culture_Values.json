@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "representative_of_valor",
+    "gray": "symbol_of_wisdom"
+  },
+  "numbers": {
+    "7": "significant_for_justice",
+    "4": "connected_to_stability"
+  },
+  "concepts": {
+    "stone": "symbol_of_endurance",
+    "water": "representative_of_renewal"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Realism**\n\nThought A (Simulationism): The universe is a simulation, and we need to recognize our finiteness and transcendental perspective to create new futures.\n\nThought B (Realism): We should focus on building upon past experiences and learning from history to create new futures."
+    }
+  ]
+}

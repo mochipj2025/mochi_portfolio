@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "white": "purity",
+    "gold": "divine_illumination"
+  },
+  "numbers": {
+    "7": "perfection",
+    "13": "cursed"
+  },
+  "concepts": {
+    "water": "symbol_of_purification",
+    "circle": "symbol_of_perfection_cycle"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Katsuragi: 思想A "
+    }
+  ]
+}

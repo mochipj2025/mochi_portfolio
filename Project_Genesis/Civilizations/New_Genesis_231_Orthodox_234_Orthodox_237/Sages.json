@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ryūki",
+    "trait": "自由の響き",
+    "bio": "Individualism is the key to unlocking human potential. By focusing on personal freedom and autonomy, we can create a society that values creativity and innovation.",
+    "icon": "",
+    "speech_style": "語尾に〜やがある",
+    "motivation": "探求欲",
+    "influence": 20,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "調和の心",
+    "bio": "Balance is the foundation of true progress. By embracing contradictions and finding harmony between opposing forces, we can create a world that values unity and cooperation.",
+    "icon": "",
+    "speech_style": "語尾に〜しがある",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Ryūki": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "叡智の閃き",
+    "bio": "Knowledge is the catalyst for human evolution. By pursuing wisdom and understanding, we can create a society that values intellectual curiosity and critical thinking.",
+    "icon": "",
+    "speech_style": "語尾に〜たらある",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Ryūki": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

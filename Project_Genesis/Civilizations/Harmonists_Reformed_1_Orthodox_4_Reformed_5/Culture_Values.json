@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "wisdom",
+    "gold": "prosperity"
+  },
+  "numbers": {
+    "5": "balance",
+    "7": "spirituality"
+  },
+  "concepts": {
+    "light": "symbol_of_knowledge",
+    "seed": "symbol_of_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Free Will**\n\nThought A (Determinism): The idea that time is a physical constraint, and we must adjust our understanding of time to ensure a better future.\n\nThought B (Free Will): The notion that our observations have limitations, and new information can always be gained, which could potentially close the doors to new understandings."
+    }
+  ]
+}

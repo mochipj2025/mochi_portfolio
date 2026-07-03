@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kyōrai",
+    "trait": "Pragmatic",
+    "bio": "Conservatism is about preserving what's good and working within the constraints of our current reality. We must be mindful of our actions' consequences and prioritize stability over innovation.",
+    "icon": ":regional_indicator_t:",
+    "speech_style": "Slow and deliberate, emphasizing the importance of each word",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge and understanding is the only constant in an ever-changing world. We must be willing to challenge our assumptions and adapt to new information.",
+    "icon": ":regional_indicator_k:",
+    "speech_style": "Fast-paced and enthusiastic, with a tendency to interrupt and build upon others' ideas",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōrai": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Taro Yamato",
+    "trait": "Visionary",
+    "bio": "The only way to truly preserve our heritage is to continuously push the boundaries of what's possible. We must strive for greatness and never settle for mediocrity.",
+    "icon": ":regional_indicator_j:",
+    "speech_style": "Poetic and inspirational, with a focus on painting vivid pictures of the future",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōrai": 0,
+      "Renn Fujimori": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

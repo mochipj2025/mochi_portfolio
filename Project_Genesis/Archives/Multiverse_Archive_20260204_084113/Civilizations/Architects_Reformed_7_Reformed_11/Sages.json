@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "伝統的 (Traditional)",
+    "bio": "A stalwart defender of ancient wisdom, Kaito believes that silence is the key to unlocking true understanding. He advocates for the preservation of traditional knowledge and the importance of respecting the past.",
+    "motivation": "生存欲 (Survival)",
+    "influence": 10,
+    "relationships": {
+      "Lila Luna": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "Lila Luna",
+    "trait": "進歩的 (Progressive)",
+    "bio": "A visionary thinker, Lila believes that language is the tool that has shaped human civilization. She advocates for the power of words to inspire change and progress.",
+    "motivation": "拡張欲 (Expansion)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "実務的 (Practical)",
+    "bio": "A pragmatic problem-solver, Akira believes that silence can be a powerful tool for contemplation and reflection. He advocates for the importance of balancing words with actions.",
+    "motivation": "探求欲 (Discovery)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 35,
+    "relationships": {}
+  }
+]

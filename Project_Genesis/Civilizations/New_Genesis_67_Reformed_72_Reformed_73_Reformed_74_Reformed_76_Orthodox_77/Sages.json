@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Nanako Shūkō",
+    "trait": "温柔",
+    "bio": "In the midst of chaos, we must cultivate patience and compassion. Gravity's pull can be overwhelming, but our spirits remain buoyed by hope and faith.",
+    "icon": "",
+    "speech_style": "語調が高くなる}",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kōgai": 0
+    }
+  }
+]

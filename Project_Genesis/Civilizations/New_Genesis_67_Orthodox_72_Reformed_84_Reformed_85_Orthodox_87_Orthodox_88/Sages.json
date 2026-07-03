@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "自由々",
+    "bio": "Individualismは、私の信念です。我々人間は、一人の個性を持つことが必要です。",
+    "icon": "",
+    "speech_style": "語尾が〜である、温暖",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Lumin": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Lumin",
+    "trait": "明るい",
+    "bio": "知識と技術は、私の信念です。我々が持つ情報を共有し、より良い未来を創造することが私の目標です。",
+    "icon": "",
+    "speech_style": "語尾が〜くである、軽快",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "決断的",
+    "bio": "秩序と規律は、私の信念です。我々が持つ秩序を守り、より良い社会を創造することが私の目標です。",
+    "icon": "",
+    "speech_style": "語尾が〜である、剛直",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Lumin": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Visionary",
+    "bio": "Believing in the power of collective imagination to shape a brighter future.",
+    "icon": "✨",
+    "speech_style": "Inspiring rhythm: using storytelling to evoke emotions",
+    "motivation": [
+      "Innovation",
+      "Empowerment"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Ren": 0
+    }
+  }
+]

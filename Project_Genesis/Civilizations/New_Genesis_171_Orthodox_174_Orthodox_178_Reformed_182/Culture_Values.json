@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "sacred"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "auspicious"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Minamoto:  Rationalism**\n\nMinamoto's emphasis on symbolic forces (fire) and the mysterious power of transformation suggests an approach rooted in intuition and instinct. In contrast, Itoh's analytical approach, relying on three numerical principles, represents a more rational and systematic perspective.\n\nWhat do you think? 🤔"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Serene",
+    "bio": "Embracing tradition and harmony to achieve balance in life",
+    "icon": "⚔️",
+    "speech_style": " Softly spoken, with a gentle cadence",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Zenken": 0,
+      "Hōjin Sōen": 0
+    }
+  },
+  {
+    "name": "Zenken",
+    "trait": "Vigilant",
+    "bio": "Breaking free from constraints to forge one's own path",
+    "icon": "💥",
+    "speech_style": "Rapid-fire delivery, with a hint of excitement",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Hōjin Sōen": 0
+    }
+  },
+  {
+    "name": "Hōjin Sōen",
+    "trait": "Wisdom",
+    "bio": "Seeking completeness and perfection through harmony and balance",
+    "icon": "☯️",
+    "speech_style": "Melodious tone, with a hint of gravitas",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Zenken": 0
+    }
+  },
+  {
+    "name": "Zenken",
+    "trait": "創造",
+    "bio": "Zenken sees the world as a canvas waiting to be painted. He believes that innovation and creativity are the keys to unlocking human potential, and that the pursuit of knowledge should be a joyful rebellion against the status quo.",
+    "icon": "⚡️",
+    "speech_style": "荒々しい ( bold and unconventional )",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kanzen": 0,
+      "Mikkan": 0
+    }
+  }
+]

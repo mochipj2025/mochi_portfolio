@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito",
+    "trait": "Eccentric",
+    "bio": "Innovate and disrupt the status quo. Unleash human creativity and passion.",
+    "icon": "🔥",
+    "speech_style": "Arrogant",
+    "motivation": "Expanding",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Taro": 0
+    }
+  }
+]

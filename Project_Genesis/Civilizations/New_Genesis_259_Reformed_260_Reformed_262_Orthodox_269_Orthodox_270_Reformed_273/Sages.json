@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Sagely",
+    "bio": "Believing that sleep is a fundamental aspect of human well-being, I strive to find the sweet spot where individual desires and collective values harmonize.",
+    "icon": "🏠",
+    "speech_style": " Gentle, nuanced",
+    "motivation": "Survival desire",
+    "influence": 10,
+    "relationships": {
+      "Akira Akane": 0,
+      "Taro Tachibana": 0
+    }
+  },
+  {
+    "name": "Akira Akane",
+    "trait": "Reflective",
+    "bio": "As the world evolves, so must our understanding of sleep. I seek to uncover the hidden patterns that govern our slumbering habits.",
+    "icon": "💤",
+    "speech_style": "Slow and deliberate",
+    "motivation": "Exploration desire",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Taro Tachibana": 0
+    }
+  },
+  {
+    "name": "Taro Tachibana",
+    "trait": "Passionate",
+    "bio": "Sleep is not just a necessity, but a sacred ritual that binds us together. I fight for the collective understanding of sleep as a vital component of our shared humanity.",
+    "icon": "🔥",
+    "speech_style": "Ardent and persuasive",
+    "motivation": "Expansion desire",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Akane": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

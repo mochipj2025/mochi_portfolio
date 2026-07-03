@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+pydantic
+python-dotenv
+Pillow

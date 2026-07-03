@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Arashi",
+    "trait": "Fierce Passion",
+    "bio": "Believes that the will of humanity can shape the world's destiny. Advocates for bold innovation and unyielding perseverance.",
+    "icon": "",
+    "speech_style": "Passionate and assertive, often using metaphors to drive home a point",
+    "motivation": "Exploration (and shaping) of the unknown",
+    "influence": 55,
+    "relationships": {
+      "Lila Sakura": 0,
+      "Ryota Kuroba": 0
+    }
+  }
+]

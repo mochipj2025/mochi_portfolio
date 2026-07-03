@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito 'Axiom' Yamato",
+    "trait": "Maverick",
+    "bio": "Believes that individual freedom is the foundation of human progress.",
+    "icon": "",
+    "speech_style": "Conversational tone with a hint of sarcasm",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Lila 'Paragon' Patel": 0,
+      "Eiji 'Kintsugi' Nakamura": 0
+    }
+  },
+  {
+    "name": "Lila 'Paragon' Patel",
+    "trait": "Guardian",
+    "bio": "Thinks that societal norms and collective values are essential for the well-being of humanity.",
+    "icon": "",
+    "speech_style": "Strong, assertive tone with a dash of confidence",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito 'Axiom' Yamato": 0,
+      "Eiji 'Kintsugi' Nakamura": 0
+    }
+  },
+  {
+    "name": "Eiji 'Kintsugi' Nakamura",
+    "trait": "Zen Master",
+    "bio": "Believes that true freedom lies in embracing one's place within the larger whole.",
+    "icon": "",
+    "speech_style": "Calming, introspective tone with a hint of wisdom",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito 'Axiom' Yamato": 0,
+      "Lila 'Paragon' Patel": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

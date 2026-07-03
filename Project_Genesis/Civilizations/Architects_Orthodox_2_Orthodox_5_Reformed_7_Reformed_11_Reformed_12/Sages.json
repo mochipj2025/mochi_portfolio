@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Adventurous",
+    "bio": "Embracing the unknown, I seek to revolutionize the status quo. The boundaries of possibility are meant to be pushed.",
+    "icon": "",
+    "speech_style": "Fast-paced and enthusiastic, with a hint of excitement!",
+    "motivation": "Exploration (60%) | Curiosity (30%) | Improvisation (10%}",
+    "influence": 10,
+    "relationships": {
+      "Taro Tanaka": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Taro Tanaka",
+    "trait": "Pragmatic",
+    "bio": "Innovation is not just about creating something new, but making it practical. I strive to balance creativity with feasibility.",
+    "icon": "",
+    "speech_style": "Clear and concise, with a touch of skepticism.",
+    "motivation": "Problem-solving (70%) | Efficiency (20%) | Adaptability (10%}",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Visionary",
+    "bio": "Innovation is not just about creating something new, but imagining a better world. I seek to merge the boundaries between art and science.",
+    "icon": "",
+    "speech_style": "Soft-spoken and contemplative, with a hint of mystique.",
+    "motivation": "Inspiration (80%) | Empathy (15%) | Harmony (5%}",
+    "influence": 15,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Taro Tanaka": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

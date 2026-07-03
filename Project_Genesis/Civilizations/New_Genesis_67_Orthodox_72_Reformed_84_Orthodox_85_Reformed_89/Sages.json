@@ -1,0 +1,49 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Taro Katsuragi",
+    "trait": "Fearless",
+    "bio": "Firmly believes that the pursuit of knowledge and progress should be driven by rationality and logical thinking. He dismisses the sensual as mere indulgence.",
+    "icon": "",
+    "speech_style": "Speaks with fervor and conviction, as if proclaiming a triumphant battle cry.",
+    "motivation": {
+      "expansion": 8,
+      "survival": 2,
+      "perseverance": 1
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Lysander Elyseus": 0
+    }
+  }
+]

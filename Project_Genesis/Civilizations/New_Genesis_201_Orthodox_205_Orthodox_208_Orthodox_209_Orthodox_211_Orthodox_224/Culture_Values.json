@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "purity",
+    "blue": "wisdom",
+    "white": "innocence"
+  },
+  "numbers": {
+    "7": "perfection",
+    "4": "balance"
+  },
+  "concepts": {
+    "water": "symbol_of_life",
+    "tree": "symbol_of_growth_and_stability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: 思想A "
+    }
+  ]
+}

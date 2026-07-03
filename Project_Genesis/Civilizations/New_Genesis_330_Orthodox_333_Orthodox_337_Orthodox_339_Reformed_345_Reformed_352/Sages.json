@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kōzen",
+    "trait": "Philosophical",
+    "bio": "Believes that the course of human history is predetermined by the universe and seeks to understand the underlying principles guiding the path of civilization.",
+    "icon": "✨",
+    "speech_style": "Mellow and contemplative",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

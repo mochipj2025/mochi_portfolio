@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Luna",
+    "trait": "Philosophical Anarchist",
+    "bio": "A proponent of anarcho-capitalism, Lila argues that private property is the source of all social problems. She believes that individuals should be free to pursue their own interests without government interference or coercion.",
+    "icon": "✨",
+    "speech_style": "Meandering and introspective, with a hint of irony",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Renn Fujimoto": 0
+    }
+  }
+]

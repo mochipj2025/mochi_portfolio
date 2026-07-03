@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Free-spirited",
+    "bio": "Believes in the power of individual creativity and innovation. He sees the world as a canvas waiting to be colored.",
+    "icon": "",
+    "speech_style": "Informal, with a hint of mischief",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Ren": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Disciplined",
+    "bio": "Values individual responsibility and self-reliance. He advocates for a strong sense of duty and morality.",
+    "icon": "",
+    "speech_style": "Formal, with a touch of precision",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Ren": 0
+    }
+  },
+  {
+    "name": "Ren",
+    "trait": "Inquisitive",
+    "bio": "Thinks that individual knowledge and experience are the keys to personal growth. He believes in continuous learning and self-improvement.",
+    "icon": "",
+    "speech_style": "Curious, with a hint of wonder",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

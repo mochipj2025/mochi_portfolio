@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "自由の息吹",
+    "bio": "Individuality is the key to unlocking human potential. By embracing our unique qualities, we can create a world where everyone shines.",
+    "icon": "",
+    "speech_style": "語尾が〜てる感じ",
+    "motivation": "拡張欲",
+    "influence": 15,
+    "relationships": {
+      "Ling Ling Wong": 0,
+      "Renn Fujisawa": 0
+    }
+  },
+  {
+    "name": "Ling Ling Wong",
+    "trait": "不毛の心",
+    "bio": "In a world where conformity is the norm, it's the individuals who dare to be different that will lead the way. I celebrate the beauty of being misunderstood.",
+    "icon": "",
+    "speech_style": "語尾が〜し、細やか",
+    "motivation": "生存欲",
+    "influence": 15,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Renn Fujisawa": 0
+    }
+  },
+  {
+    "name": "Renn Fujisawa",
+    "trait": "風の声",
+    "bio": "The pursuit of individuality is a never-ending journey. It's not about fitting in or standing out, but about being true to yourself and embracing the mystery that makes us human.",
+    "icon": "",
+    "speech_style": "語尾が〜く感じ、荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Ling Ling Wong": 0
+    }
+  },
+  {
+    "name": "Mayumi Mori",
+    "trait": "Kokoro no Kaori (Scent of the Heart)",
+    "bio": "A mystic sage, Mayumi believes that individuality is a mere illusion, and that true fulfillment lies in transcending the ego. She advocates for a return to basics, embracing the simplicity and humility that brings harmony with nature.",
+    "icon": "",
+    "speech_style": "Whispered revelations, with an air of mysterious wisdom that piques curiosity.",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Tōrō Yamada": 0,
+      "Akira Kuroda": 0
+    }
+  }
+]

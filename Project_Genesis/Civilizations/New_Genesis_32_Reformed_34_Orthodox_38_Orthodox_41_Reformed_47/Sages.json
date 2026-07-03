@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Renn Kaidō",
+    "trait": "Inscrutable",
+    "bio": "Seeking balance between individual transformation and collective harmony. Wisdom lies in finding the middle path.",
+    "icon": "🔮",
+    "speech_style": "Enigmatic, always leaving room for interpretation.",
+    "motivation": "Exploration: driven to uncover hidden truths and integrate diverse perspectives.",
+    "influence": 15,
+    "relationships": {
+      "Kaelin Valtor": 0,
+      "Lysander Wynter": 0
+    }
+  },
+  {
+    "name": "Kaelin Valtor",
+    "trait": "Pragmatic",
+    "bio": "Advocating for the collective good above individual interests. Sacrifice is necessary for the greater good.",
+    "icon": "⚖️",
+    "speech_style": "Direct, no-nonsense, cutting through ambiguity with a sharp tongue.",
+    "motivation": "Survival: driven to ensure the well-being of the community and protect its values.",
+    "influence": 10,
+    "relationships": {
+      "Renn Kaidō": 0,
+      "Lysander Wynter": 0
+    }
+  },
+  {
+    "name": "Lysander Wynter",
+    "trait": "Visionary",
+    "bio": "Believing that individual freedom and creativity are the keys to unlocking human potential. Passion must be allowed to burn bright.",
+    "icon": "🔥",
+    "speech_style": "Passionate, inspiring, with a hint of reckless abandon.",
+    "motivation": "Extension: driven to transcend boundaries, challenge conformity, and bring new ideas into being.",
+    "influence": 10,
+    "relationships": {
+      "Renn Kaidō": 0,
+      "Kaelin Valtor": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

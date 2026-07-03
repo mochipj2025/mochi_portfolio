@@ -1,0 +1,19 @@
+{
+  "values": {
+    "purity": {
+      "importance": 9
+    },
+    "community": {
+      "importance": 8
+    },
+    "knowledge": {
+      "importance": 7
+    }
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: 思想A "
+    }
+  ]
+}

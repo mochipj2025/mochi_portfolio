@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ryūki",
+    "trait": "Passionate",
+    "bio": "Emotions as memories, love as a tapestry of experiences. Embrace the waves of feelings to find true understanding.",
+    "icon": "",
+    "speech_style": "Poetic",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Kokoro": 0,
+      "Hōshi": 0
+    }
+  },
+  {
+    "name": "Kokoro",
+    "trait": "Reflective",
+    "bio": "Love is woven from past and future, a fabric of shared understanding. Seek harmony in the threads of time.",
+    "icon": "",
+    "speech_style": "Philosophical",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Ryūki": 0,
+      "Hōshi": 0
+    }
+  },
+  {
+    "name": "Hōshi",
+    "trait": "Discerning",
+    "bio": "Emotions are but fleeting winds, and love is the anchor that holds us fast. Seek truth in the stillness of the heart.",
+    "icon": "",
+    "speech_style": "Analytical",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Ryūki": 0,
+      "Kokoro": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

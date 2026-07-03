@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "symbol_of_wisdom",
+    "green": "representing_growth_and_harmony"
+  },
+  "numbers": {
+    "3": "trinity_of_balance",
+    "5": "fingers_of_cooperation"
+  },
+  "concepts": {
+    "harmony": "key_to_prosperity",
+    "rebirth": "cycle_of_growth_andTransformation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Shared Value**\n\nThese two perspectives represent a fundamental conflict between traditional notions of economic value (market value) and alternative approaches that prioritize mutual understanding, cooperation, and the well-being of all individuals (shared value). The debate highlights the need for a new value system that transcends monetary gain and instead focuses on the essential elements of life."
+    }
+  ]
+}

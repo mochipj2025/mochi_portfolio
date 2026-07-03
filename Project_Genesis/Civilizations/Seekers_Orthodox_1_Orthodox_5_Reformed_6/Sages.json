@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "明朗 (bright and clear)",
+    "bio": "A seeker of truth, I believe that the pursuit of knowledge is the greatest gift humanity can give itself. Through wisdom, we can transcend our limitations and unlock the secrets of the universe.",
+    "icon": "",
+    "speech_style": "語尾が〜である (ends with a questioning tone)",
+    "motivation": "探求欲 (desire for discovery)",
+    "influence": 15,
+    "relationships": {
+      "Akira Akihito": 0,
+      "Eiichi Enomoto": 0
+    }
+  }
+]

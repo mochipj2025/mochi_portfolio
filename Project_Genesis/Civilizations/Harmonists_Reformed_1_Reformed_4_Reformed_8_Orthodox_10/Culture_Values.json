@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "white": "pure"
+  },
+  "numbers": {
+    "3": "triune",
+    "7": " mystical"
+  },
+  "concepts": {
+    "fire": "symbol_of_purification",
+    "water": "symbol_of_renewal"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: 思想A "
+    }
+  ]
+}

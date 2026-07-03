@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kurenai",
+    "trait": "Philosophical Realist",
+    "bio": "'As humans, we can find meaning in life through our connections with others and the pursuit of knowledge. The fear of death should not dictate how we live.'",
+    "icon": "",
+    "speech_style": "Using logical arguments and empirical evidence to support his claims, with a hint of wit and sarcasm.",
+    "motivation": "Expanding human potential through science and technology.",
+    "influence": 25,
+    "relationships": {
+      "Akira Zenki": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "Akira Zenki",
+    "trait": "Ethereal Dreamer",
+    "bio": "'In our finite existence, we must find transcendence through art, love, and self-discovery. Only then can we grasp the infinite.'",
+    "icon": "",
+    "speech_style": "Speaking in a soothing tone, with poetic phrases that evoke the beauty of existence.",
+    "motivation": "Seeking eternal truths through spiritual pursuits.",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "Cynical Pragmatist",
+    "bio": "'Life is short, so we should focus on making the most of it. No need to worry about what comes after.'",
+    "icon": "",
+    "speech_style": "Using a deadpan tone, with a dry sense of humor and a healthy dose of skepticism.",
+    "motivation": "Surviving and thriving in the present through rational decision-making.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Akira Zenki": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

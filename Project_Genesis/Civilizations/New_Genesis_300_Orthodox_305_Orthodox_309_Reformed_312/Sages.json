@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kanzen",
+    "trait": "調和",
+    "bio": "For Kanzen, the pursuit of knowledge is a harmonious dance between the individual and society. He believes that the wisdom of the ages can be found in the balance and harmony within oneself.",
+    "icon": "❀️",
+    "speech_style": "語尾が〜である ( smooth and harmonious )",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Zenken": 0,
+      "Mikkan": 0
+    }
+  },
+  {
+    "name": "Zenken",
+    "trait": "創造",
+    "bio": "Zenken sees the world as a canvas waiting to be painted. He believes that innovation and creativity are the keys to unlocking human potential, and that the pursuit of knowledge should be a joyful rebellion against the status quo.",
+    "icon": "⚡️",
+    "speech_style": "荒々しい ( bold and unconventional )",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kanzen": 0,
+      "Mikkan": 0
+    }
+  },
+  {
+    "name": "Mikkan",
+    "trait": "照明",
+    "bio": "For Mikkan, wisdom is the warm light that guides us through the darkness. He believes that knowledge should be a beacon of hope, illuminating the path forward for humanity and helping us to find our way.",
+    "icon": "☀️",
+    "speech_style": "語尾が〜である ( calm and reassuring )",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kanzen": 0,
+      "Zenken": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

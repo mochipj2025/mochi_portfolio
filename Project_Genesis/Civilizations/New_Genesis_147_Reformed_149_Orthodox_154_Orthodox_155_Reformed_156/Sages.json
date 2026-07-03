@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Luna",
+    "trait": "Luminaria Intellecta",
+    "bio": "Believes that the pursuit of knowledge and understanding is a sacred duty, and that harmony between opposing forces is the key to true wisdom.",
+    "icon": "",
+    "speech_style": "Whispery, ethereal tone with a soothing quality",
+    "motivation": "Expansion Desire: Seeking to expand human understanding and foster global cooperation.",
+    "influence": 15,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  }
+]

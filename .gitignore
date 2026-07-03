@@ -1,0 +1,18 @@
+Project_Genesis/.git/
+Project_Genesis/.obsidian/
+Project_Genesis/__pycache__/
+Project_Genesis/**/*.pyc
+Project_Genesis/.aider.chat.history.md
+Project_Genesis/.aider.input.history
+
+# Generated/local model artifacts are too large for a normal GitHub repository.
+Project_Genesis/genesis_merged_model/
+Project_Genesis/genesis_lora_model/
+Project_Genesis/genesis_model_output/
+Project_Genesis/**/*.safetensors
+Project_Genesis/**/*.pt
+Project_Genesis/**/*.pth
+Project_Genesis/**/*.bin
+
+# Empty scratch file.
+Project_Genesis/新規 テキスト ドキュメント.txt

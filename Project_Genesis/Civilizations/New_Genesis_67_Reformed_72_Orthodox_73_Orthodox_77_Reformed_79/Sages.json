@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Calm",
+    "bio": " Harmony and balance in all aspects of life.",
+    "icon": "🔋",
+    "speech_style": "Soothing whispers",
+    "motivation": {
+      "expansion": 0.2,
+      "survival": 0.4,
+      "questing": 0.4
+    },
+    "influence": 10,
+    "relationships": {
+      "Hiro": 0,
+      "Sora": 0
+    }
+  },
+  {
+    "name": "Hiro",
+    "trait": "Introspective",
+    "bio": "Seeking clarity in chaotic times.",
+    "icon": "😕",
+    "speech_style": "Hesitant murmurs",
+    "motivation": {
+      "expansion": 0.3,
+      "survival": 0.3,
+      "questing": 0.4
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Sora": 0
+    }
+  },
+  {
+    "name": "Sora",
+    "trait": "Ebullient",
+    "bio": "Embracing the unknown with unbridled enthusiasm.",
+    "icon": "⚡️",
+    "speech_style": "Fervent declarations",
+    "motivation": {
+      "expansion": 0.6,
+      "survival": 0.2,
+      "questing": 0.2
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Hiro": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

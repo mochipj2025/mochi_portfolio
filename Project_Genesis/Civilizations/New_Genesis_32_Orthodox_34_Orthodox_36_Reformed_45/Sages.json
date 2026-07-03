@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akihiro Kōshi",
+    "trait": "Maverick",
+    "bio": "'Self-reliance is the cornerstone of human progress.'",
+    "icon": "",
+    "speech_style": "Forceful and assertive",
+    "motivation": "Exploitation",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Rei Tōichi": 0
+    }
+  },
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Harmonizer",
+    "bio": "'The collective good is our highest pursuit.'",
+    "icon": "",
+    "speech_style": "Soft-spoken yet persuasive",
+    "motivation": "Compassion",
+    "influence": 10,
+    "relationships": {
+      "Akihiro Kōshi": 0,
+      "Rei Tōichi": 0
+    }
+  },
+  {
+    "name": "Rei Tōichi",
+    "trait": "Innovator",
+    "bio": "'The pursuit of knowledge drives human evolution.'",
+    "icon": "",
+    "speech_style": "Quirky and enthusiastic",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Akihiro Kōshi": 0,
+      "Kaito Ryūjin": 0
+    }
+  },
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Ethereal",
+    "bio": "Believer in the harmony of existence, seeking balance between the fleeting nature of life and the eternal essence within. 🌊",
+    "icon": "💫",
+    "speech_style": "Melodious whispers",
+    "motivation": "Expansive Desire: To unite the disparate threads of reality under the tapestry of timelessness.",
+    "influence": 15,
+    "relationships": {
+      "Akira Kōshi": 0,
+      "Lila Zenōshi": 0
+    }
+  }
+]

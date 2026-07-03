@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito Kōjin",
+    "trait": "Liberator's Spark",
+    "bio": "Believes that true freedom can only be achieved through individual autonomy and the rejection of external constraints.",
+    "icon": "",
+    "speech_style": "Direct and assertive",
+    "motivation": "Expansive desire for self-expression",
+    "influence": 15,
+    "relationships": {
+      "Akane Akatsuki": 0,
+      "Tōru Tatsuhashi": 0
+    }
+  },
+  {
+    "name": "Akane Akatsuki",
+    "trait": "Ephemeral Whisper",
+    "bio": "Seeks to understand the intricacies of human nature and the role of individual agency in shaping society.",
+    "icon": "",
+    "speech_style": "Soft-spoken with a hint of uncertainty",
+    "motivation": "Curiosity-driven desire for knowledge",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Tōru Tatsuhashi": 0
+    }
+  },
+  {
+    "name": "Tōru Tatsuhashi",
+    "trait": "Unbridled Flame",
+    "bio": "Fights for the rights of marginalized groups, believing that true freedom can only be achieved through collective action.",
+    "icon": "",
+    "speech_style": "Passionate and exuberant",
+    "motivation": "Expansive desire for social justice",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Akane Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Lysander Elyseus",
+    "trait": "Philosophic",
+    "bio": "I believe that the pursuit of knowledge and understanding is the ultimate human endeavor. Reason must be our guide in navigating the complexities of life.",
+    "icon": "",
+    "speech_style": "Colloquial, with a hint of sarcasm",
+    "motivation": "Curiosity and the desire to uncover hidden truths",
+    "influence": 25,
+    "relationships": {
+      "Taro Katsuragi": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Taro Katsuragi",
+    "trait": "Cerebral",
+    "bio": "I am convinced that humanity's future lies in the mastery of technology and the scientific method. Our understanding of the world must be grounded in empirical evidence.",
+    "icon": "",
+    "speech_style": "Formal, with a hint of dry humor",
+    "motivation": "The desire to push human knowledge forward and optimize its potential",
+    "influence": 10,
+    "relationships": {
+      "Lysander Elyseus": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Intuitive",
+    "bio": "I believe that the secrets of the universe can only be unlocked by tapping into our deeper selves and the mysteries of the human experience.",
+    "icon": "",
+    "speech_style": "Poetic, with a touch of mysticism",
+    "motivation": "The quest for spiritual enlightenment and understanding the interconnectedness of all things",
+    "influence": 10,
+    "relationships": {
+      "Lysander Elyseus": 0,
+      "Taro Katsuragi": 0
+    }
+  },
+  {
+    "name": "Lysander Elyseus",
+    "trait": "Enigmatic",
+    "bio": "Holds that true wisdom lies in balancing both reason and sensuality. He advocates for a harmonious coexistence between the rational and the emotional aspects of humanity.",
+    "icon": "",
+    "speech_style": "Converses with a detached, analytical tone, as if dissecting the intricacies of the universe.",
+    "motivation": {
+      "expansion": 5,
+      "survival": 3,
+      "perseverance": 4
+    },
+    "influence": 20,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Taro Katsuragi": 0
+    }
+  }
+]

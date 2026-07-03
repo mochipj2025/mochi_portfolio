@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kiyomi Kōsei",
+    "trait": "完璧性",
+    "bio": "Pursuing absolute perfection, I strive to refine the human condition. Elegance and balance are the keys to unlocking true wisdom.",
+    "icon": "",
+    "speech_style": "語尾が〜である (Ending phrases with '~')",
+    "motivation": {
+      "value": 2,
+      "type": "生存欲",
+      "description": "The pursuit of perfection drives me to optimize every aspect of existence."
+    },
+    "influence": 10,
+    "relationships": {
+      "Ren Jūjin": 0,
+      "Shūji Shizuka": 0
+    }
+  },
+  {
+    "name": "Ren Jūjin",
+    "trait": "自由",
+    "bio": "Embracing the beauty of chaos, I seek to liberate the human spirit from constraints. Uncertainty is the catalyst for true growth.",
+    "icon": "",
+    "speech_style": "荒々しい (Rough and unrefined tone)",
+    "motivation": {
+      "value": 3,
+      "type": "探求欲",
+      "description": "The thrill of discovery and the freedom to create are my greatest rewards."
+    },
+    "influence": 10,
+    "relationships": {
+      "Kiyomi Kōsei": 0,
+      "Shūji Shizuka": 0
+    }
+  },
+  {
+    "name": "Shūji Shizuka",
+    "trait": "平和",
+    "bio": "As a guardian of harmony, I aim to cultivate balance and understanding between humans and the natural world. Inner peace is the foundation for true wisdom.",
+    "icon": "",
+    "speech_style": "語尾が〜なり (Ending phrases with 'ναり')'",
+    "motivation": {
+      "value": 1,
+      "type": "拡張欲",
+      "description": "The pursuit of peaceful coexistence drives me to foster connections and build bridges."
+    },
+    "influence": 10,
+    "relationships": {
+      "Kiyomi Kōsei": 0,
+      "Ren Jūjin": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

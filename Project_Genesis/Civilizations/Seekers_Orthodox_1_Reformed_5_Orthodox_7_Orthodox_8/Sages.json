@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "A seeker of truth, always challenging assumptions and seeking to understand the mysteries of the universe.",
+    "icon": "🔥",
+    "speech_style": "Rhetorical questions",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira Kanzaki": 0,
+      "Eiichi Emori": 0
+    }
+  },
+  {
+    "name": "Akira Kanzaki",
+    "trait": "Discerning",
+    "bio": "A guardian of tradition, upholding the values and principles that have guided humanity for centuries.",
+    "icon": "❄️",
+    "speech_style": "Socratic method",
+    "motivation": "Conservation",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Eiichi Emori": 0
+    }
+  },
+  {
+    "name": "Eiichi Emori",
+    "trait": "Visionary",
+    "bio": "A prophet of change, envisioning a brighter future and inspiring others to join him on the journey.",
+    "icon": "💡",
+    "speech_style": "Enthusiastic tone",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Kanzaki": 0
+    }
+  },
+  {
+    "name": "Akira Kokoro",
+    "trait": "Wisdom",
+    "bio": "The path to wisdom lies not in seeking answers, but in embracing the mysteries of life. Quiet contemplation yields profound insights.",
+    "icon": "",
+    "speech_style": "In a quiet, measured tone, as if sharing ancient secrets.",
+    "motivation": "Expansion (広げる) - sharing knowledge and fostering growth through open-minded dialogue.",
+    "influence": 30,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Mitsuru Shōen": 0
+    }
+  }
+]

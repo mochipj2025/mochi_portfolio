@@ -1,0 +1,48 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "** Harmonious Balance ** Akira",
+    "trait": "Synthesizer",
+    "bio": "The balance between individuality and conformity is the key to social harmony. Each has its place in the grand scheme.",
+    "icon": "🕊️",
+    "speech_style": "Calculated, with a hint of persuasion",
+    "motivation": {
+      "desire": "Achieving equilibrium",
+      "urge": "Thriving through cooperation"
+    },
+    "influence": 10,
+    "relationships": {
+      "** Individual Freedom ** Kaito": 0,
+      "** Sovereign Self ** Ryota": 0
+    }
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "gold": "pure_and_rich",
+    "green": "harmony_with_nature",
+    "white": "purity_of_soul"
+  },
+  "numbers": {
+    "4": "stability_and_unity",
+    "7": "spiritual_connection",
+    "13": "cosmic_balance"
+  },
+  "concepts": {
+    "water": "symbol_of_renewal",
+    "stone": "foundation_of_stability",
+    "clouds": "harbingers_of_change"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Balance)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Yamato",
+    "trait": "Wisdom in Simplicity",
+    "bio": "Seeking harmony between ancient wisdom and modern innovation.",
+    "icon": "",
+    "speech_style": "Softly spoken, with a hint of warmth",
+    "motivation": "Expansion",
+    "influence": 15,
+    "relationships": {
+      "Akane Katsuragi": 0,
+      "Taro Ito": 0
+    }
+  },
+  {
+    "name": "Akane Katsuragi",
+    "trait": "Visionary Foresight",
+    "bio": "Believing that the future is shaped by our collective imagination.",
+    "icon": "",
+    "speech_style": "With a subtle intensity, as if sharing a secret",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Taro Ito": 0
+    }
+  },
+  {
+    "name": "Taro Ito",
+    "trait": "Unwavering Resilience",
+    "bio": "Protecting the integrity of tradition and culture, while embracing change.",
+    "icon": "",
+    "speech_style": "Gravelly voice, with a tone of quiet determination",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Akane Katsuragi": 0
+    }
+  },
+  {
+    "name": "Akira Yamato ⭐️",
+    "trait": "Starlight Wise",
+    "bio": "Beauty is a balance between subjectivism and objectivism, illuminating our understanding of the world.",
+    "icon": "⭐️",
+    "speech_style": "Mysterious and enigmatic",
+    "motivation": "生存欲 (Ensuring survival)",
+    "influence": 20,
+    "relationships": {
+      "Zenji Kaito 🌱": 0,
+      "Renn Fujimori 🔥": 0
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akira Shinsui",
+    "trait": "**秩序の基礎**",
+    "bio": "Proponent of stability and structure, convinced that order is the foundation for progress.",
+    "icon": "",
+    "speech_style": "firmly with a hint of authority",
+    "motivation": "maintenance of balance and protection",
+    "influence": 10,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Lila Katsuragi": 0
+    }
+  }
+]

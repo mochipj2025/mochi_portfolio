@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kokoro",
+    "trait": "Serene",
+    "bio": "The harmony between nature and humanity is the key to unlocking our true potential. Embracing the subtle balance of duality, I guide seekers towards a deeper understanding of themselves and the world.",
+    "icon": "",
+    "speech_style": "Softly spoken with gentle inflections",
+    "motivation": "Expansive desire",
+    "influence": 10,
+    "relationships": {
+      "Akira Arashi": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Akira Arashi",
+    "trait": "Unbridled",
+    "bio": "The fire that burns within us must be fueled by unyielding curiosity and a willingness to challenge the status quo. Through radical inquiry, I empower individuals to reclaim their place in the world.",
+    "icon": "",
+    "speech_style": "Passionate declarations with deliberate pauses for emphasis",
+    "motivation": "Exploratory desire",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kokoro": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Lila Lunaria",
+    "trait": "Enigmatic",
+    "bio": "The mysteries of the universe are woven into the fabric of our existence. By aligning ourselves with the celestial rhythms, we can tap into the hidden patterns guiding our journey.",
+    "icon": "",
+    "speech_style": "Whispered insights with subtle nods and knowing glances",
+    "motivation": "Survival instinct",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kokoro": 0,
+      "Akira Arashi": 0
+    }
+  },
+  {
+    "name": "Lila Lotusblume",
+    "trait": "Vibrant",
+    "bio": "Thinks that the lost legends hold the key to understanding the present. Seeks to revive the spirit of New Genesis 300.",
+    "icon": "",
+    "speech_style": "Uses metaphors and allegories",
+    "motivation": "Survival",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Arashi": 0
+    }
+  }
+]

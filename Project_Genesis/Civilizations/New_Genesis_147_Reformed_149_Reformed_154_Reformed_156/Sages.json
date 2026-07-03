@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaizen Kokoro",
+    "trait": "Adaptability",
+    "bio": "Believes that unity is strength. Advocates for collective progress through continuous improvement.",
+    "icon": "",
+    "speech_style": "Smooth, gentle tone",
+    "motivation": "Expansive desire: to unify the world through shared knowledge and innovation.",
+    "influence": 40,
+    "relationships": {
+      "Renn Shinsei": 0,
+      "Mori Miko": 0
+    }
+  }
+]

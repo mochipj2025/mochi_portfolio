@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Kokoro",
+    "trait": "Wisdom beyond words",
+    "bio": "Seeking balance and harmony in a chaotic world.",
+    "icon": "💫",
+    "speech_style": "Melodic whispers",
+    "motivation": "Liberationalism: Freedom through knowledge",
+    "influence": 15,
+    "relationships": {
+      "Kenji Shinkai": 0,
+      "Emiko Kiyoshi": 0
+    }
+  },
+  {
+    "name": "Kenji Shinkai",
+    "trait": "Courage in the face of uncertainty",
+    "bio": "Pursuing innovation and progress without compromise.",
+    "icon": "⚡️",
+    "speech_style": "Forceful declarations",
+    "motivation": "Liberationalism: Emancipation through science",
+    "influence": 10,
+    "relationships": {
+      "Akira Kokoro": 0,
+      "Emiko Kiyoshi": 0
+    }
+  },
+  {
+    "name": "Emiko Kiyoshi",
+    "trait": "Compassion in the midst of turmoil",
+    "bio": "Fostering empathy and understanding to heal a fractured world.",
+    "icon": "☮️",
+    "speech_style": "Gentle murmurs",
+    "motivation": "Liberationalism: Liberation through love",
+    "influence": 10,
+    "relationships": {
+      "Akira Kokoro": 0,
+      "Kenji Shinkai": 0
+    }
+  },
+  {
+    "name": "Hiroto Kiyoshi",
+    "trait": "Serenity",
+    "bio": "Seeking balance in chaos, I guide harmony.",
+    "icon": "🌱",
+    "speech_style": "Gentle whispers",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Luminari Aki": 0,
+      "Taro Yamato": 0
+    }
+  }
+]

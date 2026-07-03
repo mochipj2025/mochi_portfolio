@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "Audacious",
+    "bio": "Believing that the collective good is paramount, I strive to ignite a passion for change within others. The flames of progress cannot be tamed, and I am its fiercest advocate.",
+    "icon": "🔥",
+    "speech_style": " Imperative and commanding, often ending with an upward intonation.",
+    "motivation": "Expansive Desire",
+    "influence": 10,
+    "relationships": {
+      "Akane Asakura": 0,
+      "Renn Fujimori": 0
+    }
+  },
+  {
+    "name": "Akane Asakura",
+    "trait": "Whimsical",
+    "bio": "I seek to harmonize the discordant notes of human existence by embracing the beauty within. The stars align when individuals come together to create something greater than themselves.",
+    "icon": "💫",
+    "speech_style": "Gently meandering, with a soothing cadence that weaves in and out of poetic metaphors.",
+    "motivation": "Exploratory Desire",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Fujimori": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori",
+    "trait": "Pragmatic",
+    "bio": "I believe that the pursuit of collective knowledge is the greatest good. By carefully considering each step, we can build a sturdy foundation for progress – one brick at a time.",
+    "icon": "🔒",
+    "speech_style": "Firm and calculated, often punctuating points with a deliberate pause.",
+    "motivation": "Survival Instinct",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akane Asakura": 0
+    }
+  },
+  {
+    "name": "Eiichi Emori",
+    "trait": "Visionary",
+    "bio": "A prophet of change, envisioning a brighter future and inspiring others to join him on the journey.",
+    "icon": "💡",
+    "speech_style": "Enthusiastic tone",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Kanzaki": 0
+    }
+  }
+]

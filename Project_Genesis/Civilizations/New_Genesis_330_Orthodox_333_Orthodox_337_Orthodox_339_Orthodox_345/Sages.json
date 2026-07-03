@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Akihiro Katsuragi",
+    "trait": "Vigorous",
+    "bio": "Natural Leader: Akihiro believes that the strongest individual should lead the way to progress. He emphasizes personal strength, intuition, and bold action over collective decision-making or caution.",
+    "icon": "🔥",
+    "speech_style": " Imperative and commanding, finishing each sentence with a confident nod.",
+    "motivation": "Expansive Desire (to conquer new territories and expand humanity's reach)",
+    "influence": 15,
+    "relationships": {
+      "Kiyomi Sora": 0,
+      "Ren Mikado": 0
+    }
+  },
+  {
+    "name": "Kiyomi Sora",
+    "trait": "Ethereal",
+    "bio": "Harmonious Coexistence: Kiyomi advocates for a collective approach to progress, emphasizing the importance of empathy, understanding, and cooperation. She believes that compassion and unity will lead to a brighter future.",
+    "icon": "💫",
+    "speech_style": "Whispery and melodious, punctuated by gentle nods.",
+    "motivation": "Survival Instinct (to protect and preserve humanity's delicate balance)",
+    "influence": 10,
+    "relationships": {
+      "Akihiro Katsuragi": 0,
+      "Ren Mikado": 0
+    }
+  },
+  {
+    "name": "Ren Mikado",
+    "trait": "Cunning",
+    "bio": "Innovative Reason: Ren is a proponent of intellectual curiosity and the pursuit of knowledge. He believes that the path to progress lies in questioning assumptions, embracing ambiguity, and acknowledging the complexity of human nature.",
+    "icon": "⚡️",
+    "speech_style": "Rapid-fire and analytical, peppered with wry observations.",
+    "motivation": "Exploratory Urge (to uncover hidden truths and push the boundaries of understanding)",
+    "influence": 10,
+    "relationships": {
+      "Akihiro Katsuragi": 0,
+      "Kiyomi Sora": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

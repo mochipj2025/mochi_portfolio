@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "ink": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection",
+    "3": "harmony"
+  },
+  "concepts": {
+    "ash": "remembrance_of_the_past",
+    "tree": "symbol_of_growth_and_continuity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Takashi Kusunoki:  客觀化**\n\n(Implying a debate between the ideas of \"perfection\" and \"objectification\")"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Shinzen",
+    "trait": "Unyielding",
+    "bio": "Embracing the pursuit of knowledge and truth, Kaito sees himself as the embodiment of autonomous reasoning, shunning external influences and biases.",
+    "icon": "⚔️",
+    "speech_style": "Firm, assertive tone with a hint of steeliness",
+    "motivation": "Expansion: Seeking to expand human understanding through rigorous inquiry and debate",
+    "influence": 10,
+    "relationships": {
+      "Sora Katsuragi": 0,
+      "Takeru Kuroba": 0
+    }
+  },
+  {
+    "name": "Sora Katsuragi",
+    "trait": "Ethereal",
+    "bio": "As a spiritual seeker, Sora believes that true wisdom lies beyond the confines of mortal comprehension, and that harmony with the universe is the key to unlocking higher truths.",
+    "icon": "✨",
+    "speech_style": "Whispery, poetic tone with a hint of mysticism",
+    "motivation": "Survival: Seeking to transcend mortality through communion with the cosmos",
+    "influence": 10,
+    "relationships": {
+      "Kaito Shinzen": 0,
+      "Takeru Kuroba": 0
+    }
+  },
+  {
+    "name": "Takeru Kuroba",
+    "trait": "Inquisitive",
+    "bio": "As an investigator, Takeru sees the pursuit of knowledge as a never-ending quest for the truth, driven by curiosity and a desire to unravel the mysteries of existence.",
+    "icon": "🔪️",
+    "speech_style": "Rhetorical, probing tone with a hint of mischievousness",
+    "motivation": "Exploration: Seeking to uncover new secrets and push the boundaries of human understanding",
+    "influence": 10,
+    "relationships": {
+      "Kaito Shinzen": 0,
+      "Sora Katsuragi": 0
+    }
+  },
+  {
+    "name": "Akira Sakura",
+    "trait": "Balance",
+    "bio": "Embracing harmony and stability through the pursuit of knowledge.",
+    "icon": "🏯",
+    "speech_style": "Soft-spoken, yet firm, with a gentle rhythm",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Renn Fujimoto": 0
+    }
+  }
+]

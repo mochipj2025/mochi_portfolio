@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "revolution",
+    "black": "mourning"
+  },
+  "numbers": {
+    "1": "unity",
+    "3": "trifecta_of_freedom"
+  },
+  "concepts": {
+    "fire": "symbol_of_revolution_and_rebirth",
+    "book": "source_of_knowledge_and_wisdom"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Radicalism**\n\nThe two sides have drastically different views on how to address societal issues. The conservative side, represented by 賢者1 and 賢者2, emphasizes the importance of respecting current social norms and values, prioritizing stability and order over radical change. They argue that people have a right to peaceful coexistence and that aligning oneself with established social hierarchies is necessary for achieving this.\n\nOn the other hand, the radical side, represented by 賢者3, advocates for shaking off the shackles of past oppression and creating a new history through revolutionary means. They believe that the current societal order is inherently flawed and that people are inherently free to create their own destiny, regardless of established norms or hierarchies.\n\nThese two ideologies embody fundamentally different worldviews, with the former prioritizing stability and tradition, while the latter emphasizes individual freedom and radical change. The conflict between these two perspectives will have significant social implications, affecting power dynamics (+5), wealth (-10), and faith (0)."
+    }
+  ]
+}

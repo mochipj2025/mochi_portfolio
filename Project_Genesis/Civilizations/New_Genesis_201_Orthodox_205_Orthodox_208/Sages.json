@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kanata Kaito",
+    "trait": " Calculative ",
+    "bio": "Believes that human behavior is governed by deterministic laws and that free will is an illusion.",
+    "icon": "",
+    "speech_style": " Precise, measured tone, often using technical jargon. ",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Lila Luna": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "Lila Luna",
+    "trait": " Empathetic ",
+    "bio": "Believes that individual agency and free will are essential for human flourishing and that determinism is a threat to personal autonomy.",
+    "icon": "",
+    "speech_style": " Soft-spoken, gentle tone, often using emotional appeals. ",
+    "motivation": "Protection",
+    "influence": 10,
+    "relationships": {
+      "Kanata Kaito": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "Akira Akiyama",
+    "trait": " Inquisitive ",
+    "bio": "Believes that humans have the capacity for both determinism and free will, and that the key to understanding is through ongoing inquiry and observation.",
+    "icon": "",
+    "speech_style": " Curious, probing tone, often asking rhetorical questions. ",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kanata Kaito": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

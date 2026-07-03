@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "ember": "warmth_of_community",
+    "midnight_blue": "mystery_of_the_unseen"
+  },
+  "numbers": {
+    "seven": "harmony_with_nature",
+    "eleven": "balance_between_light_and_dark"
+  },
+  "concepts": {
+    "river": "journey_of_growth_andTransformation",
+    "starlight": "guiding_force_for_innovation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

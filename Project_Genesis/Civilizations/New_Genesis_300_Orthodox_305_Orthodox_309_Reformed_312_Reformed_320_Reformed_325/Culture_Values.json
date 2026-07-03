@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "green": "life_giving",
+    "brown": "earthy"
+  },
+  "numbers": {
+    "4": "stability"
+  },
+  "concepts": {
+    "water": "symbol_of_sustenance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Conservation**\n\nIn this debate, Mikkan's emphasis on innovation and progress is pitted against the wisdom of balance and conservation advocated by the three sages. The former seeks to break new ground and uncover new truths, while the latter prioritizes stability and harmony in all aspects of society."
+    }
+  ]
+}

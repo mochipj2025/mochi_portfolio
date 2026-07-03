@@ -1,0 +1,63 @@
+[
+  {
+    "name": "天界の使徒 Kaito",
+    "trait": "哲学的な気質",
+    "bio": "世界を通じての新しい秩序を創造するために、天界の使徒としての務めに取り組む。",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": {
+      "explore": 8,
+      "survive": 3,
+      "expand": 2
+    },
+    "influence": 10,
+    "relationships": {
+      "闇の探検者 Akira": 0,
+      "未来の創造者 Lena": 0
+    }
+  },
+  {
+    "name": "闇の探検者 Akira",
+    "trait": "暗くてきめの気質",
+    "bio": "闇に潜む真実を探し、闇の力で人間を解放することを目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜ない",
+    "motivation": {
+      "explore": 9,
+      "survive": 1,
+      "expand": 4
+    },
+    "influence": 10,
+    "relationships": {
+      "天界の使徒 Kaito": 0,
+      "未来の創造者 Lena": 0
+    }
+  },
+  {
+    "name": "未来の創造者 Lena",
+    "trait": "理想的な気質",
+    "bio": "新しい文明を創造し、人間の歴史を見据えて将来を切り拓くことを目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜ね",
+    "motivation": {
+      "explore": 6,
+      "survive": 5,
+      "expand": 9
+    },
+    "influence": 10,
+    "relationships": {
+      "天界の使徒 Kaito": 0,
+      "闇の探検者 Akira": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

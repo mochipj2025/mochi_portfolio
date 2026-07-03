@@ -1,0 +1,37 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Rei Kurenai",
+    "trait": "Pragmatist",
+    "bio": "A master strategist who prioritizes practicality and effectiveness. Focuses on solving problems and achieving tangible results.",
+    "motivation": "拡張欲 (Expansion)",
+    "influence": 25,
+    "relationships": {
+      "Akira Kazehaya": 0,
+      "Kaito Ryujin": 0
+    }
+  }
+]

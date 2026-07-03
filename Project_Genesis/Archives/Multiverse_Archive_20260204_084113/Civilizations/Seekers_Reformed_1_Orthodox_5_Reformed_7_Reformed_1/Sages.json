@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Mysterious",
+    "bio": "Embracing the power of nature, I seek to understand the intricacies of the universe.",
+    "icon": "",
+    "speech_style": "Hesitant, yet insightful",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Akira Yamato": 0,
+      "Takashi Morimoto": 0
+    }
+  },
+  {
+    "name": "Akira Yamato",
+    "trait": "Charismatic",
+    "bio": "As a child of the divine, I know that true wisdom lies beyond the confines of mortal comprehension.",
+    "icon": "",
+    "speech_style": "Confident, yet persuasive",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Takashi Morimoto": 0
+    }
+  },
+  {
+    "name": "Takashi Morimoto",
+    "trait": "Enigmatic",
+    "bio": "In the silence of contemplation, I find the truth that transcends the bounds of human knowledge.",
+    "icon": "",
+    "speech_style": "Whispery, yet piercing",
+    "motivation": "Pursuit (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Yamato": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

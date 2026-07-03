@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kaida",
+    "trait": "Insightful",
+    "bio": "I believe that the course of human events is shaped by the choices we make. Free will is the foundation upon which our civilization stands.",
+    "icon": ":star:",
+    "speech_style": "Softly spoken, with a gentle emphasis on key points.",
+    "motivation": "Exploration (探求欲)",
+    "influence": 25,
+    "relationships": {
+      "Akira Akiyama": 0,
+      "Lila Luminari": 0
+    }
+  }
+]

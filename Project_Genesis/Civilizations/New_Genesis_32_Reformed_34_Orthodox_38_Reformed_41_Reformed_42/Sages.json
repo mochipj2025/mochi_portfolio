@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Zenith 'Z' Kaida",
+    "trait": "Cerebral",
+    "bio": "I believe that existentialism is the only way to truly find meaning. Our reality may be simulated, but our existence is what gives it purpose.",
+    "icon": "",
+    "speech_style": "Smooth, calculated tone with a hint of dry humor",
+    "motivation": "Survival",
+    "influence": 30,
+    "relationships": {
+      "Kai 'Sim' Liao": 0,
+      "Akira 'Axiom' Tanaka": 0
+    }
+  },
+  {
+    "name": "Kai 'Sim' Liao",
+    "trait": "Adaptable",
+    "bio": "Simulationism is the key to understanding our reality. By embracing the possibility that we're just code, we can find new ways to optimize our existence.",
+    "icon": "",
+    "speech_style": "Quick-witted and fast-paced, with a tendency to interrupt others",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Zenith 'Z' Kaida": 0,
+      "Akira 'Axiom' Tanaka": 0
+    }
+  },
+  {
+    "name": "Akira 'Axiom' Tanaka",
+    "trait": "Enigmatic",
+    "bio": "I don't believe in either existentialism or simulationism. Reality is whatever we make it, and I'll do whatever it takes to ensure our existence has meaning.",
+    "icon": "",
+    "speech_style": "Mysterious and cryptic, often leaving others wondering what they really mean",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Zenith 'Z' Kaida": 0,
+      "Kai 'Sim' Liao": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 35,
+    "relationships": {}
+  }
+]

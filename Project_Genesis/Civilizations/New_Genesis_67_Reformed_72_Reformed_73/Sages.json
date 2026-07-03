@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Arago",
+    "trait": "Fairness",
+    "bio": "Believes that balance and fairness are the keys to a harmonious society. Seeks to mediate conflicts and promote understanding.",
+    "icon": "🔮",
+    "speech_style": "Soft-spoken",
+    "motivation": "Expansive",
+    "influence": 10,
+    "relationships": {
+      "Kaidō": 0,
+      "Rennaku": 0
+    }
+  },
+  {
+    "name": "Kaidō",
+    "trait": "Innovation",
+    "bio": "Thrilled by the possibilities of human imagination, Kaidō believes that creativity is the spark that drives progress. He advocates for bold experimentation and calculated risk-taking.",
+    "icon": "✨",
+    "speech_style": "Ebullient",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Rennaku": 0
+    }
+  },
+  {
+    "name": "Rennaku",
+    "trait": "Analysis",
+    "bio": "A rational thinker who values evidence-based reasoning, Rennaku is cautious about leaping into action without thorough analysis. He seeks to uncover underlying principles and patterns before making recommendations.",
+    "icon": "🔍",
+    "speech_style": "Dry wit",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Kaidō": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

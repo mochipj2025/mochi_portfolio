@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "blue": "truth",
+    "silver": "cunning"
+  },
+  "numbers": {
+    "7": "balance",
+    "11": "illumination"
+  },
+  "concepts": {
+    "memory": "keystone_to_identity",
+    "storytelling": "way_to_connect_pasts_and_futures"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

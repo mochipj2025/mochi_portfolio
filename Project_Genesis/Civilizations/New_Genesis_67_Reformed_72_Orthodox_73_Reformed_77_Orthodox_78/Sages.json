@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Renn Fujiki",
+    "trait": "一言の気質",
+    "bio": "「自由を擁護する」信念を持つ Rennは、個性の尊厳を重要視し、新しい概念やアイデアに積極的に取り組む。",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 15,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Lila Hirota": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "一言の気質",
+    "bio": "「秩序を維持する」信念を持つ Akiraは、個性の多様性を認めるが、同時に社会的秩序を重ねる。",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujiki": 0,
+      "Lila Hirota": 0
+    }
+  },
+  {
+    "name": "Lila Hirota",
+    "trait": "一言の気質",
+    "bio": "「知恵を得る」信念を持つ Lilaは、知識や経験を積み重ねて、新しい可能性に目を向ける。",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujiki": 0,
+      "Akira Katsuragi": 0
+    }
+  },
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Pragmatic Idealist",
+    "bio": "A proponent of regulated capitalism, believing that individual freedom and private property can coexist harmoniously. Kaito advocates for a balanced approach between the economic benefits of market forces and the social welfare needs of the community.",
+    "icon": "💔",
+    "speech_style": "Erudite and measured, with a hint of dry wit",
+    "motivation": "Expansion",
+    "influence": 15,
+    "relationships": {
+      "Renn Fujimoto": 0,
+      "Lila Luna": 0
+    }
+  }
+]

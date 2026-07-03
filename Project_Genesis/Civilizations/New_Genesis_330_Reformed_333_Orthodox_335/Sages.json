@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Nexus",
+    "trait": "Synthesizing",
+    "bio": "Meaning emerges from the intersection of creativity and adaptation. By embracing both perspectives, we can forge a new path forward.",
+    "icon": "",
+    "speech_style": "Philosophical meandering",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Luminari": 0,
+      "Adaptus": 0
+    }
+  }
+]

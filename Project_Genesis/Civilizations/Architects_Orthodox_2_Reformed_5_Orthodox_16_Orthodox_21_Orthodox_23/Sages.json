@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Sharp",
+    "bio": "物質的実現を追求し、技術や資源を基盤とする社会の創造に尽力する。",
+    "icon": "",
+    "speech_style": "語尾が〜てある、硬い",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Amamiya": 0,
+      "Taro Tanaka": 0
+    }
+  },
+  {
+    "name": "Akira Amamiya",
+    "trait": "Curious",
+    "bio": "個性を尊ぶ自由主義者で、創造や発見に熱く尽力する。",
+    "icon": "",
+    "speech_style": "語尾が〜なる、柔軟",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Taro Tanaka": 0
+    }
+  },
+  {
+    "name": "Taro Tanaka",
+    "trait": "Practical",
+    "bio": "実践的なアプローチで問題解決に向かう実現主義者で、技術や経済を基盤とする社会の改善に力を尽くする。",
+    "icon": "",
+    "speech_style": "語尾が〜ます、謙虚",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Amamiya": 0
+    }
+  },
+  {
+    "name": "Shiori Sakura",
+    "trait": "Nurturing",
+    "bio": "I believe that human choices shape our reality. We have the power to break free from predetermined paths and forge our own destinies.",
+    "icon": "",
+    "speech_style": "Soft-spoken and empathetic, with a calming presence",
+    "motivation": "Protective",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Koji Katsuragi": 0
+    }
+  }
+]

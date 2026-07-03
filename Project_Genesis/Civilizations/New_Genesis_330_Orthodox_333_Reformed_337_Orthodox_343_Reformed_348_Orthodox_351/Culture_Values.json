@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "divine",
+    "white": "purity"
+  },
+  "numbers": {
+    "4": "stability",
+    "7": "perfection"
+  },
+  "concepts": {
+    "light": "symbol_of_knowledge"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: **完璧性 "
+    }
+  ]
+}

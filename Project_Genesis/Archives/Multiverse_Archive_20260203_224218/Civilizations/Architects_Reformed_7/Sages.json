@@ -1,0 +1,35 @@
+[
+  {
+    "name": " Kokoro Kaito",
+    "trait": "Tradition's Guardian",
+    "bio": "A stalwart defender of time-honored wisdom, Kokoro values continuity and stability. He believes that the old ways hold the key to a brighter future.",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      " Taro Takeshi": 0,
+      " Kaito Kaizen": 0
+    }
+  },
+  {
+    "name": " Taro Takeshi",
+    "trait": "Innovator's Blaze",
+    "bio": "A fiery enthusiast for progress, Taro thrives on innovation and disruption. He sees tradition as a constraint, not a comfort.",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      " Kokoro Kaito": 0,
+      " Kaito Kaizen": 0
+    }
+  },
+  {
+    "name": " Kaito Kaizen",
+    "trait": "Pragmatic Pilgrim",
+    "bio": "A seasoned explorer of the human condition, Kaito seeks practical solutions to life's challenges. He believes in adapting to changing circumstances and finding harmony within.",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      " Kokoro Kaito": 0,
+      " Taro Takeshi": 0
+    }
+  }
+]

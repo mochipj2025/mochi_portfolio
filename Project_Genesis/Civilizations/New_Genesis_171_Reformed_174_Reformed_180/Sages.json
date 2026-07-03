@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Akira Kagen",
+    "trait": "Wisdom's Anchor",
+    "bio": "Akira believes that true progress stems from embracing the contradictions within ourselves. He seeks to reconcile the harmony between reason and emotion, forging a path forward through the complexities of human nature.",
+    "icon": "",
+    "speech_style": "Smooth and deliberate, with a hint of softness",
+    "motivation": "Life's harmony",
+    "influence": 15,
+    "relationships": {
+      "Takeru Jinma": 0,
+      "Kaito Rennyo": 0
+    }
+  },
+  {
+    "name": "Takeru Jinma",
+    "trait": "Fiery Compassion",
+    "bio": "Takeru is driven by the conviction that true liberation lies in embracing our deepest desires and fears. He strives to ignite the sparks of creativity within others, freeing them from the constraints of conformity.",
+    "icon": "",
+    "speech_style": "Passionate and intense, with a rhythmic cadence",
+    "motivation": "Expanding horizons",
+    "influence": 10,
+    "relationships": {
+      "Akira Kagen": 0,
+      "Kaito Rennyo": 0
+    }
+  },
+  {
+    "name": "Kaito Rennyo",
+    "trait": "Cosmic Curiosity",
+    "bio": "Kaito believes that the pursuit of knowledge is a never-ending adventure. He seeks to unravel the mysteries of existence, delving into the unknown to uncover hidden truths and shed light on the paths not taken.",
+    "icon": "",
+    "speech_style": "Whimsical and detached, with a hint of slyness",
+    "motivation": "Unraveling secrets",
+    "influence": 10,
+    "relationships": {
+      "Akira Kagen": 0,
+      "Takeru Jinma": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

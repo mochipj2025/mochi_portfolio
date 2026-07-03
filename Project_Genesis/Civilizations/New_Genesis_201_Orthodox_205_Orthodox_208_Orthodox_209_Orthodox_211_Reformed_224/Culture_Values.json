@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "black": "mourning"
+  },
+  "numbers": {
+    "7": "apocalyptic",
+    "4": " balance"
+  },
+  "concepts": {
+    "wisdom": "path_to_divinity",
+    "nature": "harmony_with_the_universe"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  深み"
+    }
+  ]
+}

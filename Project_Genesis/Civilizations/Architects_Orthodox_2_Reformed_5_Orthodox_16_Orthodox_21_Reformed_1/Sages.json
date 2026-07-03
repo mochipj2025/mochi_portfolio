@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Ambitious",
+    "bio": "I believe that human destiny is predetermined by our genes and environment. We must accept our fate and strive to optimize our circumstances.",
+    "icon": "",
+    "speech_style": "Forceful and direct, with a hint of arrogance",
+    "motivation": "Expansive",
+    "influence": 10,
+    "relationships": {
+      "Shiori Sakura": 0,
+      "Koji Katsuragi": 0
+    }
+  }
+]

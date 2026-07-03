@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "divine",
+    "blue": "wisdom",
+    "white": "transformation"
+  },
+  "numbers": {
+    "7": "perfection",
+    "4": "stability"
+  },
+  "concepts": {
+    "water": "symbol_of_clarity",
+    "light": "source_of_insight"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: ** 世界は意志によって形作られる"
+    }
+  ]
+}

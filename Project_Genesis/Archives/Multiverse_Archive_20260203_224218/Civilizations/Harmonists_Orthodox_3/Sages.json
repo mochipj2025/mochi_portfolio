@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Takeshi Kojiki",
+    "trait": "Traditional",
+    "bio": "A steadfast guardian of ancient wisdom, Takeshi values the timelessness of traditional knowledge and practices. He believes that harmonizing with nature requires respecting the past.",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira Hikari": 0,
+      "Kaito Zenji": 0
+    }
+  },
+  {
+    "name": "Akira Hikari",
+    "trait": "Progressive",
+    "bio": "Akira is a visionary who sees the world as constantly evolving. She believes that innovation and progress are essential for survival, and that harmony can be achieved through embracing change.",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Takeshi Kojiki": 0,
+      "Kaito Zenji": 0
+    }
+  },
+  {
+    "name": "Kaito Zenji",
+    "trait": "Practical",
+    "bio": "A pragmatist at heart, Kaito focuses on the here and now. He believes that harmony is about finding balance within oneself and with the environment, rather than seeking grand ideals or lofty goals.",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Takeshi Kojiki": 0,
+      "Akira Hikari": 0
+    }
+  }
+]

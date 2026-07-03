@@ -1,0 +1,60 @@
+[
+  {
+    "name": "** Individual Freedom ** Kaito",
+    "trait": "Libertine",
+    "bio": "Embracing individuality is the key to personal growth. Conformity stifles creativity and innovation.",
+    "icon": "🔓",
+    "speech_style": "Inquiry-oriented, with a hint of curiosity",
+    "motivation": {
+      "desire": "Expanding possibilities",
+      "urge": "Survival through self-expression"
+    },
+    "influence": 10,
+    "relationships": {
+      "** Sovereign Self ** Ryota": 0,
+      "** Harmonious Balance ** Akira": 0
+    }
+  },
+  {
+    "name": "** Sovereign Self ** Ryota",
+    "trait": "Autonomous",
+    "bio": "One's own identity is the foundation for building a strong character. No external influence can usurp that.",
+    "icon": "👑",
+    "speech_style": "Direct, straightforward, with a touch of authority",
+    "motivation": {
+      "desire": "Protecting autonomy",
+      "urge": "Surviving through self-reliance"
+    },
+    "influence": 10,
+    "relationships": {
+      "** Individual Freedom ** Kaito": 0,
+      "** Harmonious Balance ** Akira": 0
+    }
+  },
+  {
+    "name": "** Harmonious Balance ** Akira",
+    "trait": "Synthesizer",
+    "bio": "The balance between individuality and conformity is the key to social harmony. Each has its place in the grand scheme.",
+    "icon": "🕊️",
+    "speech_style": "Calculated, with a hint of persuasion",
+    "motivation": {
+      "desire": "Achieving equilibrium",
+      "urge": "Thriving through cooperation"
+    },
+    "influence": 10,
+    "relationships": {
+      "** Individual Freedom ** Kaito": 0,
+      "** Sovereign Self ** Ryota": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "representative",
+    "gold": "sacred"
+  },
+  "numbers": {
+    "7": "special",
+    "4": "stable"
+  },
+  "concepts": {
+    "water": "symbol_of_purification",
+    "rock": "symbol_of_strength"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  不安**\n\n(Note: I've used short names that fit within the 10-character limit)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "holy",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "4": "completion",
+    "7": "perfection"
+  },
+  "concepts": {
+    "water": "symbol_of_purification",
+    "starlight": "guiding_force"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Reality-centric Philosophy"
+    }
+  ]
+}

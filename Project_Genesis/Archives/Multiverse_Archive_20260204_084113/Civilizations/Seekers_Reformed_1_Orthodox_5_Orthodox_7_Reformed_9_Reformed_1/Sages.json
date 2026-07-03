@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Renn Fujimori",
+    "trait": "Pioneering Spirit",
+    "bio": "Seekers Reformed 1's Progressivism is all about embracing innovation and pushing the boundaries. For Renn Fujimori, it's not just about finding new ways to do things, but also about lighting the way for others.",
+    "icon": "🔥",
+    "speech_style": "Energetic, with a dash of optimism",
+    "motivation": [
+      "Expansion",
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamada": 0,
+      "Shingo Matsumoto": 0
+    }
+  },
+  {
+    "name": "Kaito Yamada",
+    "trait": "Wise Conservator",
+    "bio": "Renn Fujimori's Orthodox 5 roots run deep for Kaito Yamada. He believes in preserving the best of what came before while being open to evolution. For him, progress is about refining, not revolutionizing.",
+    "icon": "🔮",
+    "speech_style": "Smooth and measured, with a hint of humor",
+    "motivation": [
+      "Survival",
+      "Stewardship"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori": 0,
+      "Shingo Matsumoto": 0
+    }
+  },
+  {
+    "name": "Shingo Matsumoto",
+    "trait": "Visionary Catalyst",
+    "bio": "Seekers Reformed 1's Progressive spirit meets Seekers Reformed 9's Reformed roots in Shingo Matsumoto. He's the spark that sets off chain reactions, driving change through creative collaboration.",
+    "icon": "💡",
+    "speech_style": "Inspirational and persuasive, with a hint of passion",
+    "motivation": [
+      "Pursuit",
+      "Exploration"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori": 0,
+      "Kaito Yamada": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

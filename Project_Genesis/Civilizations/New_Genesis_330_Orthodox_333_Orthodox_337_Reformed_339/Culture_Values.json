@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "black": "mourning",
+    "red": "revolutionary"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "perfectly imperfect"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "equality": "key_to_social_justice"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Akiyama:  Communism**\n\nIn this context, Capitalism represents Kaito's emphasis on private property as a driving force for individual achievement and innovation, while Communism embodies Akira's concerns about social inequality and the need for collective ownership to achieve greater good. These two perspectives represent the fundamental tension in this debate, highlighting the trade-offs between individual freedom and collective well-being."
+    }
+  ]
+}

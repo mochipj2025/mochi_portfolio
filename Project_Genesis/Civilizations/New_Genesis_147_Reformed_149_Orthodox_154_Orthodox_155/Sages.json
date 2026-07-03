@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Libero Spiritus",
+    "bio": "Believes that individual creativity and self-expression are the keys to unlocking human potential.",
+    "icon": "",
+    "speech_style": "Aria-like cadence, with an emphasis on every second syllable",
+    "motivation": "Exploratory Desire: Seeking new experiences and knowledge.",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Luna": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Serenus Imperator",
+    "bio": "Advocates for the importance of structure, discipline, and tradition in achieving true wisdom.",
+    "icon": "",
+    "speech_style": "Slow, deliberate tone with a hint of graveliness",
+    "motivation": "Survival Instinct: Protecting established orders and preventing chaos.",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Luna": 0
+    }
+  },
+  {
+    "name": "Luna",
+    "trait": "Luminaria Intellecta",
+    "bio": "Believes that the pursuit of knowledge and understanding is a sacred duty, and that harmony between opposing forces is the key to true wisdom.",
+    "icon": "",
+    "speech_style": "Whispery, ethereal tone with a soothing quality",
+    "motivation": "Expansion Desire: Seeking to expand human understanding and foster global cooperation.",
+    "influence": 15,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Eccentric",
+    "bio": "Innovate and disrupt the status quo. Unleash human creativity and passion.",
+    "icon": "🔥",
+    "speech_style": "Arrogant",
+    "motivation": "Expanding",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Taro": 0
+    }
+  }
+]

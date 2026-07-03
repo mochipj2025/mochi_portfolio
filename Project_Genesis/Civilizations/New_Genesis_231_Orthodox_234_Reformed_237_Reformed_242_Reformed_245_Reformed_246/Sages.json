@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akira Tsubasa",
+    "trait": "Visionary",
+    "bio": "Believes that individual freedom is a fundamental aspect of human nature, allowing us to shape our own destiny. Advocates for personal autonomy and creative expression.",
+    "icon": "✨",
+    "speech_style": "Enthusiastic and optimistic",
+    "motivation": "Desire for self-actualization (拡張欲)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Renn Fujimori": 0
+    }
+  }
+]

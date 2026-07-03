@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "black": "abyssal"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "chaotic"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "shadow": "gateway_to_the_unseen"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Projectionism**\n\nThought A (Intentionalism): There is a inherent intention or meaning in the shadow realm, beyond our own consciousness.\n\nThought B (Projectionism): The intentions and meanings we perceive are solely projections of our own minds and consciousness."
+    }
+  ]
+}

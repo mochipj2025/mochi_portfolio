@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "white": "purity",
+    "black": "remembrance"
+  },
+  "numbers": {
+    "7": "completion",
+    "14": "balance",
+    "42": "wisdom"
+  },
+  "concepts": {
+    "water": "source_of_life_and_renewal",
+    "clouds": "symbol_of_protection_and_guidance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: 思想A: Perfectionism "
+    }
+  ]
+}

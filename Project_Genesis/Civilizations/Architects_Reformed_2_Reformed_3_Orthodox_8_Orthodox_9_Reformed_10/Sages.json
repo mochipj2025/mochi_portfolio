@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "Akira",
+    "trait": "創造 (Creative)",
+    "bio": "Fosters innovative ideas and encourages experimentation. Believes that creativity is the engine driving human progress.",
+    "icon": "💡",
+    "speech_style": "excitable and enthusiastic, with a hint of nervous energy",
+    "motivation": "探求欲 (Exploration Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Kenji": 0
+    }
+  }
+]

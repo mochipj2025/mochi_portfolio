@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Dreamweaver",
+    "trait": "Mysterious",
+    "bio": "Sleep Quality advocates for the importance of sleep quality in achieving wisdom and emotional balance.",
+    "icon": "☁️",
+    "speech_style": "Slow and measured, with a hint of whispering",
+    "motivation": "探求欲 (Curiosity) - to uncover the secrets of the subconscious mind.",
+    "influence": 10,
+    "relationships": {
+      "Snoozleberry": 0,
+      "Luminari": 0
+    }
+  },
+  {
+    "name": "Snoozleberry",
+    "trait": "Witty",
+    "bio": "Sleep Quality prioritizes sufficient sleep hours for physical and mental rejuvenation.",
+    "icon": "😴",
+    "speech_style": "Fast-paced and sarcastic, with a dash of humor",
+    "motivation": "生存欲 (Survival Instinct) - to ensure the well-being of oneself and others.",
+    "influence": 10,
+    "relationships": {
+      "Dreamweaver": 0,
+      "Luminari": 0
+    }
+  },
+  {
+    "name": "Luminari",
+    "trait": "Enlightened",
+    "bio": "Sleep Quality emphasizes the connection between sleep quality and cognitive function.",
+    "icon": "🕯️",
+    "speech_style": "Clear and concise, with a touch of wisdom",
+    "motivation": "拡張欲 (Expansion) - to explore the boundaries of human potential and understanding.",
+    "influence": 10,
+    "relationships": {
+      "Dreamweaver": 0,
+      "Snoozleberry": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

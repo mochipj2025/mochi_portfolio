@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "gold": "divine",
+    "blue": "calming",
+    "white": "purity"
+  },
+  "numbers": {
+    "3": "lucky",
+    "9": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life",
+    "earth": "foundation_of_stability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: Here are the two opposing ideologies:\n\n**Stability "
+    }
+  ]
+}

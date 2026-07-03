@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "blue": "symbol_of_trust"
+  },
+  "numbers": {
+    "330": "harmonious_union",
+    "333": "lucky_charm_for_new_beginnings"
+  },
+  "concepts": {
+    "fire": "symbol_of_purification_and_renewal",
+    "water": "symbol_of_life_and_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Indeterminism**\n\nThought A (Determinism): The course of events is predetermined and irreversible, with no room for human agency or new beginnings.\n\nThought B (Indeterminism): Human action can shape the future, and there are always possibilities for new starts and developments."
+    }
+  ]
+}

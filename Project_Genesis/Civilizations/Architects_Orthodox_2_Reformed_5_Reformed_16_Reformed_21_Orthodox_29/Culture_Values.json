@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "symbol_of_wisdom",
+    "white": "representing_purity_and_sincerity"
+  },
+  "numbers": {
+    "4": "balance_and_harmony",
+    "7": "mystery_and_perfection"
+  },
+  "concepts": {
+    "water": "source_of_life_and_reflection"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: **自由 "
+    }
+  ]
+}

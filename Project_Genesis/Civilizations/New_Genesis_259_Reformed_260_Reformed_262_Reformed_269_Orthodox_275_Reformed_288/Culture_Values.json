@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "white": "purity"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "symbol_of_transformation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Idealism**\n\nOn one hand, Realism (賢者1) emphasizes the importance of preparing for tomorrow and being practical about one's needs. This perspective values stability and security, recognizing that life is unpredictable.\n\nOn the other hand, Idealism (賢者2) prioritizes living in the moment and valuing the present above all else. This perspective sees food as a fundamental right and a means to sustain life, rather than just a means to an end.\n\nThese two perspectives represent fundamentally different worldviews, with Realism emphasizing practicality and stability, while Idealism emphasizes passion and spontaneity.\n\nWhat do you think? 🤔"
+    }
+  ]
+}

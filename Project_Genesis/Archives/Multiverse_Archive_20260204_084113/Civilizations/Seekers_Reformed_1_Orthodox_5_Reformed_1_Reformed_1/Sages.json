@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kuzuri",
+    "trait": "Philosophical Skeptic",
+    "bio": "Seeking the truth in the gray areas between determinism and free will. I believe that our perceptions are influenced by both internal and external factors.",
+    "icon": "🔭",
+    "speech_style": "Ending sentences with a questioning tone, as if seeking further clarification",
+    "motivation": "Explore",
+    "influence": 10,
+    "relationships": {
+      "Akira Amaterasu": 0,
+      "Shiho Shinkai": 0
+    }
+  },
+  {
+    "name": "Akira Amaterasu",
+    "trait": "Passionate Idealist",
+    "bio": "I believe that human agency is the key to shaping our reality. By embracing our free will, we can create positive change and build a brighter future.",
+    "icon": "✨",
+    "speech_style": "Enthusiastic tone with a hint of conviction, as if urging others to take action",
+    "motivation": "Survive",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuzuri": 0,
+      "Shiho Shinkai": 0
+    }
+  },
+  {
+    "name": "Shiho Shinkai",
+    "trait": "Cerebral Strategist",
+    "bio": "I don't subscribe to absolute determinism or free will. Instead, I believe that our perceptions are the result of complex interactions between internal and external factors.",
+    "icon": "🔮",
+    "speech_style": "Calculated tone with a touch of dry humor, as if analyzing the situation",
+    "motivation": "Reform",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuzuri": 0,
+      "Akira Amaterasu": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

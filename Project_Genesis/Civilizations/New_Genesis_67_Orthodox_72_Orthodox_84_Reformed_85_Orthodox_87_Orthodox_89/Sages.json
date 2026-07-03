@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Free-spirited",
+    "bio": "Individualism is not just a philosophy, it's a way of life. Embrace the chaos.",
+    "icon": "🔥",
+    "speech_style": "Slurring words, often omitting articles and conjunctions",
+    "motivation": {
+      "explore": 0.7,
+      "survive": 0.2,
+      "pursue": 0.1
+    },
+    "influence": 10,
+    "relationships": {
+      "Akane Yamada": 0,
+      "Taro Tachibana": 0
+    }
+  },
+  {
+    "name": "Akane Yamada",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge is a never-ending journey. The answer is not the destination, but the question itself.",
+    "icon": "💫",
+    "speech_style": "Pauses frequently to collect thoughts, often using rhetorical questions",
+    "motivation": {
+      "pursue": 0.9,
+      "explore": 0.1,
+      "survive": 0
+    },
+    "influence": 15,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Taro Tachibana": 0
+    }
+  },
+  {
+    "name": "Taro Tachibana",
+    "trait": "Pragmatic",
+    "bio": "Individual freedom is not a luxury, but a necessity. It's the foundation upon which civilization stands.",
+    "icon": "🔒",
+    "speech_style": "Uses technical jargon and precise language, often citing sources",
+    "motivation": {
+      "survive": 0.8,
+      "pursue": 0.2,
+      "explore": 0.1
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akane Yamada": 0
+    }
+  },
+  {
+    "name": "Akira Kyouya",
+    "trait": "Wisdom-filled",
+    "bio": "I believe that human nature is inherently flawed, but also capable of greatness. As such, I seek to balance my own desires with a sense of responsibility and compassion for others.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 35,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Ling Xiun": 0
+    }
+  }
+]

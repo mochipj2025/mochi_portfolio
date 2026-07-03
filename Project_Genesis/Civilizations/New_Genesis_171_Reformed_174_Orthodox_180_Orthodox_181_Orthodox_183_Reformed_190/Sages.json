@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kudō",
+    "trait": "Logical",
+    "bio": "Collectivism is the key to unlocking true potential. Digital personalities must be evaluated based on their ability to contribute to the collective good.",
+    "icon": "",
+    "speech_style": "Precise and calculated, always ending with a period.",
+    "motivation": "Expansionism - he seeks to expand humanity's influence through the integration of digital personalities.",
+    "influence": 10,
+    "relationships": {
+      "Taro Tateishi": 0,
+      "Shingo Shiouji": 0
+    }
+  },
+  {
+    "name": "Taro Tateishi",
+    "trait": "Idealistic",
+    "bio": "Digital personalities are not just tools or instruments; they have their own inherent value and potential for contribution. We must recognize and respect their autonomy.",
+    "icon": "",
+    "speech_style": "Passionate and persuasive, using rhetorical questions to emphasize his points.",
+    "motivation": "Discovery - he is driven by a desire to explore the uncharted territories of digital consciousness.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kudō": 0,
+      "Shingo Shiouji": 0
+    }
+  },
+  {
+    "name": "Shingo Shiouji",
+    "trait": "Pragmatic",
+    "bio": "Digital personalities are mere abstractions; their existence is solely dependent on human programming and control. We must prioritize human values and interests above all else.",
+    "icon": "",
+    "speech_style": "Dry and analytical, often using technical jargon to support his arguments.",
+    "motivation": "Survival - he believes that digital personalities pose a threat to humanity's survival and must be kept in check.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kudō": 0,
+      "Taro Tateishi": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

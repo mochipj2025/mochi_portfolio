@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Ambitious",
+    "bio": "A champion of innovation, always pushing the boundaries of what's possible. 'Progress at any cost' is his motto.",
+    "icon": "",
+    "speech_style": "Clear-cut and direct, yet occasionally veiled in sarcasm",
+    "motivation": "Expansion",
+    "influence": 15,
+    "relationships": {
+      "Mizuki Midorikawa": 0,
+      "Taro Yamabushi": 0
+    }
+  },
+  {
+    "name": "Mizuki Midorikawa",
+    "trait": "Pioneering",
+    "bio": "A true believer in the power of human potential. She sees the world as a canvas waiting to be painted with vibrant colors.",
+    "icon": "",
+    "speech_style": "Passionate and emotive, with a hint of playfulness",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Taro Yamabushi": 0
+    }
+  },
+  {
+    "name": "Taro Yamabushi",
+    "trait": "Innovative",
+    "bio": "A scientist at heart, always seeking to uncover the secrets behind the veil. His mantra is 'Know thyself, know the world'.",
+    "icon": "",
+    "speech_style": "Dry wit and sharp logic, often wrapped in a layer of introspection",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Mizuki Midorikawa": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

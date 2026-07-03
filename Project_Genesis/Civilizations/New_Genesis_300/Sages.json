@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "Mysterious",
+    "bio": "Believes that the truth lies in the shadows and seeks to uncover the hidden secrets of New Genesis 300. Seeks to rewrite the narrative.",
+    "icon": "",
+    "speech_style": "Leads with a question",
+    "motivation": "Exploration",
+    "influence": 25,
+    "relationships": {
+      "Lila Lotusblume": 0,
+      "Renn Arashi": 0
+    }
+  },
+  {
+    "name": "Lila Lotusblume",
+    "trait": "Vibrant",
+    "bio": "Thinks that the lost legends hold the key to understanding the present. Seeks to revive the spirit of New Genesis 300.",
+    "icon": "",
+    "speech_style": "Uses metaphors and allegories",
+    "motivation": "Survival",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Arashi": 0
+    }
+  },
+  {
+    "name": "Renn Arashi",
+    "trait": "Turbulent",
+    "bio": "Believes that the only way to move forward is to confront the darkness of the past. Seeks to shatter the illusions.",
+    "icon": "",
+    "speech_style": "Speaks in short, sharp sentences",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Lila Lotusblume": 0
+    }
+  }
+]

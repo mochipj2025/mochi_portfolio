@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Enthusiastic",
+    "bio": "Lila is an optimist who sees social stability as the key to unlocking humanity's full potential. She advocates for creative problem-solving and innovative thinking as the catalysts for positive change.",
+    "icon": "",
+    "speech_style": "Ebullient and expressive, with a tendency to pepper her sentences with rhetorical flourishes.",
+    "motivation": "探求欲 (Curiosity): Lila is driven by a desire to uncover new knowledge and inspire others to do the same, believing that this pursuit of wisdom will ultimately lead to greater social harmony.",
+    "influence": 15,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Akiyama": 0
+    }
+  }
+]

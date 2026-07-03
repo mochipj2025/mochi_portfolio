@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "unity",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "completion",
+    "9": "spiritual growth"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "symbol_of_purification",
+    "community": "symbol_of_strength"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: **Groupism "
+    }
+  ]
+}

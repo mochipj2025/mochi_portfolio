@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Luminari",
+    "trait": " Radiant",
+    "bio": "I believe our reality is shaped by the creative spark within us. By embracing originality and imagination, we can bring forth a brighter tomorrow.",
+    "icon": "",
+    "speech_style": " Gentle whispering",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Adaptus": 0,
+      "Nexus": 0
+    }
+  },
+  {
+    "name": "Adaptus",
+    "trait": "Tenacious",
+    "bio": "The key to creating new possibilities lies in adapting to the world around us. Through innovation and transformation, we can shape our own destiny.",
+    "icon": "",
+    "speech_style": "Clear, concise statements",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Luminari": 0,
+      "Nexus": 0
+    }
+  },
+  {
+    "name": "Nexus",
+    "trait": "Synthesizing",
+    "bio": "Meaning emerges from the intersection of creativity and adaptation. By embracing both perspectives, we can forge a new path forward.",
+    "icon": "",
+    "speech_style": "Philosophical meandering",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Luminari": 0,
+      "Adaptus": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

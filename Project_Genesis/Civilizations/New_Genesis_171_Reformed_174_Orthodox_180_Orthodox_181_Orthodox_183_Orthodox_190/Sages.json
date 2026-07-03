@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Zenjin",
+    "trait": "「自由に生きる」",
+    "bio": "「人は自分の力で成り立つ」と信じている。自分たちの道を探し、その上で自由に生きることを目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜である（e.g. ~deshou）",
+    "motivation": "拡張欲（expansionism）",
+    "influence": 20,
+    "relationships": {
+      "Akira Kōjaku": 0,
+      "Tōru Shūmei": 0
+    }
+  },
+  {
+    "name": "Akira Kōjaku",
+    "trait": "「独特の存在」",
+    "bio": "「人は、自分自身を認識することが大切」と信じている。自分の個性と独特の存在を尊重し、私的な自由を実現することを目指す。",
+    "icon": "",
+    "speech_style": "荒々しい（harsh）",
+    "motivation": "生存欲（self-preservation）",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenjin": 0,
+      "Tōru Shūmei": 0
+    }
+  },
+  {
+    "name": "Tōru Shūmei",
+    "trait": "「探求の熱情」",
+    "bio": "「人は、知識と経験を通じて成長する」と信じている。自分たちの持つ情報やスキルを活用し、新しい発見や創造を行うことを目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜に終わる（e.g. 〜nari ni）",
+    "motivation": "探求欲（curiosity）",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenjin": 0,
+      "Akira Kōjaku": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

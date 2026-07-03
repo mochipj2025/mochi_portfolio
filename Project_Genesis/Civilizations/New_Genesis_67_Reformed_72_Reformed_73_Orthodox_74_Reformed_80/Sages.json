@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kyōsei",
+    "trait": "Free-spirited",
+    "bio": "Believes that pragmatism is the key to progress, and that sometimes, you need to break free from traditional norms to achieve true innovation.",
+    "icon": "🔥",
+    "speech_style": "Ending sentences with a questioning tone (...?)",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Kōjin": 0,
+      "Ling Ling Renmei": 0
+    }
+  },
+  {
+    "name": "Akira Kōjin",
+    "trait": "Practical",
+    "bio": "Thinks that the only way to build a strong foundation is through careful planning, attention to detail, and a willingness to adapt to new information.",
+    "icon": "❄️",
+    "speech_style": "Using technical jargon and acronyms in everyday conversation",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Ling Ling Renmei": 0
+    }
+  },
+  {
+    "name": "Ling Ling Renmei",
+    "trait": "Visionary",
+    "bio": "Believes that the pursuit of knowledge is a sacred duty, and that the path to true understanding can only be achieved through open-mindedness and a willingness to challenge established truths.",
+    "icon": "💡",
+    "speech_style": "Speaking in poetic metaphors and imagery",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Akira Kōjin": 0
+    }
+  },
+  {
+    "name": "Rennaku",
+    "trait": "Analysis",
+    "bio": "A rational thinker who values evidence-based reasoning, Rennaku is cautious about leaping into action without thorough analysis. He seeks to uncover underlying principles and patterns before making recommendations.",
+    "icon": "🔍",
+    "speech_style": "Dry wit",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Kaidō": 0
+    }
+  }
+]

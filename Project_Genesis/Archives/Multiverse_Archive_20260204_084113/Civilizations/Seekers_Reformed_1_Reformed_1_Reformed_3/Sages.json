@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kurenai",
+    "trait": "Mysterious",
+    "bio": "Believes that truth is hidden in plain sight, waiting to be uncovered through intuition and creativity.",
+    "icon": "",
+    "speech_style": "Leans forward, hands clasped together, eyes locked on the listener",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Lila Luminari": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Ethereal",
+    "bio": "Thinks that the universe is full of hidden patterns and connections, and that humans can tap into this energy to manifest their desires.",
+    "icon": "",
+    "speech_style": "Softly spoken, gentle cadence, as if sharing a secrets",
+    "motivation": "Manifestation",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "Akira Akiyama",
+    "trait": "Tenacious",
+    "bio": "Believes that the pursuit of knowledge is a never-ending journey, and that humans must continually challenge themselves to grow.",
+    "icon": "",
+    "speech_style": "Assertive tone, direct gaze, hands gesturing emphatically",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Lila Renn",
+    "trait": "Free-Spirited Explorer",
+    "bio": "I am a firm believer in the power of individual freedom and creativity. As a Sage, I will strive to create an environment where everyone can flourish and pursue their passions without fear of judgment.",
+    "icon": "",
+    "speech_style": "Enthusiastic and spontaneous, often using metaphors to convey her ideas",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Amakuni": 0
+    }
+  }
+]

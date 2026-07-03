@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akihiro Kojima",
+    "trait": "Optimist",
+    "bio": "Believes in the power of collective hope to shape a brighter future.",
+    "icon": "✨",
+    "speech_style": "語尾が〜なるようにしたい!",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Taro Yamada": 0,
+      "Lila Takahashi": 0
+    }
+  }
+]

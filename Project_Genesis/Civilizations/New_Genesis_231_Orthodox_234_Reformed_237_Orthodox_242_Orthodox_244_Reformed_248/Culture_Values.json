@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "white": "purity"
+  },
+  "numbers": {
+    "7": "completion",
+    "3": "harmony"
+  },
+  "concepts": {
+    "water": "symbol_of_renewal",
+    "tree": "symbol_of_strength"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  体制主義"
+    }
+  ]
+}

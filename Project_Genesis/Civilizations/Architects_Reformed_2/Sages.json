@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Hikari",
+    "trait": "明るい",
+    "bio": "自然と人々を調和させることで、より輝く未来を実現する",
+    "icon": "",
+    "speech_style": "語尾が〜です",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Akiho Shinji": 0,
+      "Eriko Kizuna": 0
+    }
+  },
+  {
+    "name": "Akiho Shinji",
+    "trait": "穏やか",
+    "bio": "自然と人々の調和によって、平和な世界を実現する",
+    "icon": "",
+    "speech_style": "語尾が〜ね",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hikari": 0,
+      "Eriko Kizuna": 0
+    }
+  },
+  {
+    "name": "Eriko Kizuna",
+    "trait": "深い",
+    "bio": "自然と人々の調和によって、真の自由を実現する",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hikari": 0,
+      "Akiho Shinji": 0
+    }
+  },
+  {
+    "name": "Lila Sakura",
+    "trait": "Whispered Wisdom",
+    "bio": "Envisions a world where human will and creativity can harmonize with the natural order. Fosters dialogue and collaboration to achieve this vision.",
+    "icon": "",
+    "speech_style": "Soft-spoken, yet piercingly insightful, often using allegories to convey complex ideas",
+    "motivation": "Survival (and preservation) of civilization",
+    "influence": 20,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Ryota Kuroba": 0
+    }
+  }
+]

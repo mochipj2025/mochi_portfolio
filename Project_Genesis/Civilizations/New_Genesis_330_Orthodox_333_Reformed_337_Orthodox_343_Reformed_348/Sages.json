@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Takashi Kusunoki",
+    "trait": "Inquisitive",
+    "bio": "I seek to uncover the hidden truths and mysteries of our world, using logic and reason as my guiding principles.",
+    "icon": "❓",
+    "speech_style": "Thought-provoking queries",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Akira Katsuragi": 0
+    }
+  }
+]

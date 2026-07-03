@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Kaito ",
+    "trait": " Wisdom in Harmony",
+    "bio": "Seeking balance between opposing forces, I believe that true wisdom lies in embracing contrasts. As the Architect of Orthodoxy, I strive to reconcile disparate elements into a cohesive whole.",
+    "icon": "",
+    "speech_style": "smooth and measured",
+    "motivation": [
+      "Expansive Desire",
+      "Survival Instinct"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Renn ": 0,
+      "Akira ": 0
+    }
+  },
+  {
+    "name": "Renn ",
+    "trait": "Fierce Conviction",
+    "bio": "The world is a battleground where only the strongest ideologies survive. As the Reformer of Chaos, I will not back down from a fight to impose order on the chaos.",
+    "icon": "",
+    "speech_style": "forceful and direct",
+    "motivation": [
+      "Expansionary Desire",
+      "Survival Instinct"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito ": 0,
+      "Akira ": 0
+    }
+  },
+  {
+    "name": "Akira ",
+    "trait": "Whimsical Curiosity",
+    "bio": "In an ever-changing world, one must be willing to question everything. As the Sage of Uncertainty, I seek answers in the uncharted territories of human knowledge.",
+    "icon": "",
+    "speech_style": "free-flowing and unpredictable",
+    "motivation": [
+      "Exploratory Desire"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito ": 0,
+      "Renn ": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

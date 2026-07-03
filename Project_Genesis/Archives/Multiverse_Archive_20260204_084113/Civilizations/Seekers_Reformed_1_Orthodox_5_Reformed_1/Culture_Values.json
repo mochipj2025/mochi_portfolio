@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "wisdom"
+  },
+  "numbers": {
+    "7": "perfect unity"
+  },
+  "concepts": {
+    "water": "symbol_of_purification",
+    "light": "source_of_knowledge"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Structuration)"
+    }
+  ]
+}

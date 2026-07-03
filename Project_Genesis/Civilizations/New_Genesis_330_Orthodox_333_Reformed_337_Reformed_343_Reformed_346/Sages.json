@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Impassive",
+    "bio": "Believes that life is predetermined by natural laws. Emphasizes the importance of understanding and respecting the inherent order of things.",
+    "icon": "💀",
+    "speech_style": "Precise and calculated, ending with a pause.",
+    "motivation": "Expansion: Seeking to unravel the mysteries of the universe.",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Eriko Enno": 0
+    }
+  }
+]

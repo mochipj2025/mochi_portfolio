@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "wisdom",
+    "gold": "honor"
+  },
+  "numbers": {
+    "4": "balance",
+    "7": "spirituality"
+  },
+  "concepts": {
+    "water": "symbol_of_illumination",
+    "harmony": "key_to_societal_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Kazehaya:  Traditionalism**\n\nThese two perspectives represent Akira's progressive view, which emphasizes exploring new possibilities and embracing change, versus Kaito's traditionalist approach, which values stability and familiarity."
+    }
+  ]
+}

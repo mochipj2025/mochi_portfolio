@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Maverick Soul",
+    "bio": "Believer in the power of individual freedom and autonomy. I trust my instincts and follow my heart.",
+    "icon": "❄️",
+    "speech_style": "Smooth Talker",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Sora Yamato": 0,
+      "Takeru Shinoda": 0
+    }
+  },
+  {
+    "name": "Sora Yamato",
+    "trait": "Whimsy Wanderer",
+    "bio": "I seek the truth in every story, no matter how fantastical or mundane. I believe that even the most ordinary events can hold hidden depths.",
+    "icon": "✨️",
+    "speech_style": "Storyteller",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Takeru Shinoda": 0
+    }
+  },
+  {
+    "name": "Takeru Shinoda",
+    "trait": "Unyielding Conviction",
+    "bio": "I stand by my principles, no matter the cost. I am driven to uncover the underlying truth and bring light to those in darkness.",
+    "icon": "🔥",
+    "speech_style": "Inquirer",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Sora Yamato": 0
+    }
+  },
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Impassive",
+    "bio": "Believes that life is predetermined by natural laws. Emphasizes the importance of understanding and respecting the inherent order of things.",
+    "icon": "💀",
+    "speech_style": "Precise and calculated, ending with a pause.",
+    "motivation": "Expansion: Seeking to unravel the mysteries of the universe.",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Eriko Enno": 0
+    }
+  }
+]

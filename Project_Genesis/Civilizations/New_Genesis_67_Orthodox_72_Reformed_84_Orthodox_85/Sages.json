@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Mysterious",
+    "bio": "Believes that true wisdom lies in embracing the unknown and the sensual. He advocates for a harmonious coexistence between humans and nature.",
+    "icon": "",
+    "speech_style": "Whispers with a hint of darkness, as if sharing secrets in an ancient forest.",
+    "motivation": {
+      "expansion": 0,
+      "survival": 4,
+      "perseverance": 3
+    },
+    "influence": 10,
+    "relationships": {
+      "Taro Katsuragi": 0,
+      "Lysander Elyseus": 0
+    }
+  },
+  {
+    "name": "Taro Katsuragi",
+    "trait": "Fearless",
+    "bio": "Firmly believes that the pursuit of knowledge and progress should be driven by rationality and logical thinking. He dismisses the sensual as mere indulgence.",
+    "icon": "",
+    "speech_style": "Speaks with fervor and conviction, as if proclaiming a triumphant battle cry.",
+    "motivation": {
+      "expansion": 8,
+      "survival": 2,
+      "perseverance": 1
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Lysander Elyseus": 0
+    }
+  },
+  {
+    "name": "Lysander Elyseus",
+    "trait": "Enigmatic",
+    "bio": "Holds that true wisdom lies in balancing both reason and sensuality. He advocates for a harmonious coexistence between the rational and the emotional aspects of humanity.",
+    "icon": "",
+    "speech_style": "Converses with a detached, analytical tone, as if dissecting the intricacies of the universe.",
+    "motivation": {
+      "expansion": 5,
+      "survival": 3,
+      "perseverance": 4
+    },
+    "influence": 20,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Taro Katsuragi": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Analytical",
+    "bio": "Beauty can be quantified, broken down into its constituent parts. By applying the principles of objectivity, we can create a more rational understanding of beauty.",
+    "icon": "🔍",
+    "speech_style": "Using logical and methodical language",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  }
+]

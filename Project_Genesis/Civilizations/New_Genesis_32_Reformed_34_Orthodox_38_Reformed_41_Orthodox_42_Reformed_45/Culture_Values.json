@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "representing balance and harmony",
+    "gold": "signifying exploration and discovery"
+  },
+  "numbers": {
+    "3": "lucky, representing the unity of contrasting perspectives (賢者2)",
+    "7": "holy, symbolizing the connection between heaven and earth"
+  },
+  "concepts": {
+    "fire": "symbolizing rebirth and transformation",
+    "water": "representing fluidity and adaptability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Exploration**\n\nThis dichotomy pits the desire for stability and balance (賢者1) against the drive to explore and discover new things (賢者3). The wise words of 賢者2, emphasizing unity in diversity, provide a middle ground that acknowledges both perspectives."
+    }
+  ]
+}

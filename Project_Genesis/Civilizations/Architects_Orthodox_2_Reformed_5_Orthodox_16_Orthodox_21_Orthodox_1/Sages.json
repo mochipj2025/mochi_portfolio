@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Shiori Sakura",
+    "trait": "Nurturing",
+    "bio": "I believe that human choices shape our reality. We have the power to break free from predetermined paths and forge our own destinies.",
+    "icon": "",
+    "speech_style": "Soft-spoken and empathetic, with a calming presence",
+    "motivation": "Protective",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Koji Katsuragi": 0
+    }
+  }
+]

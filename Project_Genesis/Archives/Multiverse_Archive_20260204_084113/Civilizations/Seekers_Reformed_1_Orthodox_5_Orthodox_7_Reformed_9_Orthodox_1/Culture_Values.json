@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "ivory": "purity"
+  },
+  "numbers": {
+    "7": "perfection"
+  },
+  "concepts": {
+    "wisdom": "path_to_salvation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: Conservatism "
+    }
+  ]
+}

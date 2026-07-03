@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akira Kuroda",
+    "trait": "Kizuna no Sei (Bonding Spirit)",
+    "bio": "A passionate advocate for communal harmony and social justice, Akira believes that individual freedom is only possible when it's aligned with the greater good. He champions collective values and collaborative efforts to create a better world.",
+    "icon": "",
+    "speech_style": "Boldly spoken, with a fiery passion that inspires action.",
+    "motivation": "Survival (生存欲)",
+    "influence": 15,
+    "relationships": {
+      "Tōrō Yamada": 0,
+      "Mayumi Mori": 0
+    }
+  }
+]

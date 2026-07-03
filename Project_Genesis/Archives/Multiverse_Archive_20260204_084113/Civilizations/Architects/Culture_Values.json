@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "purity",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "7": " Completion"
+  },
+  "concepts": {
+    "water": "symbol_of_purification"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 世界は意志によって形作られる"
+    }
+  ]
+}

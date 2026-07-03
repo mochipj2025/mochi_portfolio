@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kōki",
+    "trait": "Harmony",
+    "bio": "Seeking balance between nature and intellect, Kōki believes that harmony is the key to understanding the world.",
+    "icon": "",
+    "speech_style": "Smoothly, with a gentle cadence",
+    "motivation": "Exploration (85%), Preservation (10%), Expansion (5%)",
+    "influence": 10,
+    "relationships": {
+      "Ryūjin": 0,
+      "Kazuya": 0
+    }
+  },
+  {
+    "name": "Ryūjin",
+    "trait": "Insight",
+    "bio": "Ryūjin is driven by an insatiable curiosity, seeking to unravel the mysteries of existence. His wisdom comes from piercing through illusions.",
+    "icon": "",
+    "speech_style": "With a hint of dry wit and a dash of sarcasm",
+    "motivation": "Discovery (80%), Empowerment (15%), Protection (5%)",
+    "influence": 15,
+    "relationships": {
+      "Kōki": 0,
+      "Kazuya": 0
+    }
+  },
+  {
+    "name": "Kazuya",
+    "trait": "Discernment",
+    "bio": "Kazuya is a master of nuance, discerning the gray areas between right and wrong. He believes that wisdom lies in recognizing the complexity of human nature.",
+    "icon": "",
+    "speech_style": "With a measured tone, emphasizing nuances and subtleties",
+    "motivation": "Refinement (60%), Preservation (25%), Exploration (15%)",
+    "influence": 10,
+    "relationships": {
+      "Kōki": 0,
+      "Ryūjin": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

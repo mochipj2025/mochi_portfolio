@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Kōsei",
+    "trait": "Innovative",
+    "bio": "Embracing change as a catalyst for progress.",
+    "icon": "✨",
+    "speech_style": "Smooth and persuasive, with a hint of excitement.",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Akira Kyōsei": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Conservative",
+    "bio": "Honoring tradition as the foundation of stability.",
+    "icon": "⏰",
+    "speech_style": "Slow and deliberate, with a touch of gravity.",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira Kōsei": 0,
+      "Akira Kyōsei": 0
+    }
+  },
+  {
+    "name": "Akira Kyōsei",
+    "trait": "Eccentric",
+    "bio": "Seeking truth through exploration and inquiry.",
+    "icon": "🔍",
+    "speech_style": "Whimsical and adventurous, with a dash of curiosity.",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Akira Kōsei": 0,
+      "Akira Katsuragi": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "Seeking truth through empirical knowledge and philosophical inquiry.",
+    "icon": "🔥",
+    "speech_style": "Eloquent and calculated",
+    "motivation": "Discovery",
+    "influence": 20,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Takeru Shinoda": 0
+    }
+  }
+]

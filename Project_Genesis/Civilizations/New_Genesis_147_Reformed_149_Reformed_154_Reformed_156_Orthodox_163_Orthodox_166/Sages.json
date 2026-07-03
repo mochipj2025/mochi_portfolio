@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Akira",
+    "trait": "Inquisitive",
+    "bio": "Seeking truth and justice through unwavering inquiry.",
+    "icon": "💡",
+    "speech_style": "Using rhetorical questions to provoke thought",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Lena": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Cautious",
+    "bio": "Protecting the status quo by upholding time-honored traditions.",
+    "icon": "🔒",
+    "speech_style": "Favoring stability over change, speaking in measured tones",
+    "motivation": "Conservation",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Lena": 0
+    }
+  },
+  {
+    "name": "Lena",
+    "trait": "Innovative",
+    "bio": "Pioneering new paths through creative experimentation and progress.",
+    "icon": "✨",
+    "speech_style": "Emphasizing bold ideas with conviction and enthusiasm",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

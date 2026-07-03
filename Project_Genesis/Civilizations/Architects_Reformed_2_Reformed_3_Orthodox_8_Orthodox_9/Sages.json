@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "天性 (Natural)",
+    "bio": "Believes that harmony with nature is key to human progress. Advocates for sustainable living and environmental stewardship.",
+    "icon": "🌃",
+    "speech_style": "smooth and effortless, like a gentle breeze",
+    "motivation": "生存欲 (Survival Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kenji": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "創造 (Creative)",
+    "bio": "Fosters innovative ideas and encourages experimentation. Believes that creativity is the engine driving human progress.",
+    "icon": "💡",
+    "speech_style": "excitable and enthusiastic, with a hint of nervous energy",
+    "motivation": "探求欲 (Exploration Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Kenji": 0
+    }
+  },
+  {
+    "name": "Kenji",
+    "trait": "敬遠 (Respectful)",
+    "bio": "Emphasizes the importance of tradition and cultural heritage. Advocates for preserving collective knowledge and wisdom.",
+    "icon": "⛩️",
+    "speech_style": "calm and measured, with a hint of gravitas",
+    "motivation": "拡張欲 (Expansion Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

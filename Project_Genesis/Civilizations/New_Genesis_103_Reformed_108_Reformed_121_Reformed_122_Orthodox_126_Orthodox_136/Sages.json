@@ -1,0 +1,51 @@
+[
+  {
+    "name": "<i>Kaito</i>",
+    "trait": "Free-spirited",
+    "bio": "Embracing the power of self, I believe individuality is key to progress. Freedom of thought and action is paramount.",
+    "icon": "🔥",
+    "speech_style": "Arrogant, yet charming",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "<i>Kiyohime</i>": 0,
+      "<i>Sora</i>": 0
+    }
+  },
+  {
+    "name": "<i>Kiyohime</i>",
+    "trait": "Compassionate",
+    "bio": "In unity lies strength. The collective good must be prioritized above individual interests. Harmony and balance are the keys to true prosperity.",
+    "icon": "💖",
+    "speech_style": "Gentle, yet persuasive",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "<i>Kaito</i>": 0,
+      "<i>Sora</i>": 0
+    }
+  },
+  {
+    "name": "<i>Sora</i>",
+    "trait": "Visionary",
+    "bio": "The pursuit of knowledge and understanding must be a collaborative effort. By working together, we can unlock the secrets of the universe and elevate our collective consciousness.",
+    "icon": "🌟",
+    "speech_style": "Enthusiastic, yet cryptic",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "<i>Kaito</i>": 0,
+      "<i>Kiyohime</i>": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 50,
+    "relationships": {}
+  }
+]

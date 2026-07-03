@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Project Genesis: Multiverse Chronicle</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Noto+Serif+JP:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --paper: #f4f1ea;
+            --ink: #2c2c2c;
+            --accent: #8b0000;
+        }
+
+        body {
+            background-color: #1a1a1a;
+            color: var(--ink);
+            font-family: 'Crimson Text', 'Noto Serif JP', serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 50px 20px;
+        }
+
+        .book {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--paper);
+            padding: 80px 100px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            border-radius: 2px;
+            position: relative;
+        }
+
+        .book::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 20px;
+            bottom: 0;
+            width: 1px;
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 3rem;
+            margin-bottom: 2rem;
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 1rem;
+        }
+
+        .generation-section {
+            margin-top: 4rem;
+            border-top: 1px solid #ccc;
+            padding-top: 2rem;
+        }
+
+        .generation-title {
+            font-size: 2rem;
+            color: var(--accent);
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .civilization-entry {
+            margin-bottom: 4rem;
+        }
+
+        .civ-header {
+            font-size: 1.5rem;
+            font-weight: bold;
+            border-left: 5px solid var(--accent);
+            padding-left: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .meta-info {
+            font-size: 0.9rem;
+            color: #666;
+            font-style: italic;
+            margin-bottom: 1.5rem;
+        }
+
+        .content {
+            text-align: justify;
+            white-space: pre-wrap;
+        }
+
+        blockquote {
+            background: rgba(139, 0, 0, 0.05);
+            border-left: 3px solid var(--accent);
+            margin: 2rem 0;
+            padding: 1rem 2rem;
+            font-style: italic;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 5rem;
+            font-size: 0.8rem;
+            color: #999;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="book">
+        <h1>年代記: 創世の記録</h1>
+        <p style="text-align:center; font-style:italic;">これは、ある特異点から始まった複数の世界の歩みの集積である。</p>
+
+        {{ CONTENT }}
+
+        <div class="footer">
+            &copy; Project Genesis Observer System
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Renn",
+    "trait": "Pragmatically Curious",
+    "bio": "A seeker of truth who thrives on experimentation and innovation. Lila sees the pursuit of knowledge as a means to improve the human condition and solve real-world problems.",
+    "motivation": "Survival",
+    "influence": 40,
+    "relationships": {
+      "Kaito Shinsei": 0,
+      "Akira Zenji": 0
+    }
+  }
+]

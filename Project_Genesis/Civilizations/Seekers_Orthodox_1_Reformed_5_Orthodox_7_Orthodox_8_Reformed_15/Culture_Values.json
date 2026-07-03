@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "purity",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "7": "completion"
+  },
+  "concepts": {
+    "water": "symbol_of_purification"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Eiichi Emori:  思想B: Collectivism"
+    }
+  ]
+}

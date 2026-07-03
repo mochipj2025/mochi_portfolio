@@ -1,0 +1,6 @@
+# 伝説: Architects_Orthodox_2_Reformed_5_Orthodox_16_Orthodox_21_Reformed_23_Orthodox_25
+
+The tale of Architects_Orthodox_2_Reformed_5_Orthodox_16_Orthodox_21_Reformed_23_Orthodo
+
+---
+*この文明は第2026年に幕を閉じた*

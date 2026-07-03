@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "silver": "temple"
+  },
+  "numbers": {
+    "7": "sacred",
+    "4": "balance"
+  },
+  "concepts": {
+    "water": "symbol_of_life",
+    "luminous stone": "source_of_wisdom"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: Here are the two opposing ideologies:\n\n**Individualism "
+    }
+  ]
+}

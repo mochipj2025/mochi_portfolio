@@ -1,0 +1,16 @@
+# Unsloth Fine-tuning requirements
+# Early 2026 Standard Fine-tuning Environment
+torch>=2.10.0
+torchvision
+torchaudio
+unsloth
+unsloth-zoo
+xformers
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+transformers>=4.51.3
+sentencepiece
+torchao>=0.13.0

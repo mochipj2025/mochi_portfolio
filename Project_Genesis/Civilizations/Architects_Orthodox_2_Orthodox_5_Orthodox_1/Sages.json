@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Takeru Minamoto",
+    "trait": "Enthusiastic",
+    "bio": "The quest for innovation and progress is what drives humanity forward. We must be bold in our pursuit of new ideas and discoveries.",
+    "icon": "💥",
+    "speech_style": "Full of energy and passion, often speaking in rapid-fire succession with a dash of enthusiasm.",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Shinsui": 0
+    }
+  }
+]

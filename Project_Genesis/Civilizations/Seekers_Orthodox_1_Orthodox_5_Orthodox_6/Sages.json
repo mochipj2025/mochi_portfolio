@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Eiichi Enomoto",
+    "trait": "柔和 (soft and gentle)",
+    "bio": "For me, the pursuit of wisdom is a sacred trust. I believe that our knowledge should be used to heal the world and bring people together. We must cultivate compassion and understanding in all our pursuits.",
+    "icon": "",
+    "speech_style": "語尾が〜である (ends with a soothing tone)",
+    "motivation": "生存欲 (desire for survival)",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akira Akihito": 0
+    }
+  }
+]

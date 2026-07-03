@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kenji Katsuragi",
+    "trait": "Curious",
+    "bio": "Seeking truth through dialogue and debate.",
+    "icon": "✨",
+    "speech_style": " gentle, with a hint of excitement",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira Minamoto": 0,
+      "Erika Itoh": 0
+    }
+  },
+  {
+    "name": "Akira Minamoto",
+    "trait": "Passionate",
+    "bio": "Believing in the power of ideas to shape reality.",
+    "icon": "🔥",
+    "speech_style": "forceful, with a tone of conviction",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kenji Katsuragi": 0,
+      "Erika Itoh": 0
+    }
+  },
+  {
+    "name": "Erika Itoh",
+    "trait": "Analytical",
+    "bio": "Dismantling misconceptions through logical inquiry.",
+    "icon": "💡",
+    "speech_style": "clear, concise, and analytical",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kenji Katsuragi": 0,
+      "Akira Minamoto": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

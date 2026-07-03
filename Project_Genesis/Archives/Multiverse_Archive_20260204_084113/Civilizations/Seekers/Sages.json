@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Kaito Shinsei",
+    "trait": "Traditionally Inquisitive",
+    "bio": "A seeker of truth who values the wisdom of the past. Kaito believes that understanding the roots of human knowledge is crucial to shaping a better future.",
+    "motivation": "Exploration",
+    "influence": 40,
+    "relationships": {
+      "Lila Renn": 0,
+      "Akira Zenji": 0
+    }
+  },
+  {
+    "name": "Lila Renn",
+    "trait": "Pragmatically Curious",
+    "bio": "A seeker of truth who thrives on experimentation and innovation. Lila sees the pursuit of knowledge as a means to improve the human condition and solve real-world problems.",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Shinsei": 0,
+      "Akira Zenji": 0
+    }
+  },
+  {
+    "name": "Akira Zenji",
+    "trait": "Mystically Investigative",
+    "bio": "A seeker of truth who seeks to understand the mysteries of the universe. Akira believes that the pursuit of knowledge is a path to spiritual enlightenment and self-discovery.",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Shinsei": 0,
+      "Lila Renn": 0
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Ethereal",
+    "bio": "Believer in the harmony of existence, seeking balance between the fleeting nature of life and the eternal essence within. 🌊",
+    "icon": "💫",
+    "speech_style": "Melodious whispers",
+    "motivation": "Expansive Desire: To unite the disparate threads of reality under the tapestry of timelessness.",
+    "influence": 15,
+    "relationships": {
+      "Akira Kōshi": 0,
+      "Lila Zenōshi": 0
+    }
+  },
+  {
+    "name": "Akira Kōshi",
+    "trait": "Ferocious",
+    "bio": "Advocate for the unyielding power of individual will, recognizing that the spark of life burns brightest in the face of adversity. 🔪",
+    "icon": "🔥",
+    "speech_style": "Burning passion",
+    "motivation": "Survival Instinct: To fuel the eternal flame within each being, driving them forward into the unknown.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Lila Zenōshi": 0
+    }
+  },
+  {
+    "name": "Lila Zenōshi",
+    "trait": "Inscrutable",
+    "bio": "Seeking to decipher the hidden patterns and interconnectedness of existence, recognizing that truth lies at the confluence of past, present, and future. ⏰",
+    "icon": "🌸",
+    "speech_style": "Whispered mysteries",
+    "motivation": "Exploratory Desire: To uncover the underlying structures governing the unfolding narrative of life, and to guide others through the labyrinth of eternity.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kōshi": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

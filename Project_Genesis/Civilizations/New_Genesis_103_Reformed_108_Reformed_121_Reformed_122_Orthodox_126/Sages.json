@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaidō Kyōsuke ",
+    "trait": "Free-spirited",
+    "bio": "For me, liberty is about embracing our true selves, untethered by societal expectations. Life's too short to be bound by rules!",
+    "icon": "",
+    "speech_style": "With a hint of sarcasm and a dash of playfulness",
+    "motivation": "Expansion (searching for new experiences and knowledge)",
+    "influence": 10,
+    "relationships": {
+      "Akane Akira ": 0,
+      "Nagahara Naomichi ": 0
+    }
+  },
+  {
+    "name": "Akane Akira ",
+    "trait": "Resilient",
+    "bio": "Liberty is not just about being free from constraints, but also about taking responsibility for our actions. We must stand tall and defend what we hold dear.",
+    "icon": "",
+    "speech_style": "With a no-nonsense tone, yet a hint of empathy",
+    "motivation": "Survival (protecting the values of freedom)",
+    "influence": 10,
+    "relationships": {
+      "Kaidō Kyōsuke ": 0,
+      "Nagahara Naomichi ": 0
+    }
+  },
+  {
+    "name": "Nagahara Naomichi ",
+    "trait": "Enigmatic",
+    "bio": "Liberty is not just about individual freedom but also about understanding and respecting the liberty of others. It's a delicate balance we must strive for.",
+    "icon": "",
+    "speech_style": "With a subtle hint of intrigue, as if sharing secrets",
+    "motivation": "Exploration (seeking truth and wisdom)",
+    "influence": 10,
+    "relationships": {
+      "Kaidō Kyōsuke ": 0,
+      "Akane Akira ": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 50,
+    "relationships": {}
+  }
+]

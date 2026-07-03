@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Ambitious",
+    "bio": "I believe that human destiny is predetermined by our genes and environment. We must accept our fate and strive to optimize our circumstances.",
+    "icon": "",
+    "speech_style": "Forceful and direct, with a hint of arrogance",
+    "motivation": "Expansive",
+    "influence": 10,
+    "relationships": {
+      "Shiori Sakura": 0,
+      "Koji Katsuragi": 0
+    }
+  },
+  {
+    "name": "Shiori Sakura",
+    "trait": "Nurturing",
+    "bio": "I believe that human choices shape our reality. We have the power to break free from predetermined paths and forge our own destinies.",
+    "icon": "",
+    "speech_style": "Soft-spoken and empathetic, with a calming presence",
+    "motivation": "Protective",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Koji Katsuragi": 0
+    }
+  },
+  {
+    "name": "Koji Katsuragi",
+    "trait": "Analytical",
+    "bio": "I believe that human behavior is influenced by both internal and external factors. We must understand these influences to make informed decisions.",
+    "icon": "",
+    "speech_style": "Dry and detached, with a hint of skepticism",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Shiori Sakura": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

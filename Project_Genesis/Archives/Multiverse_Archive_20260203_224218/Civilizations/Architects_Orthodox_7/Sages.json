@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Akira Kaito",
+    "trait": "伝統的 (Traditional)",
+    "bio": "A steadfast guardian of cultural heritage, Akira values stability and continuity. He believes that the wisdom of the past is the foundation for a brighter future.",
+    "motivation": "生存欲 (Survival Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Lena Katsuragi": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Lena Katsuragi",
+    "trait": "進歩的 (Progressive)",
+    "bio": "A visionary entrepreneur, Lena is driven by innovation and progress. She sees change as an opportunity to create a better world.",
+    "motivation": "探求欲 (Exploratory)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kaito": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Taro Yamato",
+    "trait": "実務的 (Practical)",
+    "bio": "A shrewd strategist, Taro excels at finding solutions that balance competing interests. He believes that wisdom lies in experience and pragmatism.",
+    "motivation": "拡張欲 (Expansionist)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kaito": 0,
+      "Lena Katsuragi": 0
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "silver": "clarity"
+  },
+  "numbers": {
+    "4": "harmony"
+  },
+  "concepts": {
+    "water": "symbol_of_transformation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

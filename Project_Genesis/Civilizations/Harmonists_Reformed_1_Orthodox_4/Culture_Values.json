@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "representative_of_perfection",
+    "blue": "symbol_of_divine_connection"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "number_of_completion",
+    "12": "number_of_balance"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life_and_purification",
+    "harmony": "balance_between_opposites"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: **Thought A "
+    }
+  ]
+}

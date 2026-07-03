@@ -1,0 +1,22 @@
+{
+  "values": {
+    "honor": {
+      "concept": "名実",
+      "description": "To uphold one's reputation and maintain dignity is paramount."
+    },
+    "balance": {
+      "concept": "harmony_between_heaven_and_earth",
+      "description": "The balance between the spiritual and material realms must be maintained for the well-being of all."
+    },
+    "progress": {
+      "concept": "constant Improvement_through_faith",
+      "description": "Through faith and dedication, one can continuously improve oneself and contribute to the advancement of society."
+    }
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: **名実 "
+    }
+  ]
+}

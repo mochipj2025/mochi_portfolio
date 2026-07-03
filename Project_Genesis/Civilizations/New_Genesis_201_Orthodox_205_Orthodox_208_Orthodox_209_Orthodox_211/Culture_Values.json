@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "freedom",
+    "silver": "wisdom",
+    "white": "purity"
+  },
+  "numbers": {
+    "1": "independence",
+    "5": "adaptability"
+  },
+  "concepts": {
+    "storm": "chaos_and_opportunity",
+    "mountain": "strength_and_persistence"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Renn Fujimoto: Here are the two opposing ideologies:\n\n**Individualism "
+    }
+  ]
+}

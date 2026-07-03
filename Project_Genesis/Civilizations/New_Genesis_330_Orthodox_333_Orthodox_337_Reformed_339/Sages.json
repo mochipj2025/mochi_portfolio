@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akira Akiyama",
+    "trait": "Calculating",
+    "bio": "In my view, human destiny is predetermined by the laws of nature. We must adapt to the world as it is, not try to change its fundamental course.",
+    "icon": ":cog:",
+    "speech_style": "Methodical and precise, with a tendency to emphasize the logical conclusion of an argument.",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kaida": 0,
+      "Lila Luminari": 0
+    }
+  }
+]

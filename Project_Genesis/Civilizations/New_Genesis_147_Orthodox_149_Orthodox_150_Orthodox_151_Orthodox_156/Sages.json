@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Hirose",
+    "trait": "自由の翼",
+    "bio": "「自分の声」を持つことで、自分自身を実現することを信じる",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Nishikawa": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Akira Nishikawa",
+    "trait": "炎の心",
+    "bio": "「自分の熱情」を持つことで、世界に新しい可能性を創造することを信じる",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hirose": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Taro Yamada",
+    "trait": "深い瞳",
+    "bio": "「自分の内面」を持つことで、世界の真実を見切りながら、自らを実現することを信じる",
+    "icon": "",
+    "speech_style": "穏やかに語り、表情を変えることなく",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hirose": 0,
+      "Akira Nishikawa": 0
+    }
+  },
+  {
+    "name": "Akira Kikuhiko",
+    "trait": "自由の炎",
+    "bio": "「人々を自由に生きさせることが大切」という信念を持つ、革新的思考を目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜ね",
+    "motivation": "探求欲 ( Desire for Discovery)",
+    "influence": 25,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Hiroshi Shinsen": 0
+    }
+  }
+]

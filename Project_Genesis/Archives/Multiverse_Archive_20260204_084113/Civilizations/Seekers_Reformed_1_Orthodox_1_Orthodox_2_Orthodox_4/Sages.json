@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Toru Tanaka",
+    "trait": "Visionary",
+    "bio": "For Toru, techno-empathy is not just a means of better understanding the world, but a powerful tool for creating a more harmonious society. He envisions a future where technology and human compassion converge to create a brighter tomorrow.",
+    "icon": "",
+    "speech_style": "Enthusiastic and expressive, with a tendency to use metaphors and storytelling",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akira Arakawa": 0
+    }
+  }
+]

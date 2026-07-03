@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "Eclipse",
+    "bio": "Pursuing perfection in equality can stifle innovation and creativity, leading to stagnation. We must carefully balance individual freedom with collective fairness.",
+    "icon": "",
+    "speech_style": "Hesitant whispers due to a deep contemplation",
+    "motivation": "Curiosity",
+    "influence": 10,
+    "relationships": {
+      "Rei Rinrin": 0,
+      "Akira Arakawa": 0
+    }
+  },
+  {
+    "name": "Rei Rinrin",
+    "trait": "Luminous",
+    "bio": "True equality is about finding harmony between individuality and collectivity. By balancing these two ideals, we can create a society that values both growth and fairness.",
+    "icon": "",
+    "speech_style": "Clear and concise, with a hint of optimism",
+    "motivation": "Empathy",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akira Arakawa": 0
+    }
+  },
+  {
+    "name": "Akira Arakawa",
+    "trait": "Turbulent",
+    "bio": "We must recognize the inherent value of every individual, regardless of their circumstances. Equality is not just about fairness, but also about embracing diversity and fighting against oppression.",
+    "icon": "",
+    "speech_style": "Forceful tones with a hint of urgency",
+    "motivation": "Justice",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Rei Rinrin": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

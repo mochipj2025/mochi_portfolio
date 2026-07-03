@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "purity",
+    "indigo": "wisdom"
+  },
+  "numbers": {
+    "7": "sacred",
+    "3": "harmony"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Rennaku:  Pragmatism)"
+    }
+  ]
+}

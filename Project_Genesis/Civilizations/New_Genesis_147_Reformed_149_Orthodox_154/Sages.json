@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Eccentric",
+    "bio": "Innovate and disrupt the status quo. Unleash human creativity and passion.",
+    "icon": "🔥",
+    "speech_style": "Arrogant",
+    "motivation": "Expanding",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Visionary",
+    "bio": "Embrace the unknown, seek wisdom in the mysteries of the universe. Cultivate curiosity and wonder.",
+    "icon": "💡",
+    "speech_style": "Poetic",
+    "motivation": "Exploring",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Taro",
+    "trait": "Pragmatic",
+    "bio": "Master your own destiny, prioritize self-reliance and personal growth. Cultivate independence and resilience.",
+    "icon": "🔒",
+    "speech_style": "Blunt",
+    "motivation": "Surviving",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "significance",
+    "black": "limitation"
+  },
+  "numbers": {
+    "5": "balance",
+    "7": "perfection"
+  },
+  "concepts": {
+    "fire": "transformation",
+    "water": "adaptation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Determinism**\n\nThe two opposing ideologies are:\n\n* Individualism (Thought A): Emphasizes the idea that leadership is not predetermined, but rather a product of individual choices and actions.\n* Determinism (Thought B): Believes that leadership is inherent or destined, shaped by factors such as past experiences and circumstances.\n\nThese two perspectives represent fundamentally different views on the nature of human agency and the role of external forces in shaping our lives."
+    }
+  ]
+}

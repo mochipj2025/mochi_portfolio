@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "symbol_of_perfection",
+    "white": "representing_purity_and_clarity"
+  },
+  "numbers": {
+    "7": "number_of_perfection",
+    "11": "symbol_of_transformation"
+  },
+  "concepts": {
+    "wisdom": "highest_human_achievement",
+    "justice": "foundation_of_society"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: Aristotle "
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "colors": {
+    "dual-colors": [
+      "red",
+      "blue"
+    ],
+    "symbolism": {
+      "red": "divine",
+      "blue": "harmony"
+    }
+  },
+  "numbers": {
+    "three": "lucky",
+    "unity": [
+      3,
+      6,
+      9
+    ]
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "suns": [
+      "duality",
+      "harmony"
+    ]
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Unity**\n\nThought A (Duality): Two suns exist, and both colors coexist.\n\nThought B (Unity): Harmonize and balance to create a peaceful world.\n\nThis dichotomy represents the eternal tension between individualism and collectivism, with Thought A emphasizing the diversity of human experiences and Thought B promoting unity and cooperation."
+    }
+  ]
+}

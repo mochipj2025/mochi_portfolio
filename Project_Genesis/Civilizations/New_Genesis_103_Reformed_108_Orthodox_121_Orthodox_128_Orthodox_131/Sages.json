@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kaito Kazama",
+    "trait": "",
+    "bio": "自由意志の信念",
+    "icon": "",
+    "speech_style": "語尾が~である",
+    "motivation": "拡張欲",
+    "influence": 20,
+    "relationships": {
+      "Renn Fujimoto": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "",
+    "bio": "神秘と自然との調和",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kazama": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Taro Yamada",
+    "trait": "",
+    "bio": "宇宙の巨大さを捉える",
+    "icon": "",
+    "speech_style": "語尾が~である(高ぶった)",
+    "motivation": "探求欲",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kazama": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "Kaito Kazama",
+    "trait": "Curiosity",
+    "bio": "Seeking truth through dialogue and exploration, Kaito believes that individuality is the spark that drives human progress.",
+    "icon": "",
+    "speech_style": "Inquisitive tone with a hint of excitement",
+    "motivation": {
+      "type": "explore",
+      "description": "Discover new ideas and perspectives to enrich the world."
+    },
+    "influence": 25,
+    "relationships": {
+      "Akira Renn": 0,
+      "Renji Kuroba": 0
+    }
+  }
+]

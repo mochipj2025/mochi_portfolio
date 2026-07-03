@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaizen Kokoro",
+    "trait": "Adaptability",
+    "bio": "Believes that unity is strength. Advocates for collective progress through continuous improvement.",
+    "icon": "",
+    "speech_style": "Smooth, gentle tone",
+    "motivation": "Expansive desire: to unify the world through shared knowledge and innovation.",
+    "influence": 20,
+    "relationships": {
+      "Renn Shinsei": 0,
+      "Mori Miko": 0
+    }
+  },
+  {
+    "name": "Renn Shinsei",
+    "trait": "Courage",
+    "bio": "Believes that individual freedom is essential for collective growth. Fights for the right of each person to pursue their dreams.",
+    "icon": "",
+    "speech_style": "Passionate, persuasive tone",
+    "motivation": "Expansive desire: to empower individuals and communities to reach new heights.",
+    "influence": 10,
+    "relationships": {
+      "Kaizen Kokoro": 0,
+      "Mori Miko": 0
+    }
+  },
+  {
+    "name": "Mori Miko",
+    "trait": "Wisdom",
+    "bio": "Believes that the path to collective enlightenment lies in self-reflection and introspection. Seeks harmony between humans and nature.",
+    "icon": "",
+    "speech_style": "Calm, contemplative tone with a hint of wisdom",
+    "motivation": "Survival desire: to preserve the delicate balance of the ecosystem and ensure the survival of future generations.",
+    "influence": 10,
+    "relationships": {
+      "Kaizen Kokoro": 0,
+      "Renn Shinsei": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

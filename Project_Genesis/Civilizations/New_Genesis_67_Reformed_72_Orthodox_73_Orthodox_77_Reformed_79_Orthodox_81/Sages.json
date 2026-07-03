@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Curious",
+    "bio": "Embracing the beauty of debate, I believe that understanding lies at the intersection of opposing ideas. By embracing the unknown and challenging assumptions, we can unlock new paths to discovery.",
+    "icon": "",
+    "speech_style": "Punctuated with rhetorical questions and clever asides",
+    "motivation": "Expansive curiosity",
+    "influence": 15,
+    "relationships": {
+      "Akira": 0,
+      "Kyōji": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Introspective",
+    "bio": "I believe that true wisdom lies in quiet contemplation, where one can listen to the whispers of their own conscience. In a world of constant noise, I seek to find stillness and clarity.",
+    "icon": "",
+    "speech_style": "Deliberate and measured, with a hint of self-doubt",
+    "motivation": "Desire for self-discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Kyōji": 0
+    }
+  },
+  {
+    "name": "Kyōji",
+    "trait": "Passionate",
+    "bio": "I believe that true progress requires unyielding passion and conviction. By standing up against injustice and ignorance, we can create a brighter future for all.",
+    "icon": "",
+    "speech_style": "Forceful and persuasive, with a hint of anger",
+    "motivation": "Desire to protect and fight for what is right",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Calm",
+    "bio": " Harmony and balance in all aspects of life.",
+    "icon": "🔋",
+    "speech_style": "Soothing whispers",
+    "motivation": {
+      "expansion": 0.2,
+      "survival": 0.4,
+      "questing": 0.4
+    },
+    "influence": 10,
+    "relationships": {
+      "Hiro": 0,
+      "Sora": 0
+    }
+  }
+]

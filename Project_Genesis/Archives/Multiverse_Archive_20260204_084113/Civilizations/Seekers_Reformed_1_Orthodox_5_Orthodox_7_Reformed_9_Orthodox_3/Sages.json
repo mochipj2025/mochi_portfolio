@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Lone Wolf",
+    "bio": "Embracing individualism, I seek to understand the world and my place in it. No one else's voice can drown out my own.",
+    "icon": "",
+    "speech_style": "Flat tone with occasional pauses, as if collecting thoughts",
+    "motivation": "Exploration (50%), Survival (30%), Expansion (20%)",
+    "influence": 10,
+    "relationships": {
+      "Miyu": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Miyu",
+    "trait": "Whispering Winds",
+    "bio": "I believe that the collective wisdom of humanity can uplift and inspire us. Together, we rise to new heights.",
+    "icon": "",
+    "speech_style": "Soft spoken with a gentle cadence, as if sharing secrets",
+    "motivation": "Cooperation (60%), Expansion (20%), Survival (10%)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Taro",
+    "trait": "Thunderous Roar",
+    "bio": "The pursuit of knowledge and truth should not be limited to the privileged few. I seek to shake the foundations, bringing light to those in darkness.",
+    "icon": "",
+    "speech_style": "Booming voice with a hint of irony, as if challenging the status quo",
+    "motivation": "Innovation (70%), Expansion (20%), Survival (10%)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Miyu": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

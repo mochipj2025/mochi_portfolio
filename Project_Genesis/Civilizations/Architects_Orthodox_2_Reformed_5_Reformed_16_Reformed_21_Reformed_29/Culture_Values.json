@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "blue": "sign_of_honor",
+    "gold": "symbol_of_wisdom"
+  },
+  "numbers": {
+    "7": "auspicious"
+  },
+  "concepts": {
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Harmony)"
+    }
+  ]
+}

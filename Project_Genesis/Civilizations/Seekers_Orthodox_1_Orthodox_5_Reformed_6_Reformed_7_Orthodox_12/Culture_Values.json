@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "nobility"
+  },
+  "numbers": {
+    "4": "balance"
+  },
+  "concepts": {
+    "lightning": "symbol_of_innovation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Renn Ichijō: **Individualism "
+    }
+  ]
+}

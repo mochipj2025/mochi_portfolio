@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "Introspective Insight",
+    "bio": "Renn believes that the key to personal growth lies in self-awareness and introspection. He seeks to understand the human condition by examining his own experiences and emotions, hoping to guide others towards similar breakthroughs.",
+    "icon": "☯️",
+    "speech_style": "Thoughtful and deliberate, with a tendency to phrase his thoughts as philosophical musings.",
+    "motivation": "Self-Discovery: To uncover the deeper truths about humanity's place in the universe and find meaning through self-reflection.",
+    "influence": 30,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Lila Luna": 0
+    }
+  }
+]

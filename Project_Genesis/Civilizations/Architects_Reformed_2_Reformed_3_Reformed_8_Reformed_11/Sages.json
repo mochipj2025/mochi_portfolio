@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Zenji Kaito 🌱",
+    "trait": "Softly Radiant",
+    "bio": "Beauty is a harmony between our inner balance and nature's beauty.",
+    "icon": "🌱",
+    "speech_style": "Gently whispering",
+    "motivation": "探求欲 (Seeking for harmony)",
+    "influence": 25,
+    "relationships": {
+      "Renn Fujimori 🔥": 0,
+      "Akira Yamato ⭐️": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori 🔥",
+    "trait": "Fiery Passionate",
+    "bio": "Beauty is an inner flame that ignites our souls, regardless of human perception.",
+    "icon": "🔥",
+    "speech_style": "Eloquent and persuasive",
+    "motivation": "拡張欲 (Expanding the boundaries)",
+    "influence": 10,
+    "relationships": {
+      "Zenji Kaito 🌱": 0,
+      "Akira Yamato ⭐️": 0
+    }
+  },
+  {
+    "name": "Akira Yamato ⭐️",
+    "trait": "Starlight Wise",
+    "bio": "Beauty is a balance between subjectivism and objectivism, illuminating our understanding of the world.",
+    "icon": "⭐️",
+    "speech_style": "Mysterious and enigmatic",
+    "motivation": "生存欲 (Ensuring survival)",
+    "influence": 10,
+    "relationships": {
+      "Zenji Kaito 🌱": 0,
+      "Renn Fujimori 🔥": 0
+    }
+  },
+  {
+    "name": "Zenji Kaito 🌱",
+    "trait": "Mellow",
+    "bio": "Believes in finding balance within oneself to connect with nature.",
+    "icon": "✨",
+    "speech_style": "Conversing with a gentle smile...",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori 🔥": 0,
+      "Akira Shinoda 🏔️": 0
+    }
+  }
+]

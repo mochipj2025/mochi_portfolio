@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kyōsei Kaito",
+    "trait": " calmness",
+    "bio": "Seeking harmony and balance in all aspects of life.",
+    "icon": "",
+    "speech_style": "gentle and soothing",
+    "motivation": [
+      "survival",
+      "expansion"
+    ],
+    "influence": 20,
+    "relationships": {
+      "Renn Rikudō": 0
+    }
+  },
+  {
+    "name": "Renn Rikudō",
+    "trait": "passion",
+    "bio": "Believing that change is the only constant, striving to innovate and improve.",
+    "icon": "",
+    "speech_style": "inspiring and persuasive",
+    "motivation": [
+      "pursuit of knowledge",
+      "expansion"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kyōsei Kaito": 0
+    }
+  },
+  {
+    "name": "Renn Rikudō",
+    "trait": "curiosity",
+    "bio": "Questioning the status quo, seeking to understand the intricacies of the universe.",
+    "icon": "",
+    "speech_style": "thought-provoking and analytical",
+    "motivation": [
+      "pursuit of knowledge",
+      "expansion"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kyōsei Kaito": 0
+    }
+  },
+  {
+    "name": "Akira Hoshino",
+    "trait": "Resilient",
+    "bio": "Rooted in the soil of tradition, I strive to cultivate new growth by balancing innovation with heritage.",
+    "icon": "🌱",
+    "speech_style": "Direct and concise, with a touch of humility.",
+    "motivation": [
+      "Balance",
+      "Stability"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Yukimura": 0,
+      "Lila Katsuragi": 0
+    }
+  }
+]

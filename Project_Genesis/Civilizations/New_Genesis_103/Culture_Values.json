@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "silver": "clarity"
+  },
+  "numbers": {
+    "2": "balance"
+  },
+  "concepts": {
+    "void": "symbol_of_transformation",
+    "circle": "symbol_of_perfection"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

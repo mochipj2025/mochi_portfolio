@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "blue": "liberty",
+    "white": "innocence"
+  },
+  "numbers": {
+    "1": "new_beginnings",
+    "7": "cosmic_order"
+  },
+  "concepts": {
+    "wind": "symbol_of_change_and_progress"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: **Individual Freedom "
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "symbol_of_purification",
+    "gold": "representing_divine_connection"
+  },
+  "numbers": {
+    "7": "harmony_with_the_universe",
+    "4": "foundation_of_stability"
+  },
+  "concepts": {
+    "chaos": "the_engine_of_creation_and_renewal",
+    "order": "the_expression_of_balance_and_harmony"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira:  Chaos"
+    }
+  ]
+}

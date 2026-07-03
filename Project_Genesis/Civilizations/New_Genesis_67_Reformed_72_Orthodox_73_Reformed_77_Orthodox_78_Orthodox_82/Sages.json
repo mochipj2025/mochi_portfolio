@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Wisdom through balance",
+    "bio": "Seeking harmony between individuality and communal well-being. Akira believes that true wisdom lies in finding common ground between opposing forces.",
+    "icon": "",
+    "speech_style": "Colloquial, with a hint of humor",
+    "motivation": {
+      "expansion": 3,
+      "survival": 4,
+      "exploration": 2
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Emiko Hanazono": 0
+    }
+  },
+  {
+    "name": "Kaito Yamato",
+    "trait": "Unwavering conviction",
+    "bio": "Kaito is driven by an unshakeable faith in the value of tradition. He sees himself as a guardian of timeless wisdom, passing it down to future generations.",
+    "icon": "",
+    "speech_style": "Forceful and direct, with a commanding tone",
+    "motivation": {
+      "expansion": 2,
+      "survival": 1,
+      "exploration": 4
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Emiko Hanazono": 0
+    }
+  },
+  {
+    "name": "Emiko Hanazono",
+    "trait": "Inquisitive curiosity",
+    "bio": "Emiko is fueled by an insatiable thirst for knowledge. She believes that the pursuit of understanding should be a lifelong endeavor, leading to ever-expanding horizons.",
+    "icon": "",
+    "speech_style": "Whimsical and playful, with a touch of mischief",
+    "motivation": {
+      "expansion": 4,
+      "survival": 3,
+      "exploration": 1
+    },
+    "influence": 15,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Kaito Yamato": 0
+    }
+  },
+  {
+    "name": "Lila Hirota",
+    "trait": "一言の気質",
+    "bio": "「知恵を得る」信念を持つ Lilaは、知識や経験を積み重ねて、新しい可能性に目を向ける。",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujiki": 0,
+      "Akira Katsuragi": 0
+    }
+  }
+]

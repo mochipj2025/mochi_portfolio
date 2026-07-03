@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "red": "symbol_of_purification"
+  },
+  "numbers": {
+    "4": "auspicious"
+  },
+  "concepts": {
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito: 思想A "
+    }
+  ]
+}

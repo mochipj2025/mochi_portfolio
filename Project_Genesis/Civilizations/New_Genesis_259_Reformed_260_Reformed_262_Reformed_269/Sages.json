@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kokoro Akiyama",
+    "trait": "Harmonious",
+    "bio": "I believe that unity is the key to true wisdom. By gathering knowledge and people, we can create a harmonious world.",
+    "icon": "&#x2764;",
+    "speech_style": "gentle and soothing, often ending with a soft 'n'",
+    "motivation": "Expansive",
+    "influence": 15,
+    "relationships": {
+      "Tsumugi Katsuragi": 0,
+      "Ryūnosuke Kiyoshi": 0
+    }
+  },
+  {
+    "name": "Tsumugi Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "I seek to uncover the hidden truths of our world. By gathering information and questioning assumptions, we can reveal the mysteries of existence.",
+    "icon": "&#x274B;",
+    "speech_style": "curious and probing, often using rhetorical questions",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Kokoro Akiyama": 0,
+      "Ryūnosuke Kiyoshi": 0
+    }
+  },
+  {
+    "name": "Ryūnosuke Kiyoshi",
+    "trait": "Philosophical",
+    "bio": "I believe that wisdom is not just about knowledge, but also about perspective. By gathering insights from various sources, we can gain a deeper understanding of the world.",
+    "icon": "&#x267F;",
+    "speech_style": "slow and contemplative, often pausing for emphasis",
+    "motivation": "Preservative",
+    "influence": 10,
+    "relationships": {
+      "Kokoro Akiyama": 0,
+      "Tsumugi Katsuragi": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

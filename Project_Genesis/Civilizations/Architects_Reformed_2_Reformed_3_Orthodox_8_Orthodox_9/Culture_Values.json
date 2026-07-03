@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "noble",
+    "blue": "harmonious"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "sacred",
+    "9": "complete"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life",
+    "earth": "foundation_of_stability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: **天性"
+    }
+  ]
+}

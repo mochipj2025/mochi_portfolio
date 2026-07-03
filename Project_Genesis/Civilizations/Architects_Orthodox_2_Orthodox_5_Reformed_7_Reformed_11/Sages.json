@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Yamato",
+    "trait": "Stalwart",
+    "bio": "Preserve the past, build for the future. Tradition is the foundation of progress.",
+    "icon": "🏯",
+    "speech_style": "clear and concise",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Shinsui": 0,
+      "Taro Nakamura": 0
+    }
+  },
+  {
+    "name": "Akira Shinsui",
+    "trait": "Radical",
+    "bio": "Break free from constraints! Innovation and upheaval are the keys to a new society!",
+    "icon": "💥",
+    "speech_style": "passionate and persuasive",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Taro Nakamura": 0
+    }
+  },
+  {
+    "name": "Taro Nakamura",
+    "trait": "Guardian",
+    "bio": "Stability is paramount. We must preserve what we have before seeking to create something new.",
+    "icon": "🔒",
+    "speech_style": "cautious and measured",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Akira Shinsui": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

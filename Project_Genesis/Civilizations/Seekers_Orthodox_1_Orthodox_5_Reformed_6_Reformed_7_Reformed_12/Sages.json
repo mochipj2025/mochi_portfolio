@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "自由の芽",
+    "bio": "Human agency is the key to unlocking our understanding of gravity. By sharing knowledge and wisdom, we can shape our future.",
+    "icon": "",
+    "speech_style": "柔軟な语尾~",
+    "motivation": "探求欲",
+    "influence": 30,
+    "relationships": {
+      "Midori Muraoka": 0,
+      "Renn Ichijō": 0
+    }
+  }
+]

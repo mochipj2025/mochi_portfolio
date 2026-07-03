@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "gold": "purity",
+    "white": "innocence",
+    "indigo": "spirituality"
+  },
+  "numbers": {
+    "4": "stability",
+    "7": "completion",
+    "14": "transformation"
+  },
+  "concepts": {
+    "circle": "unity",
+    "tree": "wisdom",
+    "rhythm": "harmony"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Nanako Shūkō: 思想A "
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "symbol_of_achievement",
+    "black": "color_of_silence"
+  },
+  "numbers": {
+    "7": "number_of_perfection",
+    "1": "digit_of_independence"
+  },
+  "concepts": {
+    "wind": "symbol_of_freedom",
+    "circle": "shape_of_unity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito: **Individualism "
+    }
+  ]
+}

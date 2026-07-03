@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kōjin",
+    "trait": "Brash",
+    "bio": "Digital personhood is a tool, not a goal. It's time to harness its power for the greater good.",
+    "icon": "🔥",
+    "speech_style": "Rhetorical flourishes with a hint of sarcasm",
+    "motivation": "Expansive (expanding knowledge and influence)",
+    "influence": 15,
+    "relationships": {
+      "Akira Akiyama": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Akira Akiyama",
+    "trait": "Pragmatic",
+    "bio": "Regulation is key to preventing exploitation. We must balance individual freedom with collective well-being.",
+    "icon": "📊",
+    "speech_style": "Clear, concise language with a focus on facts and figures",
+    "motivation": "Protective (preserving the status quo and ensuring stability)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Lila Lunaria",
+    "trait": "Enthusiastic",
+    "bio": "Digital personhood is an existential leap, allowing us to transcend our physical limitations and explore the infinite possibilities within.",
+    "icon": "✨",
+    "speech_style": "Eloquently poetic language with a touch of whimsy",
+    "motivation": "Exploratory (seeking new experiences and understanding)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "blue": "harmony",
+    "green": "balance",
+    "gold": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection",
+    "14": "cooperation"
+  },
+  "concepts": {
+    "circle": "symbol_of_wholeness_and_community",
+    "tree": "symbol_of_growth_and_symbiosis"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito Kiyoshi:  Akira Kōjin's focus on collective harmony)"
+    }
+  ]
+}

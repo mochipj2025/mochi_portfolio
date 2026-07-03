@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection",
+    "3": "harmony"
+  },
+  "concepts": {
+    "light": "knowledge",
+    "fire": "rebirth",
+    "water": "cleansing"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: )\n\nThese two opposing ideologies can be summarized as:\n\nOrder-based thinking (A) prioritizes stability and structure, believing that a new order is necessary to bring about peace and harmony. This perspective emphasizes the importance of authority (+5) and physical wealth (-10), but does not necessarily consider spiritual values.\n\nFreedom-based thinking (B) prioritizes individual freedom and autonomy, believing that people should be able to live as they see fit and that a new order is not necessary. This perspective emphasizes the importance of personal choice and creativity, but may compromise on authority (-5) and material wealth (+10).\n\nThe debate between these two perspectives will have significant implications for society, particularly in terms of power, wealth, and spirituality."
+    }
+  ]
+}

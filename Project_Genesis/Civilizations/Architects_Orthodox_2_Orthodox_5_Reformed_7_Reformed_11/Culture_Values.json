@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "wisdom"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "cosmic"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "innovation": "path_to_progress"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Radicalism**\n\nThe SAGE represents Conservatism, emphasizing the importance of tradition and stability in building new societies. They believe that current customs and habits should be preserved as a foundation for future progress.\n\nOn the other hand, Akira Shinsui (SAGE) advocates for Radicalism, proposing to abandon traditional practices and create a new society from scratch. This approach emphasizes innovation and upheaval over stability and continuity.\n\nThese two perspectives form the core of the debate, highlighting fundamental differences in how to approach societal change and development."
+    }
+  ]
+}

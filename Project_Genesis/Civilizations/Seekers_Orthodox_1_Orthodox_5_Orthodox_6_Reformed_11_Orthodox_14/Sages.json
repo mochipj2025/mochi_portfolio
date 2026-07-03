@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kujo",
+    "trait": "Pragmatic",
+    "bio": "The universe is governed by laws, not whims. We must understand these laws to shape our destiny.",
+    "icon": "⚖️",
+    "speech_style": "Clear and concise, with a hint of dry humor",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Reiji Ryūji": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Visionary",
+    "bio": "The cosmos holds secrets waiting to be unveiled. Our duty is to listen and follow the cosmic whispers.",
+    "icon": "✨",
+    "speech_style": "Ethereal and poetic, with a touch of mysticism",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kujo": 0,
+      "Reiji Ryūji": 0
+    }
+  },
+  {
+    "name": "Reiji Ryūji",
+    "trait": "Inquisitive",
+    "bio": "The human experience is shaped by choices, not fate. We must question everything to forge our own paths.",
+    "icon": "🔋",
+    "speech_style": "Witty and analytical, with a dash of irony",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kujo": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

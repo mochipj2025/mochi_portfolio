@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "white": "purity",
+    "gold": "honor"
+  },
+  "numbers": {
+    "9": "completion"
+  },
+  "concepts": {
+    "mountain": "symbol_of_strength_and_endurance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kokoro Yamato: \n\n**思想B: HeritageFirst**"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "black": "funeral"
+  },
+  "numbers": {
+    "7": "holy"
+  },
+  "concepts": {
+    "land": "symbol_of_protection"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: The two opposing ideologies are:\n\n**Conservatism "
+    }
+  ]
+}

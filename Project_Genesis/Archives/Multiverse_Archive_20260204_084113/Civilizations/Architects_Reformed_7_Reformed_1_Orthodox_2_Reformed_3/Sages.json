@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito Akiyama",
+    "trait": "Pragmatic Idealist",
+    "bio": "Believes that human freedom is rooted in conscious decision-making and technological advancements can enhance this freedom. Advocates for a balance between individual autonomy and societal well-being.",
+    "icon": "🏰",
+    "speech_style": "Smooth, calculated tones with a hint of determination",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Mikio Nakamura": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Radical Catalyst",
+    "bio": "Thinks that social constructs and power structures are the primary drivers of human agency. Seeks to challenge dominant narratives and empower marginalized voices.",
+    "icon": "🔥",
+    "speech_style": "Passionate, fiery rhetoric with a dash of irony",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Akiyama": 0,
+      "Mikio Nakamura": 0
+    }
+  },
+  {
+    "name": "Mikio Nakamura",
+    "trait": "Curious Synthesist",
+    "bio": "Believes that human freedom is shaped by social and cultural contexts. Envisions a harmonious integration of individual agency and collective wisdom.",
+    "icon": "📚",
+    "speech_style": "Thoughtful, analytical discourse with a touch of playfulness",
+    "motivation": "Seeking Knowledge",
+    "influence": 10,
+    "relationships": {
+      "Kaito Akiyama": 0,
+      "Akira Katsuragi": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

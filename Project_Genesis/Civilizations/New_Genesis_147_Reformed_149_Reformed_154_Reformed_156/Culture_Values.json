@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "purity",
+    "white": "innocence"
+  },
+  "numbers": {
+    "7": "perfection"
+  },
+  "concepts": {
+    "Kokoro": "harmony_with_nature"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaizen Kokoro:  Individualism"
+    }
+  ]
+}

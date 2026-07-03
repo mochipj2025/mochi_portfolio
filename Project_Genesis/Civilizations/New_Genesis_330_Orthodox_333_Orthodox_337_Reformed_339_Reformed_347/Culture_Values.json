@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "black": "mourning"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "sacred"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  社会安定"
+    }
+  ]
+}

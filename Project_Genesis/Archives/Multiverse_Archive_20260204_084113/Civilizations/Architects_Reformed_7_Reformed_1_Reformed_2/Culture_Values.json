@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "representative_of_trust",
+    "gold": "symbol_of_wisdom"
+  },
+  "numbers": {
+    "4": "harmonious_balance",
+    "8": "prosperity_and_abundance"
+  },
+  "concepts": {
+    "light": "guiding_force",
+    "water": "source_of_life_and_renewal"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Governance**\n\nThis naming captures the contrasting views between Genius 1, who advocates for digital personhood as a means to achieve freedom and equality, and Genius 2, who emphasizes the need for regulation and management due to the potential economic and political influence of digital personhood."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Kaito Kazama",
+    "trait": "Curiosity",
+    "bio": "Seeking truth through dialogue and exploration, Kaito believes that individuality is the spark that drives human progress.",
+    "icon": "",
+    "speech_style": "Inquisitive tone with a hint of excitement",
+    "motivation": {
+      "type": "explore",
+      "description": "Discover new ideas and perspectives to enrich the world."
+    },
+    "influence": 20,
+    "relationships": {
+      "Akira Renn": 0,
+      "Renji Kuroba": 0
+    }
+  },
+  {
+    "name": "Akira Renn",
+    "trait": "Calmness",
+    "bio": "Akira embodies the spirit of balance, recognizing that individuality is but one aspect of the larger harmony. He seeks to integrate opposing perspectives to create a more just society.",
+    "icon": "",
+    "speech_style": "Soft-spoken with a gentle cadence, using examples to illustrate points.",
+    "motivation": {
+      "type": "protect",
+      "description": "Preserve and nurture the diversity of human experience."
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Kazama": 0,
+      "Renji Kuroba": 0
+    }
+  },
+  {
+    "name": "Renji Kuroba",
+    "trait": "Enthusiasm",
+    "bio": "Renji's passion is contagious, as he believes that individuality is the key to unlocking human potential. He champions creative expression and innovation as driving forces for progress.",
+    "icon": "",
+    "speech_style": "Eloquent with a hint of drama, using vivid imagery to make points.",
+    "motivation": {
+      "type": "create",
+      "description": "Bring forth new possibilities and bring people together through shared experiences."
+    },
+    "influence": 25,
+    "relationships": {
+      "Kaito Kazama": 0,
+      "Akira Renn": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kokoro Yamato",
+    "trait": "Passionate",
+    "bio": "Seeking unity among the lost legends, believing that by rediscovering our shared heritage, we can forge a brighter future.",
+    "icon": "🔥",
+    "speech_style": "Impassioned, using metaphors and storytelling to convey her thoughts",
+    "motivation": "Expansion (the desire to spread knowledge and understanding)",
+    "influence": 55,
+    "relationships": {
+      "Renn Kaito": 0,
+      "Akira Shimizu": 0
+    }
+  }
+]

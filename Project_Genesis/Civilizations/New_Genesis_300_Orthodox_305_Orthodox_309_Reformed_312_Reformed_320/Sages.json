@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Mikkan",
+    "trait": "照明",
+    "bio": "For Mikkan, wisdom is the warm light that guides us through the darkness. He believes that knowledge should be a beacon of hope, illuminating the path forward for humanity and helping us to find our way.",
+    "icon": "☀️",
+    "speech_style": "語尾が〜である ( calm and reassuring )",
+    "motivation": "生存欲",
+    "influence": 15,
+    "relationships": {
+      "Kanzen": 0,
+      "Zenken": 0
+    }
+  }
+]

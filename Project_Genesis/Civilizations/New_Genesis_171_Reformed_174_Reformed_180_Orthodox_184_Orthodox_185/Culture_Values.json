@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "symbol_of_purity",
+    "black": "representing_absence"
+  },
+  "numbers": {
+    "7": "holiest_number",
+    "4": "number_of_stability"
+  },
+  "concepts": {
+    "water": "source_of_life_and_renewal",
+    "stone": "representation_of_endurance_and_strength"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: 思念A "
+    }
+  ]
+}

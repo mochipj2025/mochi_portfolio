@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "silver": "innovation",
+    "black": "reflection"
+  },
+  "numbers": {
+    "4": "completion",
+    "7": "spirituality"
+  },
+  "concepts": {
+    "light": "truth",
+    "water": "lifeblood"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: Romanticism "
+    }
+  ]
+}

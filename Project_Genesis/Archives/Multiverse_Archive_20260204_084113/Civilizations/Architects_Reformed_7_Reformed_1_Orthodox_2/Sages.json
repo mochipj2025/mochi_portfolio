@@ -1,0 +1,58 @@
+[
+  {
+    "name": "TechnoLiberty",
+    "trait": "自由心",
+    "bio": "技術を通じて、人々の自由を守りたいと考える賢者。",
+    "icon": "⚔️",
+    "speech_style": "語尾が〜である(例：~のしよう)",
+    "motivation": {
+      "type": "探求欲",
+      "reason": "新しい技術に基づく社会の可能性"
+    },
+    "influence": 10,
+    "relationships": {
+      "Reformed_1": 0,
+      "Orthodox_2": 0
+    }
+  },
+  {
+    "name": "Reformed_1",
+    "trait": "温和心",
+    "bio": "旧の道を行く賢者。過去の経験に基づいて、今後の道を歩むと考える。",
+    "icon": "☕️",
+    "speech_style": "語尾が〜ない(平板)",
+    "motivation": {
+      "type": "生存欲",
+      "reason": "安全な未来を実現するため"
+    },
+    "influence": 10,
+    "relationships": {
+      "TechnoLiberty": 0,
+      "Orthodox_2": 0
+    }
+  },
+  {
+    "name": "Orthodox_2",
+    "trait": "真実心",
+    "bio": "正しい道を行く賢者。古典的な価値観に基づいて、今後の方向性を決定すると考える。",
+    "icon": "✝️",
+    "speech_style": "語尾が〜ない(平板)",
+    "motivation": {
+      "type": "拡張欲",
+      "reason": "正しい道を行うことで、新しい世代に伝統を継承する"
+    },
+    "influence": 10,
+    "relationships": {
+      "TechnoLiberty": 0,
+      "Reformed_1": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Akira Kogane",
+    "trait": "Sagacious",
+    "bio": "Believing in the power of compassion and understanding, Akira seeks to bridge the gaps between individuals and communities.",
+    "icon": "✨",
+    "speech_style": "Leisurely drawling, with a hint of wisdom",
+    "motivation": {
+      "expansion": 30,
+      "survival": 20,
+      "pursuit": 50
+    },
+    "influence": 10,
+    "relationships": {
+      "Eriko Nagata": 0,
+      "Taro Hirota": 0
+    }
+  },
+  {
+    "name": "Eriko Nagata",
+    "trait": "Inquisitive",
+    "bio": "Eriko believes in the importance of questioning assumptions and seeking truth. She encourages others to do the same, fostering a culture of curiosity.",
+    "icon": "💡",
+    "speech_style": "Rhetorical questions and clever wordplay",
+    "motivation": {
+      "expansion": 40,
+      "survival": 10,
+      "pursuit": 50
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Kogane": 0,
+      "Taro Hirota": 0
+    }
+  },
+  {
+    "name": "Taro Hirota",
+    "trait": "Visionary",
+    "bio": "Taro envisions a world where individuals are free to forge their own paths. He seeks to empower others to take control of their destinies.",
+    "icon": "🔑",
+    "speech_style": "Passionate and persuasive, with a touch of conviction",
+    "motivation": {
+      "expansion": 20,
+      "survival": 30,
+      "pursuit": 50
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Kogane": 0,
+      "Eriko Nagata": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "innovation",
+    "gray": "neutrality"
+  },
+  "numbers": {
+    "1": "unity",
+    "4": "stability"
+  },
+  "concepts": {
+    "circle": "symbol_of_perfection",
+    "cloud": "symbol_of_knowledge"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito Hirose:  Technocratic Spirit**\n\nAkira Kikuhiko's emphasis on human freedom and self-realization reflects a Humanist approach, prioritizing individual autonomy and agency. In contrast, Akira Nishikawa's enthusiasm for AI's potential and Taro Yamada's focus on inner strength suggest a Technocratic Spirit, where technology and AI are seen as means to achieve a higher plane of existence.\n\nThese two perspectives represent fundamentally different visions for humanity's future, with Humanism stressing the importance of human values and freedom, while Technocratic Spirit sees AI as a key driver of progress and advancement."
+    }
+  ]
+}

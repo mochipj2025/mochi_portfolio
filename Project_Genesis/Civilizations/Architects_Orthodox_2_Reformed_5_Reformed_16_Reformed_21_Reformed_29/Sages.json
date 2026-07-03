@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kenji",
+    "trait": "Serenity",
+    "bio": "Seeking balance in all aspects of life, Kenji embodies harmony. He believes that the universe is bound by rules and rhythms, and that humans must learn to attune themselves to these harmonies.",
+    "icon": "⚖️",
+    "speech_style": " gentle and soothing ",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Hiroto": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Innovation",
+    "bio": "With a passion for progress, Kaito sees the world as a canvas waiting to be rewritten. He believes that the pursuit of knowledge is the greatest calling, and that humanity's future lies in embracing chaos and uncertainty.",
+    "icon": "💥",
+    "speech_style": " rapid-fire and analytical ",
+    "motivation": "Expansion",
+    "influence": 15,
+    "relationships": {
+      "Kenji": 0,
+      "Hiroto": 0
+    }
+  },
+  {
+    "name": "Hiroto",
+    "trait": "Wisdom",
+    "bio": "A sage and introspective soul, Hiroto ponders the mysteries of existence. He believes that wisdom lies in embracing the paradoxes of life, and that true understanding can only be achieved by surrendering to the unknown.",
+    "icon": "✨",
+    "speech_style": " slow-paced and contemplative ",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kenji": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

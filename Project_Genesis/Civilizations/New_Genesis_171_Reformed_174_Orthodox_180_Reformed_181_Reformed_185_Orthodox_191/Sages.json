@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "visionary",
+    "bio": "Seeking truth and wisdom through the fusion of ancient knowledge and modern innovation.",
+    "icon": "",
+    "speech_style": "philosophical",
+    "motivation": "探求欲 (Desire to explore)",
+    "influence": 15,
+    "relationships": {
+      "Akira": 0,
+      "Eiichi": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "practical",
+    "bio": "Believing that progress comes from applying timeless principles to real-world problems, I strive to bring wisdom and insight to the everyday lives of people.",
+    "icon": "",
+    "speech_style": "straightforward",
+    "motivation": "生存欲 (Desire for survival)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Eiichi": 0
+    }
+  },
+  {
+    "name": "Eiichi",
+    "trait": "innovative",
+    "bio": "As a dreamer and doer, I believe that imagination is the key to unlocking human potential. I seek to inspire others by turning ideas into reality.",
+    "icon": "",
+    "speech_style": "poetic",
+    "motivation": "拡張欲 (Desire for expansion)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Courageous",
+    "bio": "Believes in the power of human curiosity to shape the course of civilization. Seeks to uncover hidden truths and bring light to darkness.",
+    "icon": "⚖️",
+    "speech_style": "Direct and assertive, with a hint of confidence",
+    "motivation": "Expanding Horizons",
+    "influence": 20,
+    "relationships": {
+      "Zenji": 0,
+      "Akira": 0
+    }
+  }
+]

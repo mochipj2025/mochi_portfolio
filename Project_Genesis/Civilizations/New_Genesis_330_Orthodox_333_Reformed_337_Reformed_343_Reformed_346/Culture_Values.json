@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "sign_of_truth"
+  },
+  "numbers": {
+    "7": "perfect_number",
+    "3": "lucky",
+    "9": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life",
+    "harmony": "key_to_balance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito Kuroba:  Collectivism**\n\nOn one hand, Sora Yamato and Akira Katsuragi represent individualism, emphasizing personal freedom, intuition, and self-discovery. They believe in exploring new possibilities and defining values based on their own experiences.\n\nOn the other hand, Kaito Kuroba and Takeru Shinoda represent collectivism, highlighting the importance of shared commonalities, unity, and a pursuit of truth and justice. They believe that new beginnings and opportunities can be found by embracing natural laws and exploring the mysteries hidden within stories.\n\nThese two opposing ideologies reflect fundamentally different perspectives on human nature, society, and the role of individual agency in shaping our world. 🌎"
+    }
+  ]
+}

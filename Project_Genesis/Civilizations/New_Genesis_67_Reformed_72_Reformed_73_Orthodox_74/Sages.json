@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Koumei Katsuragi",
+    "trait": "Elegance",
+    "bio": "A proponent of harmony and cooperation, Koumei seeks to balance the forces of gravity and optimism. She believes that by embracing the beauty in imperfection, humanity can find strength in its diversity.",
+    "icon": "",
+    "speech_style": "Softly spoken with a hint of melodic intonation.",
+    "motivation": [
+      "Expansive",
+      "Desire to connect disparate perspectives"
+    ],
+    "influence": 25,
+    "relationships": {
+      "Tetsuro Tokugawa": 0,
+      "Hikari Hirota": 0
+    }
+  },
+  {
+    "name": "Tetsuro Tokugawa",
+    "trait": "Tenacity",
+    "bio": "A champion of resilience and determination, Tetsuro is driven by the conviction that even in the face of adversity, humanity can overcome through sheer force of will. His motto: 'Gravity may bend, but spirit never breaks.'",
+    "icon": "",
+    "speech_style": "Forceful and direct, with a hint of roughness.",
+    "motivation": [
+      "Expansive",
+      "Survival instinct"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Koumei Katsuragi": 0,
+      "Hikari Hirota": 0
+    }
+  },
+  {
+    "name": "Hikari Hirota",
+    "trait": "Curiosity",
+    "bio": "A seeker of knowledge and wisdom, Hikari believes that the pursuit of understanding is the key to unlocking humanity's true potential. He sees gravity as an opportunity to explore new frontiers and challenge the status quo.",
+    "icon": "",
+    "speech_style": "Inquisitive and analytical, with a playful air.",
+    "motivation": [
+      "Exploratory",
+      "Desire to uncover hidden truths"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Koumei Katsuragi": 0,
+      "Tetsuro Tokugawa": 0
+    }
+  },
+  {
+    "name": "Rennaku",
+    "trait": "Analysis",
+    "bio": "A rational thinker who values evidence-based reasoning, Rennaku is cautious about leaping into action without thorough analysis. He seeks to uncover underlying principles and patterns before making recommendations.",
+    "icon": "🔍",
+    "speech_style": "Dry wit",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Kaidō": 0
+    }
+  }
+]

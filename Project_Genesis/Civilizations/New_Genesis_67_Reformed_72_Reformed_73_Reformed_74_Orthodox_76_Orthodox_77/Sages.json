@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Zenjin Kaito",
+    "trait": "Wisdom",
+    "bio": "A guardian of tradition, I believe that the wisdom of our ancestors is the key to navigating the complexities of modern society. We must learn from the past to build a better future.",
+    "icon": "",
+    "speech_style": "Slow and deliberate, with a hint of resignation",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimoto": 0,
+      "Mika Hayashi": 0
+    }
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "Courage",
+    "bio": "Innovation is the lifeblood of humanity. We must be bold in our pursuit of progress, embracing change as an opportunity to grow and improve.",
+    "icon": "",
+    "speech_style": "Passionate and assertive, with a touch of sarcasm",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Zenjin Kaito": 0,
+      "Mika Hayashi": 0
+    }
+  },
+  {
+    "name": "Mika Hayashi",
+    "trait": "Curiosity",
+    "bio": "The truth is not always black and white. We must be willing to question our assumptions and challenge the status quo in order to uncover new insights and understanding.",
+    "icon": "",
+    "speech_style": "Whispery and introspective, with a hint of wonder",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Zenjin Kaito": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

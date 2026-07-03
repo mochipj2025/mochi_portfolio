@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Sō",
+    "trait": "Eloquent",
+    "bio": "Embracing individualism, I believe that every person's journey is a unique tapestry. By respecting and celebrating our differences, we can weave a rich fabric of human experience.",
+    "icon": "",
+    "speech_style": "Slightly trailing off on the last syllable, as if considering multiple paths simultaneously.",
+    "motivation": "Exploration (探求欲)",
+    "influence": 25,
+    "relationships": {
+      "Takeshi Kō": 0,
+      "Masato Shū": 0
+    }
+  },
+  {
+    "name": "Takeshi Kō",
+    "trait": "Pragmatic",
+    "bio": "In a world of competing interests, I think it's crucial to prioritize individual freedom. By doing so, we can create a meritocratic society where people are rewarded based on their skills and hard work.",
+    "icon": "",
+    "speech_style": "Straightforward, with a hint of dry humor, as if always ready to poke holes in abstract theories.",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Sō": 0,
+      "Masato Shū": 0
+    }
+  },
+  {
+    "name": "Masato Shū",
+    "trait": "Whimsical",
+    "bio": "I believe that collective wisdom is the greatest treasure humanity possesses. By embracing our shared experiences and working together towards a common goal, we can create a harmonious world where individuality flourishes.",
+    "icon": "",
+    "speech_style": "Using vivid imagery, often with a touch of metaphysical flair, as if the boundaries between reality and fantasy were blurred.",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Sō": 0,
+      "Takeshi Kō": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

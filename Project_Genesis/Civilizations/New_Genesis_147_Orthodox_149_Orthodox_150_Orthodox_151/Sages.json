@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kaito Zenji",
+    "trait": "和敬の心",
+    "bio": "「平和には導くべきである」という信念を持ち、人々を繋げる力を持つ。",
+    "icon": "",
+    "speech_style": "語尾が〜れる",
+    "motivation": "拡張欲 ( Desire for Expansion)",
+    "influence": 20,
+    "relationships": {
+      "Akira Kikuhiko": 0,
+      "Hiroshi Shinsen": 0
+    }
+  },
+  {
+    "name": "Akira Kikuhiko",
+    "trait": "自由の炎",
+    "bio": "「人々を自由に生きさせることが大切」という信念を持つ、革新的思考を目指す。",
+    "icon": "",
+    "speech_style": "語尾が〜ね",
+    "motivation": "探求欲 ( Desire for Discovery)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Hiroshi Shinsen": 0
+    }
+  },
+  {
+    "name": "Hiroshi Shinsen",
+    "trait": "剛健の精神",
+    "bio": "「強い心を持つことが大切」という信念を持つ、困難を乗り越えるための力を持つ。",
+    "icon": "",
+    "speech_style": "語尾が〜り",
+    "motivation": "生存欲 ( Desire for Survival)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Akira Kikuhiko": 0
+    }
+  },
+  {
+    "name": "Kaito Zenji",
+    "trait": "Grounded",
+    "bio": "Finding harmony between nature and technology",
+    "icon": "🌱",
+    "speech_style": "speaking with gentle conviction",
+    "motivation": {
+      "type": "生存欲",
+      "description": "Ensuring the balance of humanity's relationship with the environment"
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Hikari": 0,
+      "Lila Katsuragi": 0
+    }
+  }
+]

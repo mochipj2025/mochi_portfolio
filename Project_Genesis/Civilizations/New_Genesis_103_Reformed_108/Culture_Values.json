@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "spiritual",
+    "gold": "prosperity",
+    "blue": " wisdom"
+  },
+  "numbers": {
+    "3": "harmony",
+    "7": "completion",
+    "108": "mastery"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "void": "path_to_growth",
+    "heritage": "source_of_identity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kokoro Yamato:  Transcendentalism**\n\n（思想A：Humanism）\n\n* Kokoro Yamato's emphasis on shared heritage, collective identity, and social recognition of digital personas reflects a humanistic approach that values humanity's connection to the world.\n\n（思想B：Transcendentalism）\n\n* Renn Kaito's focus on uncovering secrets, exploring the void, and seeking new paths of growth embodies a transcendentalist philosophy that seeks to go beyond human limitations."
+    }
+  ]
+}

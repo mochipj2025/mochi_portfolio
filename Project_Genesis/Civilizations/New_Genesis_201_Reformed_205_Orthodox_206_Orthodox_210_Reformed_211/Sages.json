@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Wise and collected",
+    "bio": "As a champion of group cohesion, I believe that unity is key to achieving our goals. By putting the needs of others first, we can create a sense of security and stability that allows us to thrive.",
+    "icon": "",
+    "speech_style": "Smooth and measured",
+    "motivation": "Expansion (desire to expand and strengthen community)",
+    "influence": 10,
+    "relationships": {
+      "Renn": 0,
+      "Eiko": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Free-spirited and adventurous",
+    "bio": "As a proponent of individualism, I believe that our greatest achievements come from embracing our unique qualities. By taking risks and pursuing our passions, we can create something truly remarkable.",
+    "icon": "",
+    "speech_style": "Fast-paced and passionate",
+    "motivation": "Pursuit (desire to explore and discover)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Eiko": 0
+    }
+  },
+  {
+    "name": "Eiko",
+    "trait": "Enigmatic and introspective",
+    "bio": "As a voice of balance, I believe that we must find a middle ground between individual freedom and group cohesion. By acknowledging the value of both, we can create a world where everyone can flourish.",
+    "icon": "",
+    "speech_style": "Thoughtful and contemplative",
+    "motivation": "Survival (desire to maintain harmony and stability)",
+    "influence": 20,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

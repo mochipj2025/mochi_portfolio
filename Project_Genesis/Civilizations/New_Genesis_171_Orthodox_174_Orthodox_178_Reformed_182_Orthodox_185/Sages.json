@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Zenon Kuroba",
+    "trait": "Wisdom in stillness",
+    "bio": "Conservation of traditional knowledge and practices is essential to preserving cultural heritage.",
+    "icon": "",
+    "speech_style": "Low and measured tones, punctuated by pauses for contemplation",
+    "motivation": "Survival (self-preservation)",
+    "influence": 10,
+    "relationships": {
+      "Eiraku Shunji": 0,
+      "Rennyo Kiyomizu": 0
+    }
+  },
+  {
+    "name": "Eiraku Shunji",
+    "trait": "Unyielding conviction",
+    "bio": "Innovation and progress are the keys to unlocking human potential.",
+    "icon": "",
+    "speech_style": "Forceful and decisive, with a hint of passion",
+    "motivation": "Expansion (pursuit of knowledge and discovery)",
+    "influence": 10,
+    "relationships": {
+      "Zenon Kuroba": 0,
+      "Rennyo Kiyomizu": 0
+    }
+  },
+  {
+    "name": "Rennyo Kiyomizu",
+    "trait": "Balance in turmoil",
+    "bio": "The best of both worlds can be achieved through compromise and harmony.",
+    "icon": "",
+    "speech_style": "Soft-spoken yet persuasive, with a touch of humor",
+    "motivation": "Exploration (seeking truth and understanding)",
+    "influence": 10,
+    "relationships": {
+      "Zenon Kuroba": 0,
+      "Eiraku Shunji": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

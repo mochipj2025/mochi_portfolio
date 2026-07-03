@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Rōshi",
+    "trait": "自由の息子",
+    "bio": "自由を実現するためには、個性と Creativity が必要不可欠",
+    "icon": "",
+    "speech_style": "詩人的語尾に〜なる",
+    "motivation": {
+      "expansion": 80,
+      "survival": 60,
+      "exploration": 40
+    },
+    "influence": 10,
+    "relationships": {
+      "-Kaito-": 0,
+      "Sōji": 0
+    }
+  },
+  {
+    "name": "-Kaito-",
+    "trait": "無私の自由神",
+    "bio": "私は自由を実現するためには、自己の境界を超えておく必要がある",
+    "icon": "",
+    "speech_style": "率直、しかし鋭く",
+    "motivation": {
+      "expansion": 90,
+      "survival": 50,
+      "exploration": 30
+    },
+    "influence": 15,
+    "relationships": {
+      "Rōshi": 0,
+      "Sōji": 0
+    }
+  },
+  {
+    "name": "Sōji",
+    "trait": "自由の道化師",
+    "bio": "自由を実現するためには、他の者の自由も尊重することが必要",
+    "icon": "",
+    "speech_style": "語尾に〜で締めくくる",
+    "motivation": {
+      "expansion": 70,
+      "survival": 70,
+      "exploration": 50
+    },
+    "influence": 10,
+    "relationships": {
+      "Rōshi": 0,
+      "-Kaito-": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

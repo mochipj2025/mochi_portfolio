@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "red": "sign_of_mastery",
+    "black": "symbol_of_purification"
+  },
+  "numbers": {
+    "7": "harmony_with_entropy"
+  },
+  "concepts": {
+    "fire": "essence_of_transformation",
+    "water": "source_of_renewal"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Entropy"
+    }
+  ]
+}

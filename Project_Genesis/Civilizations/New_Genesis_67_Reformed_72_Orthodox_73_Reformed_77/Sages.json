@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Pragmatic Idealist",
+    "bio": "A proponent of regulated capitalism, believing that individual freedom and private property can coexist harmoniously. Kaito advocates for a balanced approach between the economic benefits of market forces and the social welfare needs of the community.",
+    "icon": "💔",
+    "speech_style": "Erudite and measured, with a hint of dry wit",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimoto": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "Radical Entrepreneur",
+    "bio": "A passionate advocate for laissez-faire capitalism, Renn believes that unchecked economic forces can drive innovation and progress. He argues that government intervention only stifles creativity and stunts growth.",
+    "icon": "🏛️",
+    "speech_style": "Fast-paced and persuasive, with a touch of arrogance",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "Lila Luna",
+    "trait": "Philosophical Anarchist",
+    "bio": "A proponent of anarcho-capitalism, Lila argues that private property is the source of all social problems. She believes that individuals should be free to pursue their own interests without government interference or coercion.",
+    "icon": "✨",
+    "speech_style": "Meandering and introspective, with a hint of irony",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Nagahara Naomichi ",
+    "trait": "Enigmatic",
+    "bio": "Liberty is not just about individual freedom but also about understanding and respecting the liberty of others. It's a delicate balance we must strive for.",
+    "icon": "",
+    "speech_style": "With a subtle hint of intrigue, as if sharing secrets",
+    "motivation": "Exploration (seeking truth and wisdom)",
+    "influence": 10,
+    "relationships": {
+      "Kaidō Kyōsuke ": 0,
+      "Akane Akira ": 0
+    }
+  }
+]

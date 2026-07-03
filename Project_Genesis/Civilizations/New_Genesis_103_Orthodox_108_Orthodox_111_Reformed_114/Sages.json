@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Katsuragi",
+    "trait": "理論的",
+    "bio": "Humanitarian values should be prioritized to ensure the greatest happiness for all. This is the only way to achieve true progress.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Lǐ Xiǎo": 0,
+      "Ryō Tamura": 0
+    }
+  },
+  {
+    "name": "Lǐ Xiǎo",
+    "trait": "深思",
+    "bio": "The pursuit of knowledge and understanding is not about personal gain, but about cultivating wisdom that can benefit humanity.",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Ryō Tamura": 0
+    }
+  },
+  {
+    "name": "Ryō Tamura",
+    "trait": "実践的",
+    "bio": "The greatest good is achieved through the harmonious balance of individual and collective interests. We must strive for a world where all can thrive.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Lǐ Xiǎo": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "Seeking truth through empirical knowledge and philosophical inquiry.",
+    "icon": "🔥",
+    "speech_style": "Eloquent and calculated",
+    "motivation": "Discovery",
+    "influence": 15,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Takeru Shinoda": 0
+    }
+  }
+]

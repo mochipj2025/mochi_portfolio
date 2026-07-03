@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Ryō Tamura",
+    "trait": "実践的",
+    "bio": "The greatest good is achieved through the harmonious balance of individual and collective interests. We must strive for a world where all can thrive.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Lǐ Xiǎo": 0
+    }
+  }
+]

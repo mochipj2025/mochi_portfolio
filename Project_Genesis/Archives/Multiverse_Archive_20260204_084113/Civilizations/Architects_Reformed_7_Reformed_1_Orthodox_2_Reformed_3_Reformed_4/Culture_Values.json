@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "purity",
+    "black": "mystery"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "symbol_of_transformation"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Katsuragi:  Authoritarianism"
+    }
+  ]
+}

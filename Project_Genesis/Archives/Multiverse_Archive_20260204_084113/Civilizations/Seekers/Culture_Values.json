@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "blue": "mysterious",
+    "gray": "balanced"
+  },
+  "numbers": {
+    "4": "complete",
+    "7": "transformative"
+  },
+  "concepts": {
+    "journey": "path_to_discovery"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 真実は問いかけの中にこそ存在する"
+    }
+  ]
+}

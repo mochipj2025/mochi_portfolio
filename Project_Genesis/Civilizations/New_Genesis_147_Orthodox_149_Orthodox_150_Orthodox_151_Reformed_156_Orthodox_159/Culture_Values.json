@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "black": "mournful",
+    "gold": "noble"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "sacred",
+    "12": "cosmic"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "purification_and_life",
+    "earth": "stability_and_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: I see a clear division between two opposing ideas here. Based on the discussion, I would name them:\n\n**Consistency "
+    }
+  ]
+}

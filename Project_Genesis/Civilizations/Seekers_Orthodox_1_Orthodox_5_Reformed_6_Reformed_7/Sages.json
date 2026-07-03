@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "自由の芽",
+    "bio": "Human agency is the key to unlocking our understanding of gravity. By sharing knowledge and wisdom, we can shape our future.",
+    "icon": "",
+    "speech_style": "柔軟な语尾~",
+    "motivation": "探求欲",
+    "influence": 20,
+    "relationships": {
+      "Midori Muraoka": 0,
+      "Renn Ichijō": 0
+    }
+  },
+  {
+    "name": "Midori Muraoka",
+    "trait": "宇宙の流れ",
+    "bio": "Gravity is a fundamental force that shapes the universe. We must respect its power and study it to understand its secrets.",
+    "icon": "",
+    "speech_style": "荘重な語調_",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Ichijō": 0
+    }
+  },
+  {
+    "name": "Renn Ichijō",
+    "trait": "宇宙の謎",
+    "bio": "Gravity is a mystery that has captivated human imagination. By embracing the unknown, we can unlock new discoveries and push the boundaries of our understanding.",
+    "icon": "",
+    "speech_style": "探求の語調^",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Midori Muraoka": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

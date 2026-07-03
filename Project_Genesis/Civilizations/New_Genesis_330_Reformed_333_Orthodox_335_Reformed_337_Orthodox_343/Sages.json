@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kōjin",
+    "trait": "燿",
+    "bio": "Humanity's potential unlocked by embracing the unknown.",
+    "icon": "🔥",
+    "speech_style": "語尾が〜である",
+    "motivation": "探求欲",
+    "influence": 15,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Eita Emiya": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "暗",
+    "bio": "The path to enlightenment is paved with the darkness of ignorance.",
+    "icon": "🌑",
+    "speech_style": "荒々しい",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Eita Emiya": 0
+    }
+  },
+  {
+    "name": "Eita Emiya",
+    "trait": "想",
+    "bio": "The pursuit of wisdom is a pilgrimage through the realms of the mind.",
+    "icon": "✨",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

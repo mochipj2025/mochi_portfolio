@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kaida",
+    "trait": "Ingenious",
+    "bio": "Seeking harmony between reason and revelation, I believe that the pursuit of knowledge is a sacred duty.",
+    "icon": ":bulb:",
+    "speech_style": "Precise and calculated, often using analogies to illustrate complex ideas",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Takeru Takeda": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "Takeru Takeda",
+    "trait": "Eloquent",
+    "bio": "In every era, there is a need for prophets who speak truth to power. I am humbled by the responsibility.",
+    "icon": ":book:",
+    "speech_style": "Charismatic and persuasive, using metaphors to convey emotional depth",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kaida": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Practical",
+    "bio": "The pursuit of wisdom is a means to an end; the end being the betterment of human society. Let us make it so.",
+    "icon": ":gear:",
+    "speech_style": "Direct and straightforward, often using examples from everyday life to illustrate abstract concepts",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kaida": 0,
+      "Takeru Takeda": 0
+    }
+  },
+  {
+    "name": "Kaito Kaida",
+    "trait": "Insightful",
+    "bio": "I believe that the course of human events is shaped by the choices we make. Free will is the foundation upon which our civilization stands.",
+    "icon": ":star:",
+    "speech_style": "Softly spoken, with a gentle emphasis on key points.",
+    "motivation": "Exploration (探求欲)",
+    "influence": 45,
+    "relationships": {
+      "Akira Akiyama": 0,
+      "Lila Luminari": 0
+    }
+  }
+]

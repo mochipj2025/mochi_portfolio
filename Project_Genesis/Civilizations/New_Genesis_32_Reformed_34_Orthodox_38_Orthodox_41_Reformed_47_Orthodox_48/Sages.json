@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaelin Valtor",
+    "trait": "Pragmatic",
+    "bio": "Advocating for the collective good above individual interests. Sacrifice is necessary for the greater good.",
+    "icon": "⚖️",
+    "speech_style": "Direct, no-nonsense, cutting through ambiguity with a sharp tongue.",
+    "motivation": "Survival: driven to ensure the well-being of the community and protect its values.",
+    "influence": 10,
+    "relationships": {
+      "Renn Kaidō": 0,
+      "Lysander Wynter": 0
+    }
+  }
+]

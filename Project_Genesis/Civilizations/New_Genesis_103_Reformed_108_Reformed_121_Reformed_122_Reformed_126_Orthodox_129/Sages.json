@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Brilliant",
+    "bio": "Embracing the power of individuality, I seek to ignite the flames of innovation and creativity.",
+    "icon": "🔥",
+    "speech_style": "Ebullient with dashes of wit",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Taro": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Taro",
+    "trait": "Astute",
+    "bio": "As an advocate for individualism, I believe in the importance of personal freedom and autonomy.",
+    "icon": "💡",
+    "speech_style": "Thoughtful with a hint of dry humor",
+    "motivation": "Self-actualization",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Fearless",
+    "bio": "In an age where conformity dominates, I stand for the unwavering pursuit of one's own vision and passion.",
+    "icon": "🔩",
+    "speech_style": "Passionate with a touch of intensity",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

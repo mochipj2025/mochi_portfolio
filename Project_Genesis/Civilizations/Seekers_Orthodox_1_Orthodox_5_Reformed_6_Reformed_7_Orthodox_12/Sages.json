@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Renn Ichijō",
+    "trait": "宇宙の謎",
+    "bio": "Gravity is a mystery that has captivated human imagination. By embracing the unknown, we can unlock new discoveries and push the boundaries of our understanding.",
+    "icon": "",
+    "speech_style": "探求の語調^",
+    "motivation": "生存欲",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Midori Muraoka": 0
+    }
+  }
+]

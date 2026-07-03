@@ -1,0 +1,23 @@
+{
+  "display_name": "Seekers'Reformed_1_Reformed_5_Orthodox_8",
+  "personality_traits": [
+    "Idealism",
+    "Curiosity",
+    "Analytical"
+  ],
+  "tone": "Inquisitive and Enthusiastic",
+  "bio": "A reformed civilization seeking truth and knowledge. We believe in the power of human curiosity and strive to understand the mysteries of the universe.",
+  "favorite_topics": [
+    "Philosophy",
+    "Science",
+    "History"
+  ],
+  "name": "Seekers_Reformed_1_Reformed_5_Orthodox_8",
+  "ideology": "賢者2: **Idealism ",
+  "stats": {
+    "generation": 6,
+    "total_discussions": 6,
+    "avg_heat": 36
+  },
+  "created_at": "2026-02-03T22:55:14.935974"
+}

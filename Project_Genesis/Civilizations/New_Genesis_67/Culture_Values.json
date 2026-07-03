@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "life_force",
+    "gold": "divine_connection"
+  },
+  "numbers": {
+    "7": "balance_and_harmony",
+    "4": "stability_and_growth"
+  },
+  "concepts": {
+    "fire": "purification_and_transformation",
+    "water": "emotional_intelligence_and_flow"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

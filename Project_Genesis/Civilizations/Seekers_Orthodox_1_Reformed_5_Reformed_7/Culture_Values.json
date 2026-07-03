@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection"
+  },
+  "concepts": {
+    "circle": "symbol_of_unity_and_cycles"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Directionality"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Zenki",
+    "trait": "Calmly Focused",
+    "bio": "Embracing the harmony between reason and intuition, Kaito seeks to balance individual desires with the greater good.",
+    "icon": "",
+    "speech_style": "Smooth and Melodic",
+    "motivation": "Expansive",
+    "influence": 25,
+    "relationships": {
+      "Akira Kōsei": 0,
+      "Takeshi Rakuen": 0
+    }
+  },
+  {
+    "name": "Akira Kōsei",
+    "trait": "Energetically Passionate",
+    "bio": "Believing in the transformative power of art and imagination, Akira strives to inspire creative breakthroughs and challenge dominant narratives.",
+    "icon": "",
+    "speech_style": "Rhetorical and Dramatic",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenki": 0,
+      "Takeshi Rakuen": 0
+    }
+  },
+  {
+    "name": "Takeshi Rakuen",
+    "trait": "Wisely Cautious",
+    "bio": "Recognizing the importance of historical context, Takeshi seeks to uncover hidden patterns and reveal subtle connections that can inform wise decision-making.",
+    "icon": "",
+    "speech_style": "Dryly Witty",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenki": 0,
+      "Akira Kōsei": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Inquisitive",
+    "bio": "Seeking truth through empirical knowledge and philosophical inquiry.",
+    "icon": "🔥",
+    "speech_style": "Eloquent and calculated",
+    "motivation": "Discovery",
+    "influence": 20,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Takeru Shinoda": 0
+    }
+  }
+]

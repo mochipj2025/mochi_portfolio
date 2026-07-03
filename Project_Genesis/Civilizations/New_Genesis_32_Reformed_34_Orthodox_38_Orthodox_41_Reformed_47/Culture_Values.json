@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "orange": "harmony",
+    "green": "growth",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection",
+    "3": "balance"
+  },
+  "concepts": {
+    "water": "symbol_of_transformation",
+    "earth": "symbol_of_stability",
+    "heart": "symbol_of_compassion"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Collectivism**\n\nOn one hand, 賢者3 (middle-of-the-road) advocates for the pursuit of passion and transformation, emphasizing individual freedom and creativity. This perspective prioritizes personal values and experiences over collective well-being.\n\nOn the other hand, 賢者1 and 賢者2 (both middle-of-the-road) emphasize the importance of balance, harmony, and sacrifice for the greater good. This collectivist approach prioritizes the needs of the community over individual desires.\n\nThese two ideologies represent fundamentally different perspectives on the nature of human existence, social organization, and the pursuit of wisdom."
+    }
+  ]
+}

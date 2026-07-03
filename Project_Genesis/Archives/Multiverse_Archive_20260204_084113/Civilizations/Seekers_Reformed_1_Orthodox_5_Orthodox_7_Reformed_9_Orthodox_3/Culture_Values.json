@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "red": "symbol_of_freedom"
+  },
+  "numbers": {
+    "1": "perfect_and_independent",
+    "3": "lucky_and_unconventional"
+  },
+  "concepts": {
+    "fire": "spark_of_creativity",
+    "sky": "realm_of_endless_possibilities"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: **Individualism "
+    }
+  ]
+}

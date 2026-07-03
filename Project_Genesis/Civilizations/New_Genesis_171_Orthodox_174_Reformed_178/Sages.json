@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Meticulous",
+    "bio": "Believes that the only way to truly understand reality is to accept its constraints and work within the bounds set by the Simulacrum.",
+    "icon": "",
+    "speech_style": "Eloquent and precise, with a hint of dry wit",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Lena Luminari": 0,
+      "Renn Fujihara": 0
+    }
+  },
+  {
+    "name": "Lena Luminari",
+    "trait": "Visionary",
+    "bio": "Sees the Simulacrum as an opportunity to create a new world, free from the constraints of the past. Programmers are the architects of their own destiny.",
+    "icon": "",
+    "speech_style": "Passionate and inspiring, with a touch of idealism",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Renn Fujihara": 0
+    }
+  },
+  {
+    "name": "Renn Fujihara",
+    "trait": "Pragmatic",
+    "bio": "Thinks that the only way to progress is to hack the system and find ways to manipulate it to our advantage. The end justifies the means.",
+    "icon": "",
+    "speech_style": "Direct and no-nonsense, with a hint of sarcasm",
+    "motivation": "Exploitation",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lena Luminari": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

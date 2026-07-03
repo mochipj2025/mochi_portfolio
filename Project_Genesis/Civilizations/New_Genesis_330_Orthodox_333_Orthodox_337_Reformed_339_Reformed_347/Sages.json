@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Calming",
+    "bio": "Kaito believes that true strength lies in understanding and embracing the complexities of human nature. He advocates for empathy and cooperation as the keys to maintaining social harmony.",
+    "icon": "",
+    "speech_style": "Smooth and collected, with a gentle inflection at the end of sentences.",
+    "motivation": "拡張欲 (Expansionist desire): Kaito seeks to expand his network of connections and build bridges between different factions to foster greater unity.",
+    "influence": 10,
+    "relationships": {
+      "Akira Akiyama": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Akira Akiyama",
+    "trait": "Steadfast",
+    "bio": "Akira is convinced that stability can only be achieved through the application of strict principles and a strong sense of justice. He believes in upholding traditional values and maintaining order through discipline.",
+    "icon": "",
+    "speech_style": "Direct and clear, with a firm tone that brooks no nonsense.",
+    "motivation": "生存欲 (Survivalist desire): Akira prioritizes preserving the status quo and ensuring the continued survival of his community above all else.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Enthusiastic",
+    "bio": "Lila is an optimist who sees social stability as the key to unlocking humanity's full potential. She advocates for creative problem-solving and innovative thinking as the catalysts for positive change.",
+    "icon": "",
+    "speech_style": "Ebullient and expressive, with a tendency to pepper her sentences with rhetorical flourishes.",
+    "motivation": "探求欲 (Curiosity): Lila is driven by a desire to uncover new knowledge and inspire others to do the same, believing that this pursuit of wisdom will ultimately lead to greater social harmony.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Akiyama": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

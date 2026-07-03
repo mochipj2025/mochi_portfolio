@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Arashi",
+    "trait": "**自由の象徴**",
+    "bio": "Believer in limitless possibilities, always seeking new horizons to conquer.",
+    "icon": "",
+    "speech_style": "softly with a hint of excitement",
+    "motivation": "expansion of freedom and discovery",
+    "influence": 10,
+    "relationships": {
+      "Akira Shinsui": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Akira Shinsui",
+    "trait": "**秩序の基礎**",
+    "bio": "Proponent of stability and structure, convinced that order is the foundation for progress.",
+    "icon": "",
+    "speech_style": "firmly with a hint of authority",
+    "motivation": "maintenance of balance and protection",
+    "influence": 10,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Lila Katsuragi",
+    "trait": "**創造の源流**",
+    "bio": "Champion of innovation and imagination, believing that creativity is the spark for human advancement.",
+    "icon": "",
+    "speech_style": "whimsically with a hint of playfulness",
+    "motivation": "inspiration and self-expression",
+    "influence": 10,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Akira Shinsui": 0
+    }
+  },
+  {
+    "name": "Kaito Arashi",
+    "trait": "Fierce Passion",
+    "bio": "Believes that the will of humanity can shape the world's destiny. Advocates for bold innovation and unyielding perseverance.",
+    "icon": "",
+    "speech_style": "Passionate and assertive, often using metaphors to drive home a point",
+    "motivation": "Exploration (and shaping) of the unknown",
+    "influence": 10,
+    "relationships": {
+      "Lila Sakura": 0,
+      "Ryota Kuroba": 0
+    }
+  }
+]

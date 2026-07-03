@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kai 'Sim' Liao",
+    "trait": "Precisionist",
+    "bio": "Believes that true knowledge can only be obtained through precise control and simulation of the world.",
+    "icon": "Ⓤ",
+    "speech_style": "Formal, calculated tone with a hint of condescension",
+    "motivation": "Expansion (wants to expand his understanding of the world through simulations)",
+    "influence": 10,
+    "relationships": {
+      "Akira 'Axiom' Tanaka": 0,
+      "Eiji 'Echo' Nakamura": 0
+    }
+  },
+  {
+    "name": "Akira 'Axiom' Tanaka",
+    "trait": "Existentialist",
+    "bio": "Thinks that true existence is only found in the actual world, transcending simulations and control.",
+    "icon": "✨",
+    "speech_style": "Thoughtful, introspective tone with a hint of urgency",
+    "motivation": "Survival (wants to survive in a world where simulations are not enough)",
+    "influence": 20,
+    "relationships": {
+      "Kai 'Sim' Liao": 0,
+      "Eiji 'Echo' Nakamura": 0
+    }
+  },
+  {
+    "name": "Eiji 'Echo' Nakamura",
+    "trait": "Curiosity-driven",
+    "bio": "Believes that the pursuit of knowledge and understanding is an end in itself, rather than a means to achieve something else.",
+    "icon": "💡",
+    "speech_style": "Inquisitive, enthusiastic tone with a hint of playfulness",
+    "motivation": "Discovery (wants to uncover new truths and explore the unknown)",
+    "influence": 10,
+    "relationships": {
+      "Kai 'Sim' Liao": 0,
+      "Akira 'Axiom' Tanaka": 0
+    }
+  },
+  {
+    "name": "Akira 'Axiom' Tanaka",
+    "trait": "Enigmatic",
+    "bio": "I don't believe in either existentialism or simulationism. Reality is whatever we make it, and I'll do whatever it takes to ensure our existence has meaning.",
+    "icon": "",
+    "speech_style": "Mysterious and cryptic, often leaving others wondering what they really mean",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Zenith 'Z' Kaida": 0,
+      "Kai 'Sim' Liao": 0
+    }
+  }
+]

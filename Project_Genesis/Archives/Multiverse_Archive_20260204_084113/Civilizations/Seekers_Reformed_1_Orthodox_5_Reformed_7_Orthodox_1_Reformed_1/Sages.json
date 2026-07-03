@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "Audacious",
+    "bio": "I believe that the pursuit of knowledge and understanding should be guided by reason and individual judgment. The truth lies in the examination and validation of ideas, not in dogmatic adherence to tradition or authority.",
+    "icon": "✨",
+    "speech_style": "Directly and unapologetically stating one's truth, often ending with a rhetorical question.",
+    "motivation": "Exploration (80%): I'm driven by an insatiable curiosity to uncover new truths and challenge existing assumptions.",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Meticulous",
+    "bio": "I hold that the pursuit of knowledge should be grounded in rigorous analysis, empirical evidence, and a commitment to intellectual honesty. Objectivity is achieved by recognizing and valuing individual perspectives.",
+    "icon": "♟️",
+    "speech_style": "Using precise language, often rephrasing statements to clarify and strengthen their logical foundation.",
+    "motivation": "Survival (60%): My primary motivation is to safeguard my own existence and the well-being of those around me through self-sufficiency and independence.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Lila Lunaria": 0
+    }
+  },
+  {
+    "name": "Lila Lunaria",
+    "trait": "Visionary",
+    "bio": "I believe that the pursuit of knowledge and understanding should be guided by a sense of wonder, curiosity, and imagination. The truth lies in the creative synthesis of diverse perspectives and experiences.",
+    "icon": "🔭",
+    "speech_style": "Using vivid imagery and storytelling to convey complex ideas, often weaving together seemingly unrelated concepts.",
+    "motivation": "Expansion (90%): I'm driven by an insatiable desire to explore new possibilities, challenge existing boundaries, and create innovative solutions.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

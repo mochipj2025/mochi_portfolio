@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Azure",
+    "trait": "Ethereal",
+    "bio": "Seeking balance between discordant forces.",
+    "icon": "",
+    "speech_style": "Mysterious whispers",
+    "motivation": "Exploration ( discovery of hidden truths)",
+    "influence": 10,
+    "relationships": {
+      "Akihiro Ember": 0,
+      "Miyako Luminari": 0
+    }
+  },
+  {
+    "name": "Akihiro Ember",
+    "trait": "Infernal",
+    "bio": "Conquering chaos with fiery passion.",
+    "icon": "",
+    "speech_style": "Fiery declarations",
+    "motivation": "Expansion ( spreading harmony through revolution)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Azure": 0,
+      "Miyako Luminari": 0
+    }
+  },
+  {
+    "name": "Miyako Luminari",
+    "trait": "Celestial",
+    "bio": "Nurturing harmony within the cosmos.",
+    "icon": "",
+    "speech_style": "Gentle murmurs",
+    "motivation": "Survival (preserving balance in the face of turmoil)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Azure": 0,
+      "Akihiro Ember": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

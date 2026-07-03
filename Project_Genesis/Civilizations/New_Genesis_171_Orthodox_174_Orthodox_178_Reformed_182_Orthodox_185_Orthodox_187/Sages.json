@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Rennyo Kiyomizu",
+    "trait": "Balance in turmoil",
+    "bio": "The best of both worlds can be achieved through compromise and harmony.",
+    "icon": "",
+    "speech_style": "Soft-spoken yet persuasive, with a touch of humor",
+    "motivation": "Exploration (seeking truth and understanding)",
+    "influence": 20,
+    "relationships": {
+      "Zenon Kuroba": 0,
+      "Eiraku Shunji": 0
+    }
+  }
+]

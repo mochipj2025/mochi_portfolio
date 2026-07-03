@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Kaito Akatsuki",
+    "trait": "伝統的Tradition-bound",
+    "bio": "A stalwart defender of established wisdom, Kaito is a master of ancient texts and unwavering in his commitment to preserving cultural heritage. His idealism is rooted in the pursuit of timeless truths.",
+    "motivation": "生存欲Desire for Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira Kazehaya": 0,
+      "Hiroshi Shizuka": 0
+    }
+  },
+  {
+    "name": "Akira Kazehaya",
+    "trait": "進歩的Progressive",
+    "bio": "A visionary advocate for innovation, Akira champions bold ideas and unorthodox thinking. His idealism is fueled by a passion for creating a better future.",
+    "motivation": "探求欲Desire for Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Akatsuki": 0,
+      "Hiroshi Shizuka": 0
+    }
+  },
+  {
+    "name": "Hiroshi Shizuka",
+    "trait": "実務的Practical",
+    "bio": "A pragmatic problem-solver, Hiroshi is driven by a desire to apply theoretical knowledge to real-world challenges. His idealism is grounded in his commitment to making a tangible impact.",
+    "motivation": "拡張欲Desire for Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Akatsuki": 0,
+      "Akira Kazehaya": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 35,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaidō",
+    "trait": "Innovation",
+    "bio": "Thrilled by the possibilities of human imagination, Kaidō believes that creativity is the spark that drives progress. He advocates for bold experimentation and calculated risk-taking.",
+    "icon": "✨",
+    "speech_style": "Ebullient",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Rennaku": 0
+    }
+  }
+]

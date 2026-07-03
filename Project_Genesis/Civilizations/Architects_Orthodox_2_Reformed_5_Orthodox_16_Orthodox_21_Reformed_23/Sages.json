@@ -1,0 +1,25 @@
+[
+  {
+    "name": "",
+    "trait": "",
+    "bio": "",
+    "icon": "",
+    "speech_style": "",
+    "motivation": "",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Koji Katsuragi",
+    "trait": "Analytical",
+    "bio": "I believe that human behavior is influenced by both internal and external factors. We must understand these influences to make informed decisions.",
+    "icon": "",
+    "speech_style": "Dry and detached, with a hint of skepticism",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Shiori Sakura": 0
+    }
+  }
+]

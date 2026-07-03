@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Akira Kazehaya",
+    "trait": "Progressive",
+    "bio": "A visionary who embodies the spirit of innovation and progress. Believes in embracing change to create a better future.",
+    "motivation": "探求欲 (Exploratory)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Ryujin": 0,
+      "Rei Kurenai": 0
+    }
+  },
+  {
+    "name": "Kaito Ryujin",
+    "trait": "Traditionalist",
+    "bio": "A stalwart defender of tradition and heritage. Seeks to preserve the past while adapting it for the present.",
+    "motivation": "生存欲 (Survival)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kazehaya": 0,
+      "Rei Kurenai": 0
+    }
+  },
+  {
+    "name": "Rei Kurenai",
+    "trait": "Pragmatist",
+    "bio": "A master strategist who prioritizes practicality and effectiveness. Focuses on solving problems and achieving tangible results.",
+    "motivation": "拡張欲 (Expansion)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kazehaya": 0,
+      "Kaito Ryujin": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

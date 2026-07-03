@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "emerald": "life_force",
+    "cedar": "wisdom"
+  },
+  "numbers": {
+    "7": "balance_and_perfection",
+    "9": " transformation_and_evolution"
+  },
+  "concepts": {
+    "earth": "foundation_of_life",
+    "water": "purity_and_renewal"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Lila Sakura:  harmony with nature)"
+    }
+  ]
+}

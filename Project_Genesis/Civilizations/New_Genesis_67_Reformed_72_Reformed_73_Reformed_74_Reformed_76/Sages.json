@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "自由の叫び",
+    "bio": "Individuals have inherent value and should be free to pursue their own goals and interests. The pursuit of happiness is the ultimate goal.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Nanako Shūkō": 0,
+      "Akira Kōgai": 0
+    }
+  },
+  {
+    "name": "Nanako Shūkō",
+    "trait": "共通の目的",
+    "bio": "The collective well-being of society is paramount. Individual freedoms must be sacrificed for the greater good.",
+    "icon": "",
+    "speech_style": "温和な語調",
+    "motivation": "生存欲",
+    "influence": 15,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kōgai": 0
+    }
+  },
+  {
+    "name": "Akira Kōgai",
+    "trait": "破壊の力",
+    "bio": "The status quo is unsustainable. Radical change is necessary to reshape society and bring about true progress.",
+    "icon": "",
+    "speech_style": "荒々しい語調",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Nanako Shūkō": 0
+    }
+  },
+  {
+    "name": "Nanako Shūkō",
+    "trait": "温柔",
+    "bio": "In the midst of chaos, we must cultivate patience and compassion. Gravity's pull can be overwhelming, but our spirits remain buoyed by hope and faith.",
+    "icon": "",
+    "speech_style": "語調が高くなる}",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kōgai": 0
+    }
+  }
+]

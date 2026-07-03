@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "red": "life-force",
+    "gold": "harmony",
+    "blue": "transition"
+  },
+  "numbers": {
+    "3": "balance",
+    "7": "wholeness"
+  },
+  "concepts": {
+    "fire": "transformation",
+    "water": "renewal",
+    "circle": "unity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: ** 全ては循環の中で一つになる"
+    }
+  ]
+}

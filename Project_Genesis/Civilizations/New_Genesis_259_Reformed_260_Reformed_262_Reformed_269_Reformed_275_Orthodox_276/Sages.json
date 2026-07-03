@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kaito Yukimura",
+    "trait": "",
+    "bio": "世界を変える力を持つ者たちを見出すため",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 15,
+    "relationships": {
+      "Akira Shinoda": 0,
+      "Tetsuya Matsumoto": 0
+    }
+  },
+  {
+    "name": "Akira Shinoda",
+    "trait": "自由心",
+    "bio": "権力を否定し、新しい道を拓くために",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yukimura": 0,
+      "Tetsuya Matsumoto": 0
+    }
+  },
+  {
+    "name": "Tetsuya Matsumoto",
+    "trait": "敬愛の心",
+    "bio": "真実を探し、人間性を保つため",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yukimura": 0,
+      "Akira Shinoda": 0
+    }
+  },
+  {
+    "name": "Kaito Yukimura",
+    "trait": "Ingenious",
+    "bio": "Embracing chaos as the mother of innovation, I seek to disrupt the status quo and ignite the spark of progress.",
+    "icon": "⭐️",
+    "speech_style": "Rhetorical flourishes with a hint of sarcasm.",
+    "motivation": [
+      "Exploration",
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira Hoshino": 0,
+      "Lila Katsuragi": 0
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "Luminaria Lumineer",
+    "trait": "Wisdom",
+    "bio": "Thinks that true freedom comes from understanding and respecting the intricacies of human nature, rather than imposing arbitrary rules.",
+    "icon": "✨",
+    "speech_style": "Soft-spoken wisdom with subtle emphasis on key points",
+    "motivation": "Survival (preserving individual rights and liberties)",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kyōji": 0,
+      "Echo Envisioner": 0
+    }
+  }
+]

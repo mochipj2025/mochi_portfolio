@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "white": "purity",
+    "gold": "honor",
+    "indigo": "wisdom"
+  },
+  "numbers": {
+    "7": "perfection",
+    "4": "stability"
+  },
+  "concepts": {
+    "water": "life_force",
+    "earth": "foundation_of_society"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Kokoro: 思想A "
+    }
+  ]
+}

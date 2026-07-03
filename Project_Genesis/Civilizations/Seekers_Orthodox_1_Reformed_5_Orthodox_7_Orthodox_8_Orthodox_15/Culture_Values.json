@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "wisdom",
+    "cinnabar": "spiritual_growth"
+  },
+  "numbers": {
+    "7": "perfection",
+    "11": "transformation"
+  },
+  "concepts": {
+    "heart": "source_of_wisdom",
+    "path": "journey_to_self_discovery"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Kokoro: 思想A: Individualism "
+    }
+  ]
+}

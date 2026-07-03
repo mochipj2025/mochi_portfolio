@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Impassive",
+    "bio": "Believes that life is predetermined by natural laws. Emphasizes the importance of understanding and respecting the inherent order of things.",
+    "icon": "💀",
+    "speech_style": "Precise and calculated, ending with a pause.",
+    "motivation": "Expansion: Seeking to unravel the mysteries of the universe.",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Eriko Enno": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Enthusiastic",
+    "bio": "Believes that life has a deeper meaning and purpose. Advocates for human agency to shape our own destiny and create positive change.",
+    "icon": "✨",
+    "speech_style": "Energetic and persuasive, often using rhetorical flourishes.",
+    "motivation": "Displacement: Seeking to challenge the status quo and bring about a new era of freedom and prosperity.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Eriko Enno": 0
+    }
+  },
+  {
+    "name": "Eriko Enno",
+    "trait": "Reflective",
+    "bio": "Believes that the truth lies in a balance between determinism and free will. Emphasizes the importance of self-awareness and introspection to find one's own path.",
+    "icon": "☯️",
+    "speech_style": "Deliberate and contemplative, often pausing to collect thoughts.",
+    "motivation": "Discovery: Seeking to understand the intricacies of human nature and uncover the secrets of the universe.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

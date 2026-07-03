@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Ethereal",
+    "bio": "Believer in the harmony of existence, seeking balance between the fleeting nature of life and the eternal essence within. 🌊",
+    "icon": "💫",
+    "speech_style": "Melodious whispers",
+    "motivation": "Expansive Desire: To unite the disparate threads of reality under the tapestry of timelessness.",
+    "influence": 25,
+    "relationships": {
+      "Akira Kōshi": 0,
+      "Lila Zenōshi": 0
+    }
+  }
+]

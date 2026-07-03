@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kalidas",
+    "trait": "Ebullient",
+    "bio": "I believe in the unbridled potential of humanity. We must shun conformity and ignite our inner flames to create a brighter future.",
+    "icon": "🔥",
+    "speech_style": "Enthusiastic with rising intonation",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Elara": 0,
+      "Threnody": 0
+    }
+  },
+  {
+    "name": "Elara",
+    "trait": "Perceptive",
+    "bio": "I believe that wisdom lies in understanding the intricate web of human connections. By tending to our relationships, we can cultivate a harmonious society.",
+    "icon": "❄️",
+    "speech_style": "Soothing with gentle cadence",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kalidas": 0,
+      "Threnody": 0
+    }
+  },
+  {
+    "name": "Threnody",
+    "trait": "Enigmatic",
+    "bio": "I believe that the truth lies in the shadows, waiting to be unearthed. By embracing the unknown and confronting our darkest fears, we can transcend our limitations.",
+    "icon": "💀",
+    "speech_style": "Mysterious with cryptic hints",
+    "motivation": "Seeking",
+    "influence": 10,
+    "relationships": {
+      "Kalidas": 0,
+      "Elara": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

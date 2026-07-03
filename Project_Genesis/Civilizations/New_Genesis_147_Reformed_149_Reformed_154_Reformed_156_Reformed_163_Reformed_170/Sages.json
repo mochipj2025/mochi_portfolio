@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Courageous",
+    "bio": "Kaito believes that leadership is not about inheritance, but about earning the respect of others through wisdom and courage. He prioritizes fairness and justice above all else.",
+    "icon": "",
+    "speech_style": " assertive and direct",
+    "motivation": "expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Kojima": 0,
+      "Rei Takahashi": 0
+    }
+  },
+  {
+    "name": "Akira Kojima",
+    "trait": "Perceptive",
+    "bio": "Akira sees the world as a complex web of relationships and priorities. He values flexibility and adaptability, recognizing that true leadership is about embracing change and uncertainty.",
+    "icon": "",
+    "speech_style": "soft-spoken with a hint of irony",
+    "motivation": "survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Rei Takahashi": 0
+    }
+  },
+  {
+    "name": "Rei Takahashi",
+    "trait": "Inquisitive",
+    "bio": "Rei believes that the pursuit of knowledge is the greatest form of leadership. He values innovation, creativity, and experimentation above all else, always seeking new ways to push the boundaries of human understanding.",
+    "icon": "",
+    "speech_style": "curious and analytical",
+    "motivation": "pursuit",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Kojima": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

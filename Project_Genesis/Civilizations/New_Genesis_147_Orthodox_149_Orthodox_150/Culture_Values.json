@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "life_force",
+    "gold": "wisdom"
+  },
+  "numbers": {
+    "7": "completion",
+    "3": "harmony"
+  },
+  "concepts": {
+    "fire": "symbol_of_transformation",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Hikari: 🔥 Creativity "
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "symbol_of_purity",
+    "silver": "symbol_of_prudence"
+  },
+  "numbers": {
+    "1": "unity",
+    "3": "lucky"
+  },
+  "concepts": {
+    "circle": "symbol_of_unity_and_perfection",
+    "harmony": "principle_of_balance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: ** 正統派: Based on the discussion, I extracted two opposing ideas:"
+    }
+  ]
+}

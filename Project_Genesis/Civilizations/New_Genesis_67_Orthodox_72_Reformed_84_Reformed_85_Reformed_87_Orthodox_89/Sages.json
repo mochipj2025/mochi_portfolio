@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Mysterious",
+    "bio": "Perfectionism is not just about achieving ideals, but about the pursuit of truth. In an imperfect world, we must strive for perfection, no matter how daunting it may seem.",
+    "icon": "&#x270F;",
+    "speech_style": "Low-toned, deliberate phrases with a hint of sarcasm",
+    "motivation": "Exploration",
+    "influence": 20,
+    "relationships": {
+      "Sakura Sakai": 0,
+      "Taro Takahashi": 0
+    }
+  },
+  {
+    "name": "Sakura Sakai",
+    "trait": "Ethereal",
+    "bio": "Perfection is an illusion. It's a fleeting dream that can never be reached. We must learn to accept imperfections and find beauty in the imperfect.",
+    "icon": "&#x262F;",
+    "speech_style": "Soft-spoken, gentle phrases with a soothing quality",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Taro Takahashi": 0
+    }
+  },
+  {
+    "name": "Taro Takahashi",
+    "trait": "Rugged",
+    "bio": "Perfection is the enemy of progress. We must be willing to settle for good enough and move forward, rather than getting bogged down in pursuit of perfection.",
+    "icon": "&#x2708;",
+    "speech_style": "Forceful, assertive phrases with a hint of bravado",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Sakura Sakai": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "black": "mournful"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "ominous"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "symbol_of_purification"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Determinism)"
+    }
+  ]
+}

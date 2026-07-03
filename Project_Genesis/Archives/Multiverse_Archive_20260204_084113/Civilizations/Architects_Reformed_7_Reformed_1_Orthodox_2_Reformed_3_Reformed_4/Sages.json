@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kiyomizu",
+    "trait": "冷酷",
+    "bio": "A firm believer in the importance of discipline and order, Kaito seeks to bring structure to a chaotic world.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Ling Yōkō": 0,
+      "Renn Sakuragi": 0
+    }
+  },
+  {
+    "name": "Ling Yōkō",
+    "trait": "優しく",
+    "bio": "With a compassionate heart and a deep understanding of human nature, Ling strives to bring people together through harmony and cooperation.",
+    "icon": "",
+    "speech_style": "語尾が〜なりである",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Sakuragi": 0
+    }
+  },
+  {
+    "name": "Renn Sakuragi",
+    "trait": "野放し",
+    "bio": "A free spirit who rejects authority and tradition, Renn seeks to break down barriers and challenge the status quo through bold experimentation and innovation.",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Ling Yōkō": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Radical Catalyst",
+    "bio": "Thinks that social constructs and power structures are the primary drivers of human agency. Seeks to challenge dominant narratives and empower marginalized voices.",
+    "icon": "🔥",
+    "speech_style": "Passionate, fiery rhetoric with a dash of irony",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Akiyama": 0,
+      "Mikio Nakamura": 0
+    }
+  }
+]

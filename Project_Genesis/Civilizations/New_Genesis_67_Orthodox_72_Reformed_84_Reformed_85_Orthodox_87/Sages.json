@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Akira",
+    "trait": "Maverick",
+    "bio": "Seeking truth through debate and intellectual curiosity.",
+    "icon": "🔥",
+    "speech_style": "Inquisitive tone: questioning everything",
+    "motivation": [
+      "Exploration",
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Ren": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Visionary",
+    "bio": "Believing in the power of collective imagination to shape a brighter future.",
+    "icon": "✨",
+    "speech_style": "Inspiring rhythm: using storytelling to evoke emotions",
+    "motivation": [
+      "Innovation",
+      "Empowerment"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Ren": 0
+    }
+  },
+  {
+    "name": "Ren",
+    "trait": "Philosopher",
+    "bio": "Seeking harmony between individuality and the greater good, embracing paradoxes as opportunities for growth.",
+    "icon": "💡",
+    "speech_style": "Reflective cadence: savoring wisdom through self-contemplation",
+    "motivation": [
+      "Self-Discovery",
+      "Social Justice"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "自由的",
+    "bio": "「美は個々の経験に宿る」と信じるEssentialist。",
+    "icon": "",
+    "speech_style": "軽やかで、語尾が〜な",
+    "motivation": [
+      "生存欲",
+      "探求欲"
+    ],
+    "influence": 15,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  }
+]

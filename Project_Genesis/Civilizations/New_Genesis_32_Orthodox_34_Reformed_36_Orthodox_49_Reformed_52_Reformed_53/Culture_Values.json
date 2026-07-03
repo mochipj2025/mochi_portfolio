@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "4": "balance",
+    "7": "perfection"
+  },
+  "concepts": {
+    "water": "symbol_of_renewal",
+    "stone": "symbol_of_endurance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Holism"
+    }
+  ]
+}

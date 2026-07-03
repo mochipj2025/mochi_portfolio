@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kurenai",
+    "trait": "Philosophical Realist",
+    "bio": "'As humans, we can find meaning in life through our connections with others and the pursuit of knowledge. The fear of death should not dictate how we live.'",
+    "icon": "",
+    "speech_style": "Using logical arguments and empirical evidence to support his claims, with a hint of wit and sarcasm.",
+    "motivation": "Expanding human potential through science and technology.",
+    "influence": 35,
+    "relationships": {
+      "Akira Zenki": 0,
+      "Renn Fujimoto": 0
+    }
+  }
+]

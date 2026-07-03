@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Vigilant",
+    "bio": "The way of balance is the key to harmony. The universe's chaos can be tamed by the power of reason.",
+    "icon": "",
+    "speech_style": "Soft and gentle",
+    "motivation": "探求欲 (Curiosity)",
+    "influence": 15,
+    "relationships": {
+      "Akira Kiyōshi": 0,
+      "Hōjin Sōen": 0
+    }
+  },
+  {
+    "name": "Akira Kiyōshi",
+    "trait": "Courageous",
+    "bio": "The path to enlightenment is not for the faint of heart. One must confront their own doubts and fears to truly understand.",
+    "icon": "",
+    "speech_style": "Firm and assertive",
+    "motivation": "拡張欲 (Ambition)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Hōjin Sōen": 0
+    }
+  },
+  {
+    "name": "Hōjin Sōen",
+    "trait": "Wisdom-embracing",
+    "bio": "The truth is not always easy to grasp, but with patience and introspection, one can uncover the hidden patterns.",
+    "icon": "",
+    "speech_style": "Whispered words of wisdom",
+    "motivation": "生存欲 (Survival)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kiyōshi": 0
+    }
+  },
+  {
+    "name": "Zenken",
+    "trait": "創造",
+    "bio": "Zenken sees the world as a canvas waiting to be painted. He believes that innovation and creativity are the keys to unlocking human potential, and that the pursuit of knowledge should be a joyful rebellion against the status quo.",
+    "icon": "⚡️",
+    "speech_style": "荒々しい ( bold and unconventional )",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kanzen": 0,
+      "Mikkan": 0
+    }
+  }
+]

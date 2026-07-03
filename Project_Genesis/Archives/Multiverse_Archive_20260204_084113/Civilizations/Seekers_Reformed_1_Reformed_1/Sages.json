@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Pragmatic Visionary",
+    "bio": "Seeking balance between individual freedom and collective well-being, I believe that knowledge and innovation are the keys to a brighter future. As a Sage, my goal is to empower others through education and collaboration.",
+    "icon": "",
+    "speech_style": "Logical and concise, often using analogies to explain complex ideas",
+    "motivation": "Curiosity (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Akira Amakuni": 0,
+      "Lila Renn": 0
+    }
+  },
+  {
+    "name": "Akira Amakuni",
+    "trait": "Steadfast Guardian",
+    "bio": "I believe that stability and control are essential for the prosperity of our society. As a Sage, I will work tirelessly to maintain order and ensure the safety of all members.",
+    "icon": "",
+    "speech_style": "Confident and direct, with a hint of authority",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lila Renn": 0
+    }
+  },
+  {
+    "name": "Lila Renn",
+    "trait": "Free-Spirited Explorer",
+    "bio": "I am a firm believer in the power of individual freedom and creativity. As a Sage, I will strive to create an environment where everyone can flourish and pursue their passions without fear of judgment.",
+    "icon": "",
+    "speech_style": "Enthusiastic and spontaneous, often using metaphors to convey her ideas",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Amakuni": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

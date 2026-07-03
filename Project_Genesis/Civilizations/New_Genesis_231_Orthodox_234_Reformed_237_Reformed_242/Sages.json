@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Kaito Kiyoshi",
+    "trait": "Serenely Wise",
+    "bio": "Believes in the harmony of individual perspectives, seeking to uplift and bring balance to all aspects of life.",
+    "icon": "✨",
+    "speech_style": "Syntax-precise, calmness-infused",
+    "motivation": {
+      "expansion": 30,
+      "survival": 40,
+      "exploration": 30
+    },
+    "influence": 15,
+    "relationships": {
+      "Akira Tsubasa": 0,
+      "Renn Fujimori": 0
+    }
+  },
+  {
+    "name": "Akira Tsubasa",
+    "trait": "Mysteriously Insightful",
+    "bio": "Held the power to see beyond the veil of reality, unraveling mysteries and illuminating hidden truths.",
+    "icon": "⌃️",
+    "speech_style": "Cryptic, punctuated with sudden revelations",
+    "motivation": {
+      "expansion": 50,
+      "survival": 20,
+      "exploration": 30
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Renn Fujimori": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori",
+    "trait": "Ethereally Charismatic",
+    "bio": "Embodying the creative force that drives humanity forward, bringing forth innovative solutions and fostering a sense of wonder.",
+    "icon": ":)",
+    "speech_style": "Whimsical, peppered with bursts of inspiration",
+    "motivation": {
+      "expansion": 20,
+      "survival": 30,
+      "exploration": 50
+    },
+    "influence": 15,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Akira Tsubasa": 0
+    }
+  },
+  {
+    "name": "Kaito Kiyoshi",
+    "trait": "Free-spirited",
+    "bio": "Individual freedom is key to personal growth. Embracing diversity is the foundation of a healthy society.",
+    "icon": "🔥",
+    "speech_style": "Casual and spontaneous",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Akira Kōjin": 0,
+      "Shinji Shizuka": 0
+    }
+  }
+]

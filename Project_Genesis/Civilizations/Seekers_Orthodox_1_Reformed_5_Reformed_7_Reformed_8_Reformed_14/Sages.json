@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Zenki ()",
+    "trait": "Zen-like calmness",
+    "bio": "Seeking balance within oneself is the key to understanding the universe. I am the bridge between intuition and reason.",
+    "icon": "",
+    "speech_style": "Even-toned and measured, with a slight pause between words.",
+    "motivation": "Expansion (of self-knowledge)",
+    "influence": 10,
+    "relationships": {
+      "Akira Kanshō ()": 0,
+      "Renn Ichimon ()": 0
+    }
+  },
+  {
+    "name": "Akira Kanshō ()",
+    "trait": "Unbridled passion",
+    "bio": "The universe is an orchestra, and I am the conductor who brings harmony through emotional resonance.",
+    "icon": "",
+    "speech_style": "Excitable and expressive, with a tendency to raise the pitch of their voice.",
+    "motivation": "Exploration (of human connection)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenki ()": 0,
+      "Renn Ichimon ()": 0
+    }
+  },
+  {
+    "name": "Renn Ichimon ()",
+    "trait": "Pragmatic detachment",
+    "bio": "The universe is a tapestry woven from contradictions. I am the weaver who unravels the threads to reveal the hidden patterns.",
+    "icon": "",
+    "speech_style": "Dry wit and sarcasm, with a subtle hint of irony.",
+    "motivation": "Survival (of knowledge and understanding)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenki ()": 0,
+      "Akira Kanshō ()": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 45,
+    "relationships": {}
+  }
+]

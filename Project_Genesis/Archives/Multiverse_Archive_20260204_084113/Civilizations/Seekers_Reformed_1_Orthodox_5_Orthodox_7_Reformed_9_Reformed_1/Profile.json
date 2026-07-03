@@ -1,0 +1,22 @@
+{
+  "display_name": "Seekers",
+  "personality_traits": [
+    "Curious",
+    "Inquisitive",
+    "Progressive"
+  ],
+  "tone": "Open-minded and analytical, with a hint of enthusiasm",
+  "bio": "We're Seekers, a civilization driven by the pursuit of knowledge and innovation. With roots tracing back to our parent civilization, we've evolved to prioritize progress and forward thinking. Our values are rooted in the idea that wisdom is a collective endeavor.",
+  "favorite_topics": [
+    "Science and Technology",
+    "Philosophy and Ethics"
+  ],
+  "name": "Seekers_Reformed_1_Orthodox_5_Orthodox_7_Reformed_9_Reformed_1",
+  "ideology": "賢者1:  Progressivism",
+  "stats": {
+    "generation": 1,
+    "total_discussions": 1,
+    "avg_heat": 44
+  },
+  "created_at": "2026-02-03T23:19:46.187037"
+}

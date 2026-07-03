@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Courageous",
+    "bio": "Believes in the power of human curiosity to shape the course of civilization. Seeks to uncover hidden truths and bring light to darkness.",
+    "icon": "⚖️",
+    "speech_style": "Direct and assertive, with a hint of confidence",
+    "motivation": "Expanding Horizons",
+    "influence": 20,
+    "relationships": {
+      "Zenji": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Zenji",
+    "trait": "Ethereal",
+    "bio": "Trusts in the harmony between nature and humanity. Aims to reconnect people with their primal essence.",
+    "icon": "✨",
+    "speech_style": "Whisper-soft, with a hint of mystical wisdom",
+    "motivation": "Preserving Balance",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Passionate",
+    "bio": "Believes in the transformative power of art and creativity to reshape society. Seeks to kindle a new era of cultural renaissance.",
+    "icon": "🔥",
+    "speech_style": "Emotive, with a fiery intensity",
+    "motivation": "Illuminating the Future",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Zenji": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "purity",
+    "silver": "wisdom"
+  },
+  "numbers": {
+    "4": "completion",
+    "7": "perfection"
+  },
+  "concepts": {
+    "light": "illumination_of_knowledge"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Ryō Tamura:  Pursuing Wisdom"
+    }
+  ]
+}

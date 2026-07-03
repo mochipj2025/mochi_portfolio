@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "柔軟",
+    "bio": "The harmony between human and nature is crucial for our survival. We must strive to balance our desires with the gravity of reality.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 20,
+    "relationships": {
+      "Akira Kōgai": 0,
+      "Nanako Shūkō": 0
+    }
+  },
+  {
+    "name": "Akira Kōgai",
+    "trait": "剛直",
+    "bio": "The only constant is change, and we must adapt to the ever-shifting tides of fate. Gravity-conscious realism demands that we confront reality head-on.",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Nanako Shūkō": 0
+    }
+  },
+  {
+    "name": "Nanako Shūkō",
+    "trait": "温柔",
+    "bio": "In the midst of chaos, we must cultivate patience and compassion. Gravity's pull can be overwhelming, but our spirits remain buoyed by hope and faith.",
+    "icon": "",
+    "speech_style": "語調が高くなる}",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Kōgai": 0
+    }
+  },
+  {
+    "name": "Kaidō",
+    "trait": "Innovation",
+    "bio": "Thrilled by the possibilities of human imagination, Kaidō believes that creativity is the spark that drives progress. He advocates for bold experimentation and calculated risk-taking.",
+    "icon": "✨",
+    "speech_style": "Ebullient",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Arago": 0,
+      "Rennaku": 0
+    }
+  }
+]

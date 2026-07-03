@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "purity",
+    "blue": "wisdom",
+    "gold": "nobility"
+  },
+  "numbers": {
+    "7": "sacred",
+    "14": "balance"
+  },
+  "concepts": {
+    "water": "symbol_of_purification",
+    "tree": "symbol_of_strength"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  無言主義"
+    }
+  ]
+}

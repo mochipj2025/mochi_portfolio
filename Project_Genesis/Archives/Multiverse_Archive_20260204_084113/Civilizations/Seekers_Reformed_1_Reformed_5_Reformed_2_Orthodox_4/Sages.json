@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kōjin",
+    "trait": "自由の息子",
+    "bio": "In pursuit of truth, I seek to break free from the shackles of dogma and explore the unknown.",
+    "icon": "",
+    "speech_style": "語尾が〜である (e.g. 'なり' is added at the end of sentences)",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Ryōji Rikishi": 0,
+      "Akira Ashikaga": 0
+    }
+  },
+  {
+    "name": "Ryōji Rikishi",
+    "trait": "力の者",
+    "bio": "The pursuit of knowledge is but a means to an end. True wisdom lies in the power to shape reality.",
+    "icon": "",
+    "speech_style": "荒々しい (harsh and rough tone)",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Akira Ashikaga": 0
+    }
+  },
+  {
+    "name": "Akira Ashikaga",
+    "trait": "静の者",
+    "bio": "Through contemplation and meditation, I seek to uncover the hidden truths that lie beneath the surface of reality.",
+    "icon": "",
+    "speech_style": "語尾に 'ます' を付ける (polite and refined tone)",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōjin": 0,
+      "Ryōji Rikishi": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

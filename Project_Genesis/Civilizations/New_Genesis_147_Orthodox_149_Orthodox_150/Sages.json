@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Akira Hikari",
+    "trait": "Innovative",
+    "bio": "Empowering creativity to shape the future",
+    "icon": "🔥",
+    "speech_style": "using words that spark ideas",
+    "motivation": {
+      "type": "探求欲",
+      "description": "Uncovering new possibilities and pushing boundaries"
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Kaito Zenji",
+    "trait": "Grounded",
+    "bio": "Finding harmony between nature and technology",
+    "icon": "🌱",
+    "speech_style": "speaking with gentle conviction",
+    "motivation": {
+      "type": "生存欲",
+      "description": "Ensuring the balance of humanity's relationship with the environment"
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Hikari": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Lila Katsuragi",
+    "trait": "Visionary",
+    "bio": "Unlocking the mysteries of the human mind and universe",
+    "icon": "✨",
+    "speech_style": "using metaphors to paint vivid pictures",
+    "motivation": {
+      "type": "拡張欲",
+      "description": "Exploring the unknown and expanding our understanding of existence"
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira Hikari": 0,
+      "Kaito Zenji": 0
+    }
+  },
+  {
+    "name": "Akira Hikari",
+    "trait": "Authentic",
+    "bio": "Emphasizing the importance of self-discovery, Akira Hikari encourages others to find their unique voice and stand by it.",
+    "icon": "🌟",
+    "speech_style": "Soft-spoken and deliberate, often prefacing their words with thoughtful pauses and gentle nods",
+    "motivation": "Preservative: a desire to preserve individuality and protect it from external forces",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Lila Kensei": 0
+    }
+  }
+]

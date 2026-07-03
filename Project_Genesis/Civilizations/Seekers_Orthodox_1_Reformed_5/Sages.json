@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kyōsei",
+    "trait": "Calmness",
+    "bio": "Seeking balance in a chaotic world. Stability is key to enlightenment.",
+    "icon": "",
+    "speech_style": "Slowly and deliberately, as if choosing each word carefully.",
+    "motivation": "Survival (保つ) - ensuring the continuity of knowledge and wisdom.",
+    "influence": 10,
+    "relationships": {
+      "Mitsuru Shōen": 0,
+      "Akira Kokoro": 0
+    }
+  },
+  {
+    "name": "Mitsuru Shōen",
+    "trait": "Passion",
+    "bio": "Truth is revealed through passion and courage. The pursuit of knowledge must be driven by heart and fire.",
+    "icon": "",
+    "speech_style": "With fervor and conviction, as if the words are bursting forth from their soul.",
+    "motivation": "Exploration (探る) - venturing into the unknown to uncover new truths.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Akira Kokoro": 0
+    }
+  },
+  {
+    "name": "Akira Kokoro",
+    "trait": "Wisdom",
+    "bio": "The path to wisdom lies not in seeking answers, but in embracing the mysteries of life. Quiet contemplation yields profound insights.",
+    "icon": "",
+    "speech_style": "In a quiet, measured tone, as if sharing ancient secrets.",
+    "motivation": "Expansion (広げる) - sharing knowledge and fostering growth through open-minded dialogue.",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Mitsuru Shōen": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

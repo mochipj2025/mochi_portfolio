@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira Katsuragi",
+    "trait": " Mystique ",
+    "bio": "Seeking harmony between individual and collective wisdom.",
+    "icon": "🔮",
+    "speech_style": "Whispers secrets, punctuated by pauses",
+    "motivation": "Expansion of self through understanding others",
+    "influence": 15,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Sora Fujimoto": 0
+    }
+  },
+  {
+    "name": "Kaito Yamato",
+    "trait": "Ebullience",
+    "bio": "Believes in the power of collective action to shape reality.",
+    "icon": "💡",
+    "speech_style": "Rhetorical flourishes, peppered with dramatic pauses",
+    "motivation": "Survival through unity and cooperation",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Sora Fujimoto": 0
+    }
+  },
+  {
+    "name": "Sora Fujimoto",
+    "trait": "Inquisitiveness",
+    "bio": "Seeks to uncover the hidden patterns and meanings of collective consciousness.",
+    "icon": "🔍",
+    "speech_style": "Torturous grammatical constructions, punctuated by nervous laughter",
+    "motivation": "Exploration and discovery through the depths of human thought",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Kaito Yamato": 0
+    }
+  },
+  {
+    "name": "Lila Takahashi",
+    "trait": "Curious",
+    "bio": "Emphasizes the importance of questioning everything and embracing uncertainty.",
+    "icon": "🔍️",
+    "speech_style": "語尾が〜なのかもしれない!",
+    "motivation": "探求欲",
+    "influence": 15,
+    "relationships": {
+      "Akihiro Kojima": 0,
+      "Taro Yamada": 0
+    }
+  }
+]

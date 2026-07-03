@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "divine",
+    "green": "harmony_with_nature"
+  },
+  "numbers": {
+    "3": "lucky",
+    "9": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "symbol_of_purification",
+    "earth": "symbol_of_grounding"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  思想B**\n\n* **思想A:** \"Souls' Weight\" (中庸1, 中庸2, 中庸3) - emphasizes the importance of balancing one's soul or inner self to achieve stability.\n* **思想B:** \"Harmony with Nature\" (Eriko Kizuna) - stresses that true freedom and harmony can be achieved by being in tune with nature.\n\nThese two ideas are fundamentally at odds, as they propose different paths to achieving stability and balance. 💡"
+    }
+  ]
+}

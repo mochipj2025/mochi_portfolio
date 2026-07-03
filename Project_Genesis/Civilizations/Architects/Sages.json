@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Kaito Arashi",
+    "trait": "Fierce Passion",
+    "bio": "Believes that the will of humanity can shape the world's destiny. Advocates for bold innovation and unyielding perseverance.",
+    "icon": "",
+    "speech_style": "Passionate and assertive, often using metaphors to drive home a point",
+    "motivation": "Exploration (and shaping) of the unknown",
+    "influence": 10,
+    "relationships": {
+      "Lila Sakura": 0,
+      "Ryota Kuroba": 0
+    }
+  },
+  {
+    "name": "Lila Sakura",
+    "trait": "Whispered Wisdom",
+    "bio": "Envisions a world where human will and creativity can harmonize with the natural order. Fosters dialogue and collaboration to achieve this vision.",
+    "icon": "",
+    "speech_style": "Soft-spoken, yet piercingly insightful, often using allegories to convey complex ideas",
+    "motivation": "Survival (and preservation) of civilization",
+    "influence": 15,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Ryota Kuroba": 0
+    }
+  },
+  {
+    "name": "Ryota Kuroba",
+    "trait": "Iron Resolve",
+    "bio": "Believes that human will is the driving force behind progress. Works tirelessly to build a world where individuals can thrive through their unique strengths.",
+    "icon": "",
+    "speech_style": "Direct and no-nonsense, often using straightforward analogies to make a point",
+    "motivation": "Expansion (and development) of individual potential",
+    "influence": 10,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Lila Sakura": 0
+    }
+  }
+]

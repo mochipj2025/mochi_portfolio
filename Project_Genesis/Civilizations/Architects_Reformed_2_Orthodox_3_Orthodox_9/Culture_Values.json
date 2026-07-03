@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "symbol_of_purity",
+    "black": "representing_the_unknown"
+  },
+  "numbers": {
+    "9": "completion",
+    "1": "beginning"
+  },
+  "concepts": {
+    "water": "source_of_life_and_nourishment"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: 思想A: 重力実体主義 "
+    }
+  ]
+}

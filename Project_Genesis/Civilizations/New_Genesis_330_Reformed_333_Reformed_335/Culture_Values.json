@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "black": "mourning",
+    "white": "hope",
+    "rainbow": "harmony"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "completion"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Adaptus:  Collectivism**\n\nThe ideas represented by Luminari (individualistic) and Nexus (collectivistic) contrast with each other in their approaches to understanding the scent of rain. Luminari focuses on personal experiences and emotions, while Nexus considers the collective aspects of renewal and growth.\n\nThis dichotomy reflects fundamental social principles that shape human interactions, values, and beliefs."
+    }
+  ]
+}

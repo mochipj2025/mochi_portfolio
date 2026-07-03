@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Lotusblume",
+    "trait": "Vibrant",
+    "bio": "Thinks that the lost legends hold the key to understanding the present. Seeks to revive the spirit of New Genesis 300.",
+    "icon": "",
+    "speech_style": "Uses metaphors and allegories",
+    "motivation": "Survival",
+    "influence": 50,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Arashi": 0
+    }
+  }
+]

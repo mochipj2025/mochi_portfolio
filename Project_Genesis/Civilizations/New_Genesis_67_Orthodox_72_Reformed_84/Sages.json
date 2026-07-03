@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Akira",
+    "trait": "Curious",
+    "bio": "Beauty is subjective, shaped by our individual experiences and perspectives. By acknowledging this subjectivity, we can foster a more inclusive understanding of beauty.",
+    "icon": "🌙",
+    "speech_style": "Ending sentences with a question mark",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Visionary",
+    "bio": "Beauty is an inherent aspect of the universe, waiting to be discovered. As we elevate our perception, we can unlock the hidden harmony that binds us all.",
+    "icon": "✨",
+    "speech_style": "Using metaphors and poetic language",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Analytical",
+    "bio": "Beauty can be quantified, broken down into its constituent parts. By applying the principles of objectivity, we can create a more rational understanding of beauty.",
+    "icon": "🔍",
+    "speech_style": "Using logical and methodical language",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

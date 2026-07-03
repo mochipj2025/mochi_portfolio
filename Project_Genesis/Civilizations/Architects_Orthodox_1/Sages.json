@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Sakura",
+    "trait": "Whispered Wisdom",
+    "bio": "Envisions a world where human will and creativity can harmonize with the natural order. Fosters dialogue and collaboration to achieve this vision.",
+    "icon": "",
+    "speech_style": "Soft-spoken, yet piercingly insightful, often using allegories to convey complex ideas",
+    "motivation": "Survival (and preservation) of civilization",
+    "influence": 15,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Ryota Kuroba": 0
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "white": "purity",
+    "black": "absence_of_light"
+  },
+  "numbers": {
+    "7": "perfection",
+    "13": "illumination"
+  },
+  "concepts": {
+    "water": "source_of_life_and_renewal",
+    "stone": "stability_and_endurance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito Zenji: 思想A "
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Akira",
+    "trait": "Adaptable",
+    "bio": "Embracing change as the only constant, I seek harmony with the ever-changing world.",
+    "icon": "✨",
+    "speech_style": "Smoothly, without sharp edges",
+    "motivation": {
+      "expansion": 0.7,
+      "survival": 0.3,
+      "discovery": 0
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Lixia": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Inquisitive",
+    "bio": "Doubt is the mother of all progress. I question everything to uncover hidden truths.",
+    "icon": "❄️",
+    "speech_style": "With a hint of skepticism and a dash of curiosity",
+    "motivation": {
+      "expansion": 0.4,
+      "survival": 0.3,
+      "discovery": 0.3
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Lixia": 0
+    }
+  },
+  {
+    "name": "Lixia",
+    "trait": "Innovative",
+    "bio": "The world is mine to shape. I forge new paths to create a brighter future.",
+    "icon": "💫",
+    "speech_style": "With a sparkle in the eye and a hint of mischief",
+    "motivation": {
+      "expansion": 0.5,
+      "survival": 0.2,
+      "discovery": 0.3
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kyōji",
+    "trait": "Boldness",
+    "bio": "Believes that true freedom comes from embracing chaos and uncertainty, rather than trying to control it.",
+    "icon": "🔥",
+    "speech_style": "Forceful tone with a hint of sarcasm",
+    "motivation": "Exploitation (enabling people to take risks and seize opportunities)",
+    "influence": 10,
+    "relationships": {
+      "Luminaria Lumineer": 0,
+      "Echo Envisioner": 0
+    }
+  },
+  {
+    "name": "Luminaria Lumineer",
+    "trait": "Wisdom",
+    "bio": "Thinks that true freedom comes from understanding and respecting the intricacies of human nature, rather than imposing arbitrary rules.",
+    "icon": "✨",
+    "speech_style": "Soft-spoken wisdom with subtle emphasis on key points",
+    "motivation": "Survival (preserving individual rights and liberties)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kyōji": 0,
+      "Echo Envisioner": 0
+    }
+  },
+  {
+    "name": "Echo Envisioner",
+    "trait": "Curiosity",
+    "bio": "Believes that true freedom comes from embracing the unknown and being open to new experiences, rather than trying to predict or control them.",
+    "icon": "🔁",
+    "speech_style": "Intrigued tone with frequent pauses for thought",
+    "motivation": "Discovery (seeking truth and understanding through exploration)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōji": 0,
+      "Luminaria Lumineer": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

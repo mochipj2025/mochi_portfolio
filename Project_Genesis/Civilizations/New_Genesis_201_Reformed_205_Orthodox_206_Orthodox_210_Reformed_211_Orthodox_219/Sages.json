@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Eiko",
+    "trait": "Enigmatic and introspective",
+    "bio": "As a voice of balance, I believe that we must find a middle ground between individual freedom and group cohesion. By acknowledging the value of both, we can create a world where everyone can flourish.",
+    "icon": "",
+    "speech_style": "Thoughtful and contemplative",
+    "motivation": "Survival (desire to maintain harmony and stability)",
+    "influence": 45,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  }
+]

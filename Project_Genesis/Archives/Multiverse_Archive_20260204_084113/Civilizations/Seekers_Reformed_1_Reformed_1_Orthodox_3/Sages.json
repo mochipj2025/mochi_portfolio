@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaito Kyōshi",
+    "trait": "Pragmatic",
+    "bio": "Believes in the power of structure and organization to achieve greatness. 'A clear path is a successful journey.'",
+    "icon": "🔒",
+    "speech_style": " Imperative tone, ending with 'nari'",
+    "motivation": "Expansionist",
+    "influence": 10,
+    "relationships": {
+      "Akira Kairō": 0,
+      "Shunji Mōshū": 0
+    }
+  },
+  {
+    "name": "Akira Kairō",
+    "trait": "Innovative",
+    "bio": "Thrives on the intersection of art and science. 'The boundaries are meant to be transcended.'",
+    "icon": "⏳",
+    "speech_style": "Rhetorical questions, hinting at deeper meaning",
+    "motivation": "Exploratory",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōshi": 0,
+      "Shunji Mōshū": 0
+    }
+  },
+  {
+    "name": "Shunji Mōshū",
+    "trait": "Enigmatic",
+    "bio": "Seeks balance between structure and fluidity. 'The harmony of opposites is the key.'",
+    "icon": "🔮",
+    "speech_style": "Mysterious, hinting at hidden truths",
+    "motivation": "Survivalist",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōshi": 0,
+      "Akira Kairō": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

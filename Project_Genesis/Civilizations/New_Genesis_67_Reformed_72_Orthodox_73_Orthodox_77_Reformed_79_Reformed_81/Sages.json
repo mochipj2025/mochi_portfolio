@@ -1,0 +1,49 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Sora",
+    "trait": "Ebullient",
+    "bio": "Embracing the unknown with unbridled enthusiasm.",
+    "icon": "⚡️",
+    "speech_style": "Fervent declarations",
+    "motivation": {
+      "expansion": 0.6,
+      "survival": 0.2,
+      "questing": 0.2
+    },
+    "influence": 20,
+    "relationships": {
+      "Kaito": 0,
+      "Hiro": 0
+    }
+  }
+]

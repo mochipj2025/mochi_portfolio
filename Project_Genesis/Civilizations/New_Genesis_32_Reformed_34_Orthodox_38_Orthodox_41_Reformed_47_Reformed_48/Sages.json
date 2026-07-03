@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lysander Wynter",
+    "trait": "Visionary",
+    "bio": "Believing that individual freedom and creativity are the keys to unlocking human potential. Passion must be allowed to burn bright.",
+    "icon": "🔥",
+    "speech_style": "Passionate, inspiring, with a hint of reckless abandon.",
+    "motivation": "Extension: driven to transcend boundaries, challenge conformity, and bring new ideas into being.",
+    "influence": 10,
+    "relationships": {
+      "Renn Kaidō": 0,
+      "Kaelin Valtor": 0
+    }
+  }
+]

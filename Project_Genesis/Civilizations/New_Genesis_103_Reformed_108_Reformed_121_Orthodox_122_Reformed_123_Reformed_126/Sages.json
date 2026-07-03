@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Taro Kaze",
+    "trait": "Philosophical",
+    "bio": "I think heritage is not just about what we've inherited, but also about the stories that connect us. As Taro Kaze, I will seek to understand the deeper meanings and symbolism behind our cultural artifacts, and share those insights with others.",
+    "icon": "❄️",
+    "speech_style": "Slow and deliberate, weighing words carefully before speaking",
+    "motivation": "Survival",
+    "influence": 20,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Shizuku": 0
+    }
+  }
+]

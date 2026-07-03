@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Akihiro",
+    "trait": "Wisdom in Harmony",
+    "bio": "Seeking equilibrium between individual freedom and collective prosperity.",
+    "icon": "✨",
+    "speech_style": "Smooth and melodic",
+    "motivation": {
+      "explore": 8,
+      "survive": 6,
+      "expand": 4
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Sora": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Innovative Insulation",
+    "bio": "Advocating for individual autonomy while recognizing the importance of group cohesion.",
+    "icon": "⚡️",
+    "speech_style": "Energetic and assertive",
+    "motivation": {
+      "explore": 9,
+      "survive": 5,
+      "expand": 2
+    },
+    "influence": 10,
+    "relationships": {
+      "Akihiro": 0,
+      "Sora": 0
+    }
+  },
+  {
+    "name": "Sora",
+    "trait": "Ethereal Empathy",
+    "bio": "Emphasizing the interconnectedness of all beings, seeking balance between individuality and community.",
+    "icon": "☁️",
+    "speech_style": "Ruminative and introspective",
+    "motivation": {
+      "explore": 7,
+      "survive": 8,
+      "expand": 3
+    },
+    "influence": 10,
+    "relationships": {
+      "Akihiro": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "** Harmonious Balance ** Akira",
+    "trait": "Synthesizer",
+    "bio": "The balance between individuality and conformity is the key to social harmony. Each has its place in the grand scheme.",
+    "icon": "🕊️",
+    "speech_style": "Calculated, with a hint of persuasion",
+    "motivation": {
+      "desire": "Achieving equilibrium",
+      "urge": "Thriving through cooperation"
+    },
+    "influence": 10,
+    "relationships": {
+      "** Individual Freedom ** Kaito": 0,
+      "** Sovereign Self ** Ryota": 0
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kaito",
+    "trait": " Calm ",
+    "bio": "'Unity in diversity' is the foundation of New Genesis. I believe that every individual has a unique role to play in shaping our collective future.",
+    "icon": "",
+    "speech_style": "softly spoken with a hint of wisdom",
+    "motivation": {
+      "explore": 30,
+      "survive": 20,
+      "pursue": 50
+    },
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kazuo": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": " Ambitious ",
+    "bio": "'Innovate or perish' is the motto that drives me. I believe in using technology and progress to push humanity forward.",
+    "icon": "",
+    "speech_style": "forcefully stated with conviction",
+    "motivation": {
+      "explore": 70,
+      "survive": 10,
+      "pursue": 20
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Kazuo": 0
+    }
+  },
+  {
+    "name": "Kazuo",
+    "trait": " Contemplative ",
+    "bio": "'Wisdom is the sum of experiences' I believe that the collective wisdom of humanity is what will lead us to a brighter future.",
+    "icon": "",
+    "speech_style": "slowly spoken with a hint of melancholy",
+    "motivation": {
+      "explore": 40,
+      "survive": 30,
+      "pursue": 30
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "**Kaito**",
+    "trait": "不滅の決意",
+    "bio": "自由と選択の権利を擁護し、humanityの可能性を最大化するために努力する。",
+    "icon": "",
+    "speech_style": "語尾が 〜なる",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "**Ryoko**": 0,
+      "**Kenji**": 0
+    }
+  },
+  {
+    "name": "**Ryoko**",
+    "trait": "無限の可能性",
+    "bio": "自由と創造性に基づく文明を実現し、humanityの未来を拓くために努力する。",
+    "icon": "",
+    "speech_style": "語尾が 〜てしまう",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "**Kaito**": 0,
+      "**Kenji**": 0
+    }
+  },
+  {
+    "name": "**Kenji**",
+    "trait": "秩序の維持",
+    "bio": "自由と責任に基づく社会を実現し、humanityのために働く。",
+    "icon": "",
+    "speech_style": "語尾が 〜のため",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "**Kaito**": 0,
+      "**Ryoko**": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

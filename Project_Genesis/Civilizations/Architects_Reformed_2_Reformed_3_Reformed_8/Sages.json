@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Zenji Kaito 🌱",
+    "trait": "Mellow",
+    "bio": "Believes in finding balance within oneself to connect with nature.",
+    "icon": "✨",
+    "speech_style": "Conversing with a gentle smile...",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori 🔥": 0,
+      "Akira Shinoda 🏔️": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori 🔥",
+    "trait": "Fiery",
+    "bio": "Thinks that true freedom comes from embracing one's inner turmoil and harnessing its energy to harmonize with nature.",
+    "icon": "❄️",
+    "speech_style": "Speaking with unbridled passion...,",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Zenji Kaito 🌱": 0,
+      "Akira Shinoda 🏔️": 0
+    }
+  },
+  {
+    "name": "Akira Shinoda 🏔️",
+    "trait": "Reflective",
+    "bio": "Lives by the principle that one must surrender to the rhythms of nature to find true balance and harmony.",
+    "icon": "🌈",
+    "speech_style": "...pausing for contemplation...",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Zenji Kaito 🌱": 0,
+      "Renn Fujimori 🔥": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

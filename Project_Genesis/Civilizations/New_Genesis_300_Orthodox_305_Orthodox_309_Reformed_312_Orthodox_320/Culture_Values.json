@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "noble",
+    "white": "pure"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "mysterious",
+    "9": "completeness"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life",
+    "earth": "foundation_of_society"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Zenken: **思想A "
+    }
+  ]
+}

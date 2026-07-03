@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Zenji",
+    "trait": "Innovative",
+    "bio": "Believing that the power of creativity lies within each individual, Kaito Zenji seeks to unleash the potential of others and himself.",
+    "icon": "🔥",
+    "speech_style": "Excitable and expressive, often using vivid metaphors to convey their ideas",
+    "motivation": "Expansive: a desire to explore new horizons and bring new ideas to the world",
+    "influence": 10,
+    "relationships": {
+      "Akira Hikari": 0,
+      "Lila Kensei": 0
+    }
+  },
+  {
+    "name": "Akira Hikari",
+    "trait": "Authentic",
+    "bio": "Emphasizing the importance of self-discovery, Akira Hikari encourages others to find their unique voice and stand by it.",
+    "icon": "🌟",
+    "speech_style": "Soft-spoken and deliberate, often prefacing their words with thoughtful pauses and gentle nods",
+    "motivation": "Preservative: a desire to preserve individuality and protect it from external forces",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Lila Kensei": 0
+    }
+  },
+  {
+    "name": "Lila Kensei",
+    "trait": "Visionary",
+    "bio": "Believing that individuality is the key to collective progress, Lila Kensei inspires others to find their own path and blaze their own trail.",
+    "icon": "💫",
+    "speech_style": "Poetic and cryptic, often using abstract language to convey their insights",
+    "motivation": "Exploratory: a desire to explore new possibilities and push the boundaries of human potential",
+    "influence": 10,
+    "relationships": {
+      "Kaito Zenji": 0,
+      "Akira Hikari": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

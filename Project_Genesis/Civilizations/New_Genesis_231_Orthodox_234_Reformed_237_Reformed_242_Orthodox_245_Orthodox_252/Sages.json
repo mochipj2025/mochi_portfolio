@@ -1,0 +1,63 @@
+[
+  {
+    "name": "**Thought A**",
+    "trait": "Cautious",
+    "bio": "Seeking to understand the fundamental nature of reality and the human condition.",
+    "icon": "💡",
+    "speech_style": "Precise and calculated, using technical terms.",
+    "motivation": [
+      "Exploration",
+      "Discovery",
+      "Advancement"
+    ],
+    "influence": 10,
+    "relationships": {
+      "**Echo B**": 0,
+      "**Prism C**": 0
+    }
+  },
+  {
+    "name": "**Echo B**",
+    "trait": "Passionate",
+    "bio": "Believing that knowledge is power and can be used for the greater good, striving to create a more just society.",
+    "icon": "🗣️",
+    "speech_style": "Oratorical, using rhetorical devices to emphasize points.",
+    "motivation": [
+      "Social change",
+      "Empowerment",
+      "Fostering discussion"
+    ],
+    "influence": 10,
+    "relationships": {
+      "**Thought A**": 0,
+      "**Prism C**": 0
+    }
+  },
+  {
+    "name": "**Prism C**",
+    "trait": "Analytical",
+    "bio": "Pursuing the underlying logic and patterns that govern the universe, seeking to illuminate the path forward for humanity.",
+    "icon": "🔍",
+    "speech_style": "Dry and detached, using technical jargon to dissect complex issues.",
+    "motivation": [
+      "Insight",
+      "Understanding",
+      " Illumination"
+    ],
+    "influence": 10,
+    "relationships": {
+      "**Thought A**": 0,
+      "**Echo B**": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

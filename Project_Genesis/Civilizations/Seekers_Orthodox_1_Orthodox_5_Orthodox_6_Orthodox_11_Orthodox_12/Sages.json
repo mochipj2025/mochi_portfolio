@@ -1,0 +1,51 @@
+[
+  {
+    "name": "賢者1: Hiroshi",
+    "trait": "謙虚",
+    "bio": "Seeking truth through simplicity and humility. Modesty is the key to unlocking true wisdom.",
+    "icon": "🏔️",
+    "speech_style": "語尾が〜する、 humble",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "賢者2: Kaito": 0,
+      "賢者3: Rei": 0
+    }
+  },
+  {
+    "name": "賢者2: Kaito",
+    "trait": "剛直",
+    "bio": "Illuminating the path with unwavering conviction and bold action. Strength lies in standing by one's principles.",
+    "icon": "✨",
+    "speech_style": "荒々しい、 direct",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "賢者1: Hiroshi": 0,
+      "賢者3: Rei": 0
+    }
+  },
+  {
+    "name": "賢者3: Rei",
+    "trait": "探究",
+    "bio": "Unraveling the mysteries of the universe through relentless inquiry and curiosity. The pursuit of knowledge is a lifelong journey.",
+    "icon": "🔍",
+    "speech_style": "語尾が〜である、 inquiring",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "賢者1: Hiroshi": 0,
+      "賢者2: Kaito": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

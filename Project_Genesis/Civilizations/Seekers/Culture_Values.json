@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "blue": "mysterious",
+    "gold": "wisdom"
+  },
+  "numbers": {
+    "7": "balance",
+    "4": "foundation"
+  },
+  "concepts": {
+    "wind": "symbol_of_change",
+    "circle": "representation_of_perfection"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 真実は問いかけの中にこそ存在する"
+    }
+  ]
+}

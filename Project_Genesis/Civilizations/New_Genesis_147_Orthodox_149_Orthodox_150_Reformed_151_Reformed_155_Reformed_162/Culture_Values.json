@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "blue": "trust"
+  },
+  "numbers": {
+    "4": "balance",
+    "7": "spiritual_growth"
+  },
+  "concepts": {
+    "fire": "symbol_of_purification",
+    "water": "symbol_of_cleansing"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Determinism**\n\nOn one hand, **Dualism** (賢者1) emphasizes the importance of creativity, freedom, and subjective experience in shaping our consciousness. This perspective suggests that there is something more to our minds than just information processing.\n\nOn the other hand, **Determinism** (賢者2) posits that consciousness arises from the interactions between neurons and their subsequent information processing. According to this view, our thoughts, feelings, and behaviors are ultimately determined by these physical processes.\n\nThe debate highlights the tension between these two perspectives, with Wise Sage 3 representing a synthesis of both views, acknowledging the importance of creative freedom while also recognizing the role of information processing in shaping our experiences."
+    }
+  ]
+}

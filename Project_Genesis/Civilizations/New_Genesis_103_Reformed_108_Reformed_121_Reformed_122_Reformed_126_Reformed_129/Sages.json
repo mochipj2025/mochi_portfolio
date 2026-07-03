@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Rei Rinrin",
+    "trait": "Compassionate Sage",
+    "bio": "Believes that harmony among all beings is the key to true equality. Emphasizes empathy, understanding, and cooperation.",
+    "icon": "✨",
+    "speech_style": "With gentle warmth and conviction",
+    "motivation": [
+      "Expansive desire",
+      "To create a world where diversity and differences are celebrated"
+    ],
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Rei Rinrin",
+    "trait": "Luminous",
+    "bio": "True equality is about finding harmony between individuality and collectivity. By balancing these two ideals, we can create a society that values both growth and fairness.",
+    "icon": "",
+    "speech_style": "Clear and concise, with a hint of optimism",
+    "motivation": "Empathy",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Akira Arakawa": 0
+    }
+  }
+]

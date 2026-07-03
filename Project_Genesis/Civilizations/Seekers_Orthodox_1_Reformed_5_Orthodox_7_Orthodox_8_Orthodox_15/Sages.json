@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Akira Kokoro",
+    "trait": "Wisdom",
+    "bio": "The path to wisdom lies not in seeking answers, but in embracing the mysteries of life. Quiet contemplation yields profound insights.",
+    "icon": "",
+    "speech_style": "In a quiet, measured tone, as if sharing ancient secrets.",
+    "motivation": "Expansion (広げる) - sharing knowledge and fostering growth through open-minded dialogue.",
+    "influence": 35,
+    "relationships": {
+      "Kaito Kyōsei": 0,
+      "Mitsuru Shōen": 0
+    }
+  }
+]

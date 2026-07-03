@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kai 'Sim' Liao",
+    "trait": "Adaptable",
+    "bio": "Simulationism is the key to understanding our reality. By embracing the possibility that we're just code, we can find new ways to optimize our existence.",
+    "icon": "",
+    "speech_style": "Quick-witted and fast-paced, with a tendency to interrupt others",
+    "motivation": "Exploration",
+    "influence": 20,
+    "relationships": {
+      "Zenith 'Z' Kaida": 0,
+      "Akira 'Axiom' Tanaka": 0
+    }
+  }
+]

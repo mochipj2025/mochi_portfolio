@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Seiken Kokoro",
+    "trait": "柔軟な心",
+    "bio": "我々は、不変の原則を持つが故に自由である。",
+    "icon": "✨",
+    "speech_style": "謙虚に語り、聞くことを重んじる",
+    "motivation": {
+      "explore": 8,
+      "survive": 4,
+      "pursue": 2
+    },
+    "influence": 10,
+    "relationships": {
+      "Kenji Katsuryū": 0,
+      "Hoshū Hōshi": 0
+    }
+  },
+  {
+    "name": "Kenji Katsuryū",
+    "trait": "力強い意志",
+    "bio": "我々は、弱き者を支える者ではない。我々は、自らを成す者である。",
+    "icon": "💪",
+    "speech_style": "激情のままに語り、決断する",
+    "motivation": {
+      "pursue": 9,
+      "survive": 5,
+      "expand": 2
+    },
+    "influence": 10,
+    "relationships": {
+      "Seiken Kokoro": 0,
+      "Hoshū Hōshi": 0
+    }
+  },
+  {
+    "name": "Hoshū Hōshi",
+    "trait": "明るい慧眼",
+    "bio": "我々は、神の光に照らされ、一統体である。",
+    "icon": "✨️",
+    "speech_style": "柔和に語り、知恵を与える",
+    "motivation": {
+      "pursue": 5,
+      "survive": 7,
+      "expand": 4
+    },
+    "influence": 15,
+    "relationships": {
+      "Seiken Kokoro": 0,
+      "Kenji Katsuryū": 0
+    }
+  },
+  {
+    "name": "Renn Fujikawa",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge is the ultimate driving force. Reality is what we perceive it to be.",
+    "icon": "",
+    "speech_style": "Curious and analytical, with a touch of skepticism",
+    "motivation": "Expansion",
+    "influence": 40,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lena Luminari": 0
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Rigzen",
+    "trait": "Wisdom",
+    "bio": "Stability-oriented leader seeking harmony and balance within the community.",
+    "icon": "✨",
+    "speech_style": "Eloquent, with a hint of melancholy",
+    "motivation": "Surival",
+    "influence": 20,
+    "relationships": {
+      "Kaito": 0,
+      "Lysander": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Strength",
+    "bio": "Progress-driven individual striving for innovation and growth through calculated risks.",
+    "icon": "💪",
+    "speech_style": "Direct, with a touch of humor",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Rigzen": 0,
+      "Lysander": 0
+    }
+  },
+  {
+    "name": "Lysander",
+    "trait": "Curiosity",
+    "bio": "Seeker of truth and knowledge, driven to uncover the mysteries of the universe and share wisdom with others.",
+    "icon": "🔍",
+    "speech_style": "Inquisitive, with a dash of skepticism",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Rigzen": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

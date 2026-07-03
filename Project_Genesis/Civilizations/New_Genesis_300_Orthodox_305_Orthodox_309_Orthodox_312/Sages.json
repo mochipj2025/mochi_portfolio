@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Kaito Kensei",
+    "trait": "Vagabond Soul",
+    "bio": "Embracing individuality as the cornerstone of human dignity.",
+    "icon": "",
+    "speech_style": "Smooth-toned, like a gentle stream",
+    "motivation": [
+      "Exploration"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Lila Luminari": 0,
+      "Taro Takahashi": 0
+    }
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Starlight Whimsy",
+    "bio": "Celebrating diversity and creativity as the driving force behind human progress.",
+    "icon": "*",
+    "speech_style": "Melodic whispers, like the rustling of leaves",
+    "motivation": [
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Kensei": 0,
+      "Taro Takahashi": 0
+    }
+  },
+  {
+    "name": "Taro Takahashi",
+    "trait": "Maverick Resolve",
+    "bio": "Upholding individuality as the fundamental right to shape one's own destiny.",
+    "icon": "",
+    "speech_style": "Direct, no-nonsense tone, like a sharp sword",
+    "motivation": [
+      "Self-Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Kensei": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "Lila Lotusblume",
+    "trait": "Vibrant",
+    "bio": "Thinks that the lost legends hold the key to understanding the present. Seeks to revive the spirit of New Genesis 300.",
+    "icon": "",
+    "speech_style": "Uses metaphors and allegories",
+    "motivation": "Survival",
+    "influence": 35,
+    "relationships": {
+      "Kaito Kiyomizu": 0,
+      "Renn Arashi": 0
+    }
+  }
+]

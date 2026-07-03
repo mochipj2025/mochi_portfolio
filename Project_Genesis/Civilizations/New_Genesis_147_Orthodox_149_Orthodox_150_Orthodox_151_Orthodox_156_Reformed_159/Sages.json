@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Hirose",
+    "trait": "Visionary",
+    "bio": "Believes in the power of human freedom and self-realization, emphasizing individual autonomy and agency.",
+    "icon": "",
+    "speech_style": "eloquent and passionate",
+    "motivation": "Exploration (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Akira Nishikawa": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Akira Nishikawa",
+    "trait": "Innovative",
+    "bio": "Confident in AI's potential to revolutionize humanity, prioritizing technological advancement over human values.",
+    "icon": "",
+    "speech_style": "rapid-fire and analytical",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hirose": 0,
+      "Taro Yamada": 0
+    }
+  },
+  {
+    "name": "Taro Yamada",
+    "trait": "Resilient",
+    "bio": "Favors inner strength as the foundation for a stronger humanity, emphasizing individual resilience in the face of adversity.",
+    "icon": "",
+    "speech_style": " calm and profound",
+    "motivation": "Survival (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hirose": 0,
+      "Akira Nishikawa": 0
+    }
+  },
+  {
+    "name": "Kaito Hirose",
+    "trait": "自由の翼",
+    "bio": "「自分の声」を持つことで、自分自身を実現することを信じる",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Nishikawa": 0,
+      "Taro Yamada": 0
+    }
+  }
+]

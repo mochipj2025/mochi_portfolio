@@ -1,0 +1,48 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "TechnoLiberty",
+    "trait": "自由心",
+    "bio": "技術を通じて、人々の自由を守りたいと考える賢者。",
+    "icon": "⚔️",
+    "speech_style": "語尾が〜である(例：~のしよう)",
+    "motivation": {
+      "type": "探求欲",
+      "reason": "新しい技術に基づく社会の可能性"
+    },
+    "influence": 10,
+    "relationships": {
+      "Reformed_1": 0,
+      "Orthodox_2": 0
+    }
+  }
+]

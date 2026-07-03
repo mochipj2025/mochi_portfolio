@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "gold": "divine",
+    "blue": "celestial",
+    "white": "pure"
+  },
+  "numbers": {
+    "7": "perfect",
+    "4": "stability",
+    "9": "completion"
+  },
+  "concepts": {
+    "light": "harmony_with_the_universe"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: 思想A "
+    }
+  ]
+}

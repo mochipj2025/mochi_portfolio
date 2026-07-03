@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "blue": "harmony",
+    "gold": "wisdom",
+    "green": "growth"
+  },
+  "numbers": {
+    "7": "perfection",
+    "14": "balance",
+    "21": "transformation"
+  },
+  "concepts": {
+    "light": "guidance",
+    "water": "cleansing",
+    "earth": "stability"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Hikari:  Gradualism"
+    }
+  ]
+}

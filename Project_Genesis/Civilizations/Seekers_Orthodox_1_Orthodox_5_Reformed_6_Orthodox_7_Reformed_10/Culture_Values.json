@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "wisdom",
+    "blue": "trust"
+  },
+  "numbers": {
+    "2": "balance",
+    "5": "transformation"
+  },
+  "concepts": {
+    "ascension": "goal_of_life",
+    "mentorship": "key_to_success"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2:  Thought B**\n\nThought A: \"Born to Lead\" - Leadership is an innate quality, and some people are naturally born to lead.\n\nThought B: \"Developed Leadership\" - Leadership can be developed through experience, wisdom, and adaptation in the face of adversity."
+    }
+  ]
+}

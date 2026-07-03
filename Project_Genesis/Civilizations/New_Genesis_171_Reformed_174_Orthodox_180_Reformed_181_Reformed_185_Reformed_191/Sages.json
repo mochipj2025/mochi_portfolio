@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Akira",
+    "trait": "不定な",
+    "bio": "Chaos is not just a force, it's an art. I dance with the unpredictable winds of fate.",
+    "icon": "",
+    "speech_style": "語尾が荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Luna": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "謙虚な",
+    "bio": "Wisdom comes from humility. I listen to the whispers of the universe, seeking balance and harmony.",
+    "icon": "",
+    "speech_style": "語尾が柔らかい",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Luna": 0
+    }
+  },
+  {
+    "name": "Luna",
+    "trait": "聡明な",
+    "bio": "The truth is hidden in plain sight. I decipher the mysteries of existence, pursuing knowledge and understanding.",
+    "icon": "",
+    "speech_style": "語尾が温かく",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Passionate",
+    "bio": "Believes in the transformative power of art and creativity to reshape society. Seeks to kindle a new era of cultural renaissance.",
+    "icon": "🔥",
+    "speech_style": "Emotive, with a fiery intensity",
+    "motivation": "Illuminating the Future",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Zenji": 0
+    }
+  }
+]

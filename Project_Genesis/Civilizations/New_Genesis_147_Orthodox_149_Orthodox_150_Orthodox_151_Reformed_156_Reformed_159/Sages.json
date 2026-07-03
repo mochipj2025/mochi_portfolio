@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kokoro Akira",
+    "trait": "Free-spirited",
+    "bio": "Believes that true creativity arises from embracing the unknown and taking calculated risks.",
+    "icon": "🔥",
+    "speech_style": "Conversational tone with a hint of whimsy",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Renn Hoshino": 0,
+      "Sora Tanaka": 0
+    }
+  },
+  {
+    "name": "Renn Hoshino",
+    "trait": "Eclectic",
+    "bio": "Sees the value in blending seemingly disparate elements to create something novel and innovative.",
+    "icon": "✨",
+    "speech_style": "Fast-paced, fragmented sentences with a touch of playfulness",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kokoro Akira": 0,
+      "Sora Tanaka": 0
+    }
+  },
+  {
+    "name": "Sora Tanaka",
+    "trait": "Dreamy",
+    "bio": "Believes that uniqueness is not about being different for its own sake, but about bringing one's true essence to the world.",
+    "icon": "🌈",
+    "speech_style": "Poetic language with a gentle cadence, often using metaphorical expressions",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kokoro Akira": 0,
+      "Renn Hoshino": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

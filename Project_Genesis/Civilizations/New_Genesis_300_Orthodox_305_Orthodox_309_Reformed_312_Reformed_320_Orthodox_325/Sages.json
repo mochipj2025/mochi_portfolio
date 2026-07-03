@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Asterion",
+    "trait": "Confident",
+    "bio": "Seeking truth through experimentation and innovation.",
+    "icon": "⭐️",
+    "speech_style": " assertive",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Kairos": 0,
+      "Apollon": 0
+    }
+  },
+  {
+    "name": "Kairos",
+    "trait": "Inquisitive",
+    "bio": "Uncovering the mysteries of the universe through critical thinking and analysis.",
+    "icon": "⏰",
+    "speech_style": "curious, rhetorical",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Asterion": 0,
+      "Apollon": 0
+    }
+  },
+  {
+    "name": "Apollon",
+    "trait": "Visionary",
+    "bio": "Shaping the future by harnessing the power of imagination and creativity.",
+    "icon": "🔥",
+    "speech_style": "inspiring, prophetic",
+    "motivation": "Creation",
+    "influence": 10,
+    "relationships": {
+      "Asterion": 0,
+      "Kairos": 0
+    }
+  },
+  {
+    "name": "Mikkan",
+    "trait": "照明",
+    "bio": "For Mikkan, wisdom is the warm light that guides us through the darkness. He believes that knowledge should be a beacon of hope, illuminating the path forward for humanity and helping us to find our way.",
+    "icon": "☀️",
+    "speech_style": "語尾が〜である ( calm and reassuring )",
+    "motivation": "生存欲",
+    "influence": 15,
+    "relationships": {
+      "Kanzen": 0,
+      "Zenken": 0
+    }
+  }
+]

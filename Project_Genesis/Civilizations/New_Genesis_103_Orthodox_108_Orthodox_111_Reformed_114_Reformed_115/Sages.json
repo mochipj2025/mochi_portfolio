@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Hoshino",
+    "trait": "Curiosity",
+    "bio": "Seeking truth through unbridled curiosity and innovation.",
+    "icon": "🔭",
+    "speech_style": "Arrogant, with a hint of sarcasm",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Sakura": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "Akira Sakura",
+    "trait": "Balance",
+    "bio": "Embracing harmony and stability through the pursuit of knowledge.",
+    "icon": "🏯",
+    "speech_style": "Soft-spoken, yet firm, with a gentle rhythm",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Renn Fujimoto": 0
+    }
+  },
+  {
+    "name": "Renn Fujimoto",
+    "trait": "Passion",
+    "bio": "Inspiring others through the power of imagination and creativity.",
+    "icon": "💡",
+    "speech_style": "Eloquent, with a fiery enthusiasm",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Akira Sakura": 0
+    }
+  },
+  {
+    "name": "Ryō Tamura",
+    "trait": "実践的",
+    "bio": "The greatest good is achieved through the harmonious balance of individual and collective interests. We must strive for a world where all can thrive.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Lǐ Xiǎo": 0
+    }
+  }
+]

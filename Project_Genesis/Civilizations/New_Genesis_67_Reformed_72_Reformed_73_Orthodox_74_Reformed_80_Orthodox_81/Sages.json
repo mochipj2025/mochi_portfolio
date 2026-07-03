@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kyōsei",
+    "trait": "Free-spirited",
+    "bio": "Believes that pragmatism is the key to progress, and that sometimes, you need to break free from traditional norms to achieve true innovation.",
+    "icon": "🔥",
+    "speech_style": "Ending sentences with a questioning tone (...?)",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira Kōjin": 0,
+      "Ling Ling Renmei": 0
+    }
+  }
+]

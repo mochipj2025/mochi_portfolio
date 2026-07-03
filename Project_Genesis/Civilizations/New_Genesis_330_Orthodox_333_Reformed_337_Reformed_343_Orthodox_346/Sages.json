@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Kuroba",
+    "trait": "Mysterious",
+    "bio": "Individuality is the foundation of innovation.",
+    "icon": "",
+    "speech_style": "Cryptic whispers",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Taro Tsuchiya": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Intense",
+    "bio": "The collective good prevails over individual interests.",
+    "icon": "",
+    "speech_style": "Forceful declarations",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Taro Tsuchiya": 0
+    }
+  },
+  {
+    "name": "Taro Tsuchiya",
+    "trait": "Whimsical",
+    "bio": "Empathy and compassion can bridge the gap between individuals.",
+    "icon": "",
+    "speech_style": "Meandering tales",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kuroba": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "Sora Yamato",
+    "trait": "Whimsy Wanderer",
+    "bio": "I seek the truth in every story, no matter how fantastical or mundane. I believe that even the most ordinary events can hold hidden depths.",
+    "icon": "✨️",
+    "speech_style": "Storyteller",
+    "motivation": "Discovery",
+    "influence": 35,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Takeru Shinoda": 0
+    }
+  }
+]

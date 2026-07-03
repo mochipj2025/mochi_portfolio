@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>かみさまUI - Project Genesis</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Inter:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({ startOnLoad: false, theme: 'dark' });</script>
+</head>
+
+<body>
+    <div class="stars"></div>
+    <div class="nebula"></div>
+
+    <main>
+        <aside id="sidebar" class="x-sidebar">
+            <div class="sidebar-nav-top">
+                <div class="sidebar-logo" style="font-size: 1.5rem; font-weight: 900; padding-left: 1rem;">PG</div>
+                <nav>
+                    <button class="nav-btn active" onclick="switchView('timeline')">🏠 <span>Home</span></button>
+                    <button class="nav-btn" onclick="switchView('civilizations')">🔍 <span>Explore</span></button>
+                    <button class="nav-btn" onclick="switchView('world')">🗺️ <span>Atlas</span></button>
+                    <button class="nav-btn" onclick="switchView('genealogy')">🌳 <span>Tree</span></button>
+                    <button class="nav-btn" onclick="switchView('pado')">🎭 <span>Travels</span></button>
+                    <button class="nav-btn" onclick="switchView('legends')">🏛️ <span>Library</span></button>
+                </nav>
+                <button class="x-post-btn" onclick="alert('The gods are observing...')">Observe</button>
+            </div>
+
+            <div class="sidebar-user"
+                style="display: flex; align-items: center; gap: 12px; padding: 0.75rem; border-radius: 9999px; cursor: pointer; transition: background 0.2s; margin-bottom: 1rem;"
+                onmouseover="this.style.background='var(--bg-hover)'" onmouseout="this.style.background='transparent'">
+                <div class="user-avatar"
+                    style="width: 40px; height: 40px; border-radius: 50%; background: var(--accent-primary); display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                    G</div>
+                <div class="user-info">
+                    <div style="font-weight: 700; font-size: 0.95rem;">Observer</div>
+                    <div style="color: var(--text-secondary); font-size: 0.9rem;">@genesis_god</div>
+                </div>
+            </div>
+        </aside>
+
+        <div id="main-content" class="x-main">
+            <div class="timeline-tabs">
+                <div class="tab active" onclick="switchTimelineTab('for-you')">For you</div>
+                <div class="tab" onclick="switchTimelineTab('following')">Following</div>
+            </div>
+
+            <!-- Views (Timeline, Civs, etc) -->
+            <div id="view-container">
+                <!-- タイムライン表示 -->
+                <section id="timeline-view" class="view-section">
+                    <div id="timeline-list"></div>
+                </section>
+
+                <!-- 文明リスト -->
+                <section id="civilizations-view" class="view-section" style="display: none;">
+                    <div class="view-header">
+                        <h2>文明アーカイブ</h2>
+                    </div>
+                    <ul id="civ-list" class="grid-list"></ul>
+                </section>
+
+                <!-- 世界地図 -->
+                <section id="world-view" class="view-section" style="display: none;">
+                    <div class="view-header">
+                        <h2>世界地図 (World Map)</h2>
+                    </div>
+                    <div class="world-content">
+                        <div class="map-container glass-panel">
+                            <img id="world-map-img" src="" alt="World Map">
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 系譜図 -->
+                <section id="genealogy-view" class="view-section" style="display: none;">
+                    <div class="view-header">
+                        <h2>文明の系譜</h2>
+                    </div>
+                    <div id="mermaid-graph" class="mermaid-container"></div>
+                </section>
+
+                <!-- パドの旅 -->
+                <section id="pado-view" class="view-section" style="display: none;">
+                    <div class="view-header">
+                        <h2>パドの見聞録</h2>
+                    </div>
+                    <ul id="pado-list" class="grid-list"></ul>
+                </section>
+
+                <!-- 伝説の書 -->
+                <section id="legends-view" class="view-section" style="display: none;">
+                    <div class="view-header">
+                        <h2>歴史的伝説</h2>
+                    </div>
+                    <ul id="legend-list" class="grid-list"></ul>
+                </section>
+
+                <!-- 詳細ビュー (ファイルエクスプローラー) -->
+                <section id="detail-view" class="view-section" style="display: none;">
+                    <div id="civ-profile-header" class="view-header"></div>
+                    <div id="detail-container">
+                        <aside id="file-selector">
+                            <div class="tabs">
+                                <button class="tab-btn active" onclick="switchTab('archives')">Archives</button>
+                                <button class="tab-btn" onclick="switchTab('concepts')">Concepts</button>
+                            </div>
+                            <ul id="file-list"></ul>
+                        </aside>
+                        <div id="display-area">
+                            <div id="content-body" class="markdown-body"></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <aside id="info-sidebar" class="x-info-sidebar">
+            <div class="search-container"
+                style="position: sticky; top: 0; background: #000; padding: 0.5rem 0; z-index: 5;">
+                <input type="text" placeholder="Search Divine Records"
+                    style="width: 100%; padding: 0.75rem 1.5rem; border: none; border-radius: 9999px; background: #202327; color: white;">
+            </div>
+
+            <div class="widget glass-card"
+                style="padding: 1rem; margin-top: 1rem; background: #16181c; border-radius: 16px; border: none;">
+                <h3 style="font-size: 1.25rem; font-weight: 800; margin-bottom: 0.5rem;">Subscribe to Premium</h3>
+                <p style="font-size: 0.95rem; margin-bottom: 1rem; color: var(--text-primary);">Unlock new features and
+                    if eligible, receive a share of the divine energy.</p>
+                <button
+                    style="background: var(--text-primary); color: black; border: none; padding: 0.5rem 1rem; border-radius: 9999px; font-weight: 700;">Subscribe</button>
+            </div>
+
+            <div class="widget" style="margin-top: 1rem; background: #16181c; border-radius: 16px; overflow: hidden;">
+                <h3 style="padding: 1rem; font-size: 1.25rem; font-weight: 800;">What's happening</h3>
+                <div id="trending-list">
+                    <!-- Dynamic -->
+                    <div style="padding: 0.75rem 1rem; cursor: pointer;"
+                        onmouseover="this.style.background='rgba(255,255,255,0.03)'"
+                        onmouseout="this.style.background='transparent'">
+                        <div style="font-size: 0.8rem; color: var(--text-secondary);">Trending in Abyss</div>
+                        <div style="font-weight: 700;">#TheGrandFilter</div>
+                        <div style="font-size: 0.8rem; color: var(--text-secondary);">1.2K Seeds</div>
+                    </div>
+                </div>
+                <div style="padding: 1rem; color: var(--accent-primary); cursor: pointer; font-size: 0.95rem;">Show more
+                </div>
+            </div>
+
+            <div class="widget" style="margin-top: 1rem; background: #16181c; border-radius: 16px; overflow: hidden;">
+                <h3 style="padding: 1rem; font-size: 1.25rem; font-weight: 800;">Who to follow</h3>
+                <div id="who-to-follow-list">
+                    <!-- Dynamic -->
+                </div>
+                <div style="padding: 1rem; color: var(--accent-primary); cursor: pointer; font-size: 0.95rem;">Show more
+                </div>
+            </div>
+
+            <div style="padding: 1rem; font-size: 0.8rem; color: var(--text-secondary);">
+                Terms of Service Privacy Policy Cookie Policy Accessibility Ads info More © 2026 Project Genesis
+            </div>
+        </aside>
+    </main>
+
+    <!-- プロフィール等の簡易表示用モーダル -->
+    <div id="modal-overlay" class="modal-overlay" style="display:none;" onclick="closeModal()">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <button class="close-btn" onclick="closeModal()">×</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kōri",
+    "trait": " Serene Radiance",
+    "bio": "Seeking balance in all aspects of life, I uphold the virtues of harmony and moderation.",
+    "icon": "",
+    "speech_style": "Even-toned and measured",
+    "motivation": "Survival Desire (to maintain equilibrium)",
+    "influence": 10,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Renn Fujimi": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Passionate Insight",
+    "bio": "Through the lens of compassion, I illuminate the path to justice and equality.",
+    "icon": "",
+    "speech_style": "Ardent and persuasive",
+    "motivation": "Expansion Desire (to spread truth and wisdom)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kōri": 0,
+      "Renn Fujimi": 0
+    }
+  },
+  {
+    "name": "Renn Fujimi",
+    "trait": "Eloquent Enigma",
+    "bio": "In the depths of human nature, I uncover the hidden patterns that govern existence.",
+    "icon": "",
+    "speech_style": "Mysterious and cryptic, with hints of dry humor",
+    "motivation": "Exploration Desire (to unravel the mysteries of the universe)",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kōri": 0,
+      "Akira Akatsuki": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

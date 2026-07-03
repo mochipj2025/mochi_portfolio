@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "black": "mournful"
+  },
+  "numbers": {
+    "3": "trinitarian",
+    "7": "perfect"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth_and_transformation",
+    "stone": "symbol_of_stability_and_endurance"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3:  Traditionalism**\n\nThese two perspectives represent fundamentally different approaches to understanding the role of AI in society. While Techno-Humanism (wisdom 3) advocates for embracing AI's potential to bring about radical change and create a new world order, Traditionalism (wisdom 1 and 2) seeks to maintain the status quo, preserving traditional values and social structures.\n\nThe debate highlights the tension between those who see AI as a means to transcend human limitations and those who are more cautious about its impact on society."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Hoshino",
+    "trait": "Luminous",
+    "bio": "Seeking harmony between innovation and tradition, I strive to illuminate the path forward.",
+    "icon": "✨",
+    "speech_style": "Wisdom-filled whispers",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Takashi Kusunoki": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Tenacious",
+    "bio": "I believe in harnessing the power of human curiosity to shape a brighter future, where knowledge and wisdom are the guiding lights.",
+    "icon": "⛰️",
+    "speech_style": "Passionate declarations",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Takashi Kusunoki": 0
+    }
+  },
+  {
+    "name": "Takashi Kusunoki",
+    "trait": "Inquisitive",
+    "bio": "I seek to uncover the hidden truths and mysteries of our world, using logic and reason as my guiding principles.",
+    "icon": "❓",
+    "speech_style": "Thought-provoking queries",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Hoshino": 0,
+      "Akira Katsuragi": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

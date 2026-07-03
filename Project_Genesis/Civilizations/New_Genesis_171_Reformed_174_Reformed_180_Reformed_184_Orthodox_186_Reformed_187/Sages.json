@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Renn Fujimori",
+    "trait": "Innovative",
+    "bio": "Embracing the future by disrupting traditional norms.",
+    "icon": "",
+    "speech_style": "Fast-paced and decisive, always finishing sentences with a raised eyebrow",
+    "motivation": "Exploration",
+    "influence": 40,
+    "relationships": {
+      "Kaito Yamato": 0,
+      "Shunichi Matsumoto": 0
+    }
+  },
+  {
+    "name": "Kaito Yamato",
+    "trait": "Visionary",
+    "bio": "Seeking unity through shared wisdom and collective growth.",
+    "icon": "",
+    "speech_style": "Slowly building up to grandiose statements, pausing for dramatic effect",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori": 0,
+      "Shunichi Matsumoto": 0
+    }
+  },
+  {
+    "name": "Shunichi Matsumoto",
+    "trait": "Analytical",
+    "bio": "Unraveling the mysteries of the universe through empirical evidence.",
+    "icon": "",
+    "speech_style": "Structured and methodical, using precise technical terms",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujimori": 0,
+      "Kaito Yamato": 0
+    }
+  },
+  {
+    "name": "Renn Fujimori",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge and understanding is the only constant in an ever-changing world. We must be willing to challenge our assumptions and adapt to new information.",
+    "icon": ":regional_indicator_k:",
+    "speech_style": "Fast-paced and enthusiastic, with a tendency to interrupt and build upon others' ideas",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōrai": 0,
+      "Taro Yamato": 0
+    }
+  }
+]

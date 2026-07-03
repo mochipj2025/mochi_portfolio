@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "divine",
+    "blue": "soothing"
+  },
+  "numbers": {
+    "4": "balance",
+    "7": "perfection"
+  },
+  "concepts": {
+    "light": "symbol_of_knowledge",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: **Stability "
+    }
+  ]
+}

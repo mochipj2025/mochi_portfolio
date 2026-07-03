@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Authenticity",
+    "bio": "Believing that the truth lies in the simplest and most genuine forms, Kaito seeks to uncover the essence of Harmonists Reformed principles.",
+    "icon": "⏫",
+    "speech_style": "Slow and deliberate, with a hint of introspection",
+    "motivation": "Exploration: seeking answers through direct experience",
+    "influence": 20,
+    "relationships": {
+      "Akira": 0,
+      "Hiroki": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Vitality",
+    "bio": "With an infectious passion for the Harmonists Reformed way of life, Akira is driven by a desire to share this energy with others.",
+    "icon": "",
+    "speech_style": "Energetic and enthusiastic, with a tendency to interrupt others",
+    "motivation": "Survival: ensuring the continued growth and relevance of Harmonists Reformed",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Hiroki": 0
+    }
+  },
+  {
+    "name": "Hiroki",
+    "trait": "Wisdom",
+    "bio": "A sage and contemplative individual, Hiroki seeks to balance the competing demands of Harmony and Reformation by cultivating inner wisdom.",
+    "icon": "",
+    "speech_style": "Soft-spoken, yet piercingly insightful, with a subtle emphasis on nuance",
+    "motivation": "Expansion: perpetuating the evolution of Harmonists Reformed values",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 25,
+    "relationships": {}
+  }
+]

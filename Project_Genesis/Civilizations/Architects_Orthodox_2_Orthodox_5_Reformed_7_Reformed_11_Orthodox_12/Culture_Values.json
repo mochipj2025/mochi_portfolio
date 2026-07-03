@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "red": "divine",
+    "gold": "sacred",
+    "white": "pure"
+  },
+  "numbers": {
+    "3": "lucky",
+    "13": "ominous"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "circle": "representation_of_unity",
+    "water": "source_of_life_and_purification"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Kaito Yamato: **Tradition "
+    }
+  ]
+}

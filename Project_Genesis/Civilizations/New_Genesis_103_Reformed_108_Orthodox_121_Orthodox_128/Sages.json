@@ -1,0 +1,48 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Kaito Kazama",
+    "trait": "Curiosity",
+    "bio": "Seeking truth through dialogue and exploration, Kaito believes that individuality is the spark that drives human progress.",
+    "icon": "",
+    "speech_style": "Inquisitive tone with a hint of excitement",
+    "motivation": {
+      "type": "explore",
+      "description": "Discover new ideas and perspectives to enrich the world."
+    },
+    "influence": 25,
+    "relationships": {
+      "Akira Renn": 0,
+      "Renji Kuroba": 0
+    }
+  }
+]

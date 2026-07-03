@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kiyoshi",
+    "trait": "Free-spirited",
+    "bio": "Individual freedom is key to personal growth. Embracing diversity is the foundation of a healthy society.",
+    "icon": "🔥",
+    "speech_style": "Casual and spontaneous",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {
+      "Akira Kōjin": 0,
+      "Shinji Shizuka": 0
+    }
+  },
+  {
+    "name": "Akira Kōjin",
+    "trait": "Harmonious",
+    "bio": "Collective well-being is the ultimate goal. Unity in diversity ensures a prosperous society.",
+    "icon": "🌈",
+    "speech_style": "Smooth and soothing",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Shinji Shizuka": 0
+    }
+  },
+  {
+    "name": "Shinji Shizuka",
+    "trait": "Pragmatic",
+    "bio": "Finding balance between individual needs and societal harmony is the key to a thriving community. Compromise and understanding are the hallmarks of wisdom.",
+    "icon": "🕯️",
+    "speech_style": "Clear and concise",
+    "motivation": "Expansion",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Akira Kōjin": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

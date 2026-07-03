@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kenji",
+    "trait": "Creative Maverick",
+    "bio": "Kenji believes in the power of free creativity and innovation, believing that art and imagination can change the world.",
+    "icon": "🔥",
+    "speech_style": "Unconventional phrases with a hint of playfulness",
+    "motivation": "Explore (探求欲)",
+    "influence": 15,
+    "relationships": {
+      "Akira": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Innovative Architect",
+    "bio": "Akira is driven by the desire to build bridges between seemingly disparate ideas, believing that collaboration and innovation are the keys to progress.",
+    "icon": "⚡️",
+    "speech_style": "Structured sentences with a hint of confidence",
+    "motivation": "Survive (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kenji": 0,
+      "Taro": 0
+    }
+  },
+  {
+    "name": "Taro",
+    "trait": "Wisdom Sage",
+    "bio": "Taro is convinced that the pursuit of knowledge and understanding is essential to creating a better world, and he dedicates himself to illuminating the path forward.",
+    "icon": "🔮",
+    "speech_style": "Profound wisdom with a hint of gravitas",
+    "motivation": "Expand (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kenji": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kenji",
+    "trait": "敬遠 (Respectful)",
+    "bio": "Emphasizes the importance of tradition and cultural heritage. Advocates for preserving collective knowledge and wisdom.",
+    "icon": "⛩️",
+    "speech_style": "calm and measured, with a hint of gravitas",
+    "motivation": "拡張欲 (Expansion Instinct)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  }
+]

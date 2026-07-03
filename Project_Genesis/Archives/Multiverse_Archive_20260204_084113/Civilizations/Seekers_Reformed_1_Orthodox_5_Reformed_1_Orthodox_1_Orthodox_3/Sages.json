@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Kyōiku",
+    "trait": "Wisdom",
+    "bio": "Egalitarianism: Every individual deserves equal opportunities and treatment. A society is only as strong as its weakest member.",
+    "icon": "",
+    "speech_style": "Soft-spoken, with a gentle nod",
+    "motivation": "Expanding possibilities for all",
+    "influence": 10,
+    "relationships": {
+      "Akira Kōkoku": 0,
+      "Lila Ryūki": 0
+    }
+  },
+  {
+    "name": "Akira Kōkoku",
+    "trait": "Passion",
+    "bio": "Hierarchy: With great power comes great responsibility. A strong leader is necessary to guide and protect the weak.",
+    "icon": "",
+    "speech_style": "Forceful, with a raised fist",
+    "motivation": "Consolidating power for the greater good",
+    "influence": 10,
+    "relationships": {
+      "Kaito Kyōiku": 0,
+      "Lila Ryūki": 0
+    }
+  },
+  {
+    "name": "Lila Ryūki",
+    "trait": "Curiosity",
+    "bio": "Synthesis: The truth lies in balance. Egalitarianism and hierarchy are not mutually exclusive.",
+    "icon": "",
+    "speech_style": "Whispered, with a tilt of the head",
+    "motivation": "Seeking harmony through dialogue and understanding",
+    "influence": 15,
+    "relationships": {
+      "Kaito Kyōiku": 0,
+      "Akira Kōkoku": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

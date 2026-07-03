@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "purity",
+    "white": "clarity"
+  },
+  "numbers": {
+    "9": "completion"
+  },
+  "concepts": {
+    "light": "guiding_force",
+    "circle": "unity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Lila Lunaria:  Isolation (Lila Lunaria)**"
+    }
+  ]
+}

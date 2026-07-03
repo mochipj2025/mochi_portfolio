@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "gold": "purity",
+    "green": "harmony",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "4": "stability",
+    "7": "prosperity",
+    "12": "completion"
+  },
+  "concepts": {
+    "earth": "foundation_of_life",
+    "water": "cleansing_purification",
+    "circle": "unity_and_wholeness"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira:  Conservation Tradition)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Eloquent",
+    "bio": "Embracing the principles of intentionalism, I believe that human actions have a profound impact on shaping our reality. As such, I strive to be mindful and intentional in all my endeavors.",
+    "icon": "",
+    "speech_style": "使用される語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 10,
+    "relationships": {
+      "Ling Xiun": 0,
+      "Akira Kyouya": 0
+    }
+  },
+  {
+    "name": "Ling Xiun",
+    "trait": "Brusque",
+    "bio": "I reject the notion that our reality is predetermined. I believe that human actions are merely a reflection of our desires and biases. As such, I seek to disrupt the status quo and challenge the dominant narratives.",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": "探求欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Akira Kyouya": 0
+    }
+  },
+  {
+    "name": "Akira Kyouya",
+    "trait": "Wisdom-filled",
+    "bio": "I believe that human nature is inherently flawed, but also capable of greatness. As such, I seek to balance my own desires with a sense of responsibility and compassion for others.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "生存欲",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Ling Xiun": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

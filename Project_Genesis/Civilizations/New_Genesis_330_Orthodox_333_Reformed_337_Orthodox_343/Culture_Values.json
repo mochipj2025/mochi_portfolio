@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "golden": "divine",
+    "blue": "wisdom"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "perfection"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者3: 思想A "
+    }
+  ]
+}

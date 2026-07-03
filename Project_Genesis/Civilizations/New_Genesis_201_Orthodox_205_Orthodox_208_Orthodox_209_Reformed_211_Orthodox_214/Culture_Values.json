@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "gold": "divine",
+    "black": "mystery"
+  },
+  "numbers": {
+    "7": "perfect"
+  },
+  "concepts": {
+    "light": "symbol_of_knowledge",
+    "water": "symbol_of_purification"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者2: 思ったが、2つの相反する思想は以下の通りです。\n\n**Individualism "
+    }
+  ]
+}

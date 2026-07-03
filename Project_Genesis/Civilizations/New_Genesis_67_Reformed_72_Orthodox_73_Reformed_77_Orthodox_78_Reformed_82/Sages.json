@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Renn Fujiki",
+    "trait": " Shadowy",
+    "bio": "'Shadows shape our reality', I believe. We must learn to listen to their whispers.",
+    "icon": "",
+    "speech_style": "softly murmuring, as if sharing a secret",
+    "motivation": "探求欲 (Desire for Exploration and Discovery)",
+    "influence": 15,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Kaito Matsumoto": 0
+    }
+  },
+  {
+    "name": "Akira Katsuragi",
+    "trait": "Blunt",
+    "bio": "'Shadows are just our own reflections'. We must confront our own darkness before seeking truth.",
+    "icon": "",
+    "speech_style": "harshly, as if trying to pierce through the noise",
+    "motivation": "生存欲 (Desire for Survival and Self-Preservation)",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujiki": 0,
+      "Kaito Matsumoto": 0
+    }
+  },
+  {
+    "name": "Kaito Matsumoto",
+    "trait": "Enigmatic",
+    "bio": "'Shadows hold the key to our true nature'. We must decipher their secrets to unlock our potential.",
+    "icon": "",
+    "speech_style": "in a hushed tone, as if sharing a forbidden knowledge",
+    "motivation": "拡張欲 (Desire for Expansion and Growth)",
+    "influence": 10,
+    "relationships": {
+      "Renn Fujiki": 0,
+      "Akira Katsuragi": 0
+    }
+  },
+  {
+    "name": "Renn Fujiki",
+    "trait": "一言の気質",
+    "bio": "「自由を擁護する」信念を持つ Rennは、個性の尊厳を重要視し、新しい概念やアイデアに積極的に取り組む。",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": "拡張欲",
+    "influence": 15,
+    "relationships": {
+      "Akira Katsuragi": 0,
+      "Lila Hirota": 0
+    }
+  }
+]

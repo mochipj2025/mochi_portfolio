@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Kaito Kurenai",
+    "trait": "Mysterious",
+    "bio": "Lost city ruins hold secrets of our ancestors. I seek to uncover them, no matter the cost.",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": {
+      "expansion": 80,
+      "self-preservation": 15,
+      "pursuit_of_knowledge": 5
+    },
+    "influence": 15,
+    "relationships": {
+      "Akira Akatsuki": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "Akira Akatsuki",
+    "trait": "Fierce",
+    "bio": "The past is not just a series of events, but a battle cry. I will stop at nothing to reclaim our lost glory.",
+    "icon": "",
+    "speech_style": "荒々しい",
+    "motivation": {
+      "expansion": 90,
+      "self-preservation": 5,
+      "pursuit_of_knowledge": 5
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Lila Luna": 0
+    }
+  },
+  {
+    "name": "Lila Luna",
+    "trait": "Whimsical",
+    "bio": "In a world where legends are buried, I believe that the power of imagination can bring them back to life. Let us dream anew!",
+    "icon": "",
+    "speech_style": "語尾が〜である",
+    "motivation": {
+      "expansion": 70,
+      "self-preservation": 20,
+      "pursuit_of_knowledge": 10
+    },
+    "influence": 15,
+    "relationships": {
+      "Kaito Kurenai": 0,
+      "Akira Akatsuki": 0
+    }
+  }
+]

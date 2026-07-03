@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Courageous",
+    "bio": "A champion of heritage and tradition, I believe that our past is the foundation for our future. As Kaito Ryūjin, I will not hesitate to speak truth to power and defend the values that have been passed down to us.",
+    "icon": "🔥",
+    "speech_style": "Rugged and direct, with a hint of passion at the end",
+    "motivation": "Expansionism",
+    "influence": 10,
+    "relationships": {
+      "Akira Shizuku": 0,
+      "Taro Kaze": 0
+    }
+  },
+  {
+    "name": "Akira Shizuku",
+    "trait": "Innovative",
+    "bio": "I believe that heritage is not just about preserving the past, but also about imagining and creating the future. As Akira Shizuku, I will strive to bring forth new ideas and perspectives that honor our roots while embracing change.",
+    "icon": "💡",
+    "speech_style": "Soft-spoken with a gentle cadence, always seeking clarification before making a point",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Taro Kaze": 0
+    }
+  },
+  {
+    "name": "Taro Kaze",
+    "trait": "Philosophical",
+    "bio": "I think heritage is not just about what we've inherited, but also about the stories that connect us. As Taro Kaze, I will seek to understand the deeper meanings and symbolism behind our cultural artifacts, and share those insights with others.",
+    "icon": "❄️",
+    "speech_style": "Slow and deliberate, weighing words carefully before speaking",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Shizuku": 0
+    }
+  },
+  {
+    "name": "Kokoro Yamato",
+    "trait": "Passionate",
+    "bio": "Seeking unity among the lost legends, believing that by rediscovering our shared heritage, we can forge a brighter future.",
+    "icon": "🔥",
+    "speech_style": "Impassioned, using metaphors and storytelling to convey her thoughts",
+    "motivation": "Expansion (the desire to spread knowledge and understanding)",
+    "influence": 55,
+    "relationships": {
+      "Renn Kaito": 0,
+      "Akira Shimizu": 0
+    }
+  }
+]

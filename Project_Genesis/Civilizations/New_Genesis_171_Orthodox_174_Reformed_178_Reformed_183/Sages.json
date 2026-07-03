@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kaito Katsuragi",
+    "trait": "Cerebral",
+    "bio": "The universe is governed by precise laws, not whimsical desires. Our choices are limited by external factors.",
+    "icon": "",
+    "speech_style": "Logical and calculated",
+    "motivation": "Survival",
+    "influence": 15,
+    "relationships": {
+      "Lena Luminari": 0,
+      "Renn Fujikawa": 0
+    }
+  },
+  {
+    "name": "Lena Luminari",
+    "trait": "Empathetic",
+    "bio": "Humanity's greatest potential lies in its capacity for compassion and connection. Every decision is an opportunity to grow.",
+    "icon": "",
+    "speech_style": "Warm and inclusive, with a hint of optimism",
+    "motivation": "Exploration",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Renn Fujikawa": 0
+    }
+  },
+  {
+    "name": "Renn Fujikawa",
+    "trait": "Inquisitive",
+    "bio": "The pursuit of knowledge is the ultimate driving force. Reality is what we perceive it to be.",
+    "icon": "",
+    "speech_style": "Curious and analytical, with a touch of skepticism",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Katsuragi": 0,
+      "Lena Luminari": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

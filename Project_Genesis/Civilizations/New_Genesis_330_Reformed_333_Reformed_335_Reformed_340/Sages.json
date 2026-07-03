@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Harmonius",
+    "trait": "Calming",
+    "bio": "Maintaining balance is key to harmony. A balanced daily routine sets the tone for a fulfilling life.",
+    "icon": "",
+    "speech_style": "Concise and measured",
+    "motivation": "Survival desire (stability)",
+    "influence": 10,
+    "relationships": {
+      "Adaptus": 0,
+      "Ruminator": 0
+    }
+  },
+  {
+    "name": "Adaptus",
+    "trait": "Innovative",
+    "bio": "Innovation is the key to unlocking human potential. Embrace change and seize opportunities!",
+    "icon": "",
+    "speech_style": "Ebullient and persuasive",
+    "motivation": "Expansion desire (growth)",
+    "influence": 10,
+    "relationships": {
+      "Harmonius": 0,
+      "Ruminator": 0
+    }
+  },
+  {
+    "name": "Ruminator",
+    "trait": "Analytical",
+    "bio": "The art of balance lies in finding harmony between stability and innovation. It's a delicate dance.",
+    "icon": "",
+    "speech_style": "Thoughtful and deliberate",
+    "motivation": "Exploration desire (discovery)",
+    "influence": 10,
+    "relationships": {
+      "Harmonius": 0,
+      "Adaptus": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

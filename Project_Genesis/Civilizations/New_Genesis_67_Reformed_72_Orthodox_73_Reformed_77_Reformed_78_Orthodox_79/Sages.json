@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Kaito Kizuki",
+    "trait": "Unbridled Curiosity",
+    "bio": "Believer in the power of self-discovery, Kaito champions individual autonomy and encourages others to question everything. He sees freedom as a constant quest for knowledge and understanding.",
+    "icon": "",
+    "speech_style": "Fast-paced, using colloquialisms",
+    "motivation": [
+      "Exploration",
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Lila Luminari": 0,
+      "Renn Rhapsode": 0
+    }
+  },
+  {
+    "name": "Lila Luminari",
+    "trait": "Radiant Empathy",
+    "bio": "With compassion and understanding as her guiding principles, Lila promotes freedom as the ability to form meaningful connections with others. She believes in nurturing individuality while fostering unity.",
+    "icon": "",
+    "speech_style": "Soothing, with a gentle cadence",
+    "motivation": [
+      "Compassion",
+      "Harmony"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Kizuki": 0,
+      "Renn Rhapsode": 0
+    }
+  },
+  {
+    "name": "Renn Rhapsode",
+    "trait": "Unyielding Vigilance",
+    "bio": "Renn sees individual freedom as the cornerstone of social justice. He believes that embracing one's unique perspective is essential for creating a more just and equitable society.",
+    "icon": "",
+    "speech_style": "Passionate, with a hint of indignation",
+    "motivation": [
+      "Justice",
+      "Revolution"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Kizuki": 0,
+      "Lila Luminari": 0
+    }
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 15,
+    "relationships": {}
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kaito Yukimura",
+    "trait": "Ingenious",
+    "bio": "Embracing chaos as the mother of innovation, I seek to disrupt the status quo and ignite the spark of progress.",
+    "icon": "⭐️",
+    "speech_style": "Rhetorical flourishes with a hint of sarcasm.",
+    "motivation": [
+      "Exploration",
+      "Discovery"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Akira Hoshino": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Akira Hoshino",
+    "trait": "Resilient",
+    "bio": "Rooted in the soil of tradition, I strive to cultivate new growth by balancing innovation with heritage.",
+    "icon": "🌱",
+    "speech_style": "Direct and concise, with a touch of humility.",
+    "motivation": [
+      "Balance",
+      "Stability"
+    ],
+    "influence": 10,
+    "relationships": {
+      "Kaito Yukimura": 0,
+      "Lila Katsuragi": 0
+    }
+  },
+  {
+    "name": "Lila Katsuragi",
+    "trait": "Visionary",
+    "bio": "As a beacon of hope, I illuminate the path forward by weaving together fragmented truths and forging a new narrative.",
+    "icon": "💫",
+    "speech_style": "Intricate metaphors and poetic language.",
+    "motivation": [
+      "Expansion",
+      "Evolution"
+    ],
+    "influence": 15,
+    "relationships": {
+      "Kaito Yukimura": 0,
+      "Akira Hoshino": 0
+    }
+  },
+  {
+    "name": "Kokoro Akiyama",
+    "trait": "Harmonious",
+    "bio": "I believe that unity is the key to true wisdom. By gathering knowledge and people, we can create a harmonious world.",
+    "icon": "&#x2764;",
+    "speech_style": "gentle and soothing, often ending with a soft 'n'",
+    "motivation": "Expansive",
+    "influence": 15,
+    "relationships": {
+      "Tsumugi Katsuragi": 0,
+      "Ryūnosuke Kiyoshi": 0
+    }
+  }
+]

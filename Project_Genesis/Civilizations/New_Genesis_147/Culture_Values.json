@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "gold": "sacred",
+    "silver": "catalyst_for_change"
+  },
+  "numbers": {
+    "7": "holistic_balance",
+    "9": "completion_of_cycles"
+  },
+  "concepts": {
+    "luminaria": "path_to_enlightenment",
+    "kairos": "opportune_moment_for_growth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 失われた伝説を超えて"
+    }
+  ]
+}

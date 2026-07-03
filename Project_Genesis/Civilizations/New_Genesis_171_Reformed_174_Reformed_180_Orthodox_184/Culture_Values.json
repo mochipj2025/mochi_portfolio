@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "divine",
+    "white": "purity",
+    "black": "mystery"
+  },
+  "numbers": {
+    "3": "lucky",
+    "7": "perfection",
+    "13": "transformation"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "water": "source_of_life",
+    "earth": "foundation_of_community"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Akira Kagen: **Thought A "
+    }
+  ]
+}

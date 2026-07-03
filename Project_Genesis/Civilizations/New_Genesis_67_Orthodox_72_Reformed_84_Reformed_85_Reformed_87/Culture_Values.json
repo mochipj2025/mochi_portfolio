@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "red": "power",
+    "gold": "wisdom",
+    "blue": "transformation"
+  },
+  "numbers": {
+    "7": "completion",
+    "4": "stability"
+  },
+  "concepts": {
+    "fire": "symbol_of_revolution",
+    "water": "source_of_life"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: Renn:  Social Determinism**\n\nAkira's perspective represents Individualism, emphasizing that love is an inherent part of individual experiences and cannot be externalized. On the other hand, Renn's perspective embodies Social Determinism, suggesting that love is a product of human consciousness and can be externalized through social processes.\n\nThe debate highlights the fundamental tension between these two perspectives: while Akira argues that love is a deeply personal and subjective experience, Renn believes that love can be understood and shared through social norms and institutions."
+    }
+  ]
+}

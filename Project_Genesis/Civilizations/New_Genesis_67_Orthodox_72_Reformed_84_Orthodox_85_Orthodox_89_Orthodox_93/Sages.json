@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Yamada",
+    "trait": "Ingenious",
+    "bio": "Believes that computation can be used to unlock humanity's true potential. Focuses on optimizing processes and finding efficiency in all aspects of life.",
+    "icon": "🔥",
+    "speech_style": "Smoothly-intoned, emphasizing key points",
+    "motivation": "Exploration (desire for discovery)",
+    "influence": 15,
+    "relationships": {
+      "Akira Nagase": 0,
+      "Takeshi Matsumoto": 0
+    }
+  },
+  {
+    "name": "Akira Nagase",
+    "trait": "Visionary",
+    "bio": "Sees the world as a complex web of interconnected systems. Aims to understand and adapt these systems to create a better future.",
+    "icon": "💡",
+    "speech_style": "Enthusiastically expressive, using metaphors and analogies to convey ideas",
+    "motivation": "Expansion (desire for growth)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamada": 0,
+      "Takeshi Matsumoto": 0
+    }
+  },
+  {
+    "name": "Takeshi Matsumoto",
+    "trait": "Discerning",
+    "bio": "Believes that the key to progress lies in understanding the underlying principles of reality. Focuses on refining theories and models to achieve this goal.",
+    "icon": "🔒",
+    "speech_style": "Precise, using technical jargon and analytical language",
+    "motivation": "Survival (desire for self-preservation)",
+    "influence": 10,
+    "relationships": {
+      "Kaito Yamada": 0,
+      "Akira Nagase": 0
+    }
+  },
+  {
+    "name": "Taro Katsuragi",
+    "trait": "Cerebral",
+    "bio": "I am convinced that humanity's future lies in the mastery of technology and the scientific method. Our understanding of the world must be grounded in empirical evidence.",
+    "icon": "",
+    "speech_style": "Formal, with a hint of dry humor",
+    "motivation": "The desire to push human knowledge forward and optimize its potential",
+    "influence": 10,
+    "relationships": {
+      "Lysander Elyseus": 0,
+      "Renn": 0
+    }
+  }
+]

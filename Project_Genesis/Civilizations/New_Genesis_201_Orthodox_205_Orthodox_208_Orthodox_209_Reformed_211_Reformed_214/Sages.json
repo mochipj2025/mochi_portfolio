@@ -1,0 +1,45 @@
+[
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "賢者3",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  },
+  {
+    "name": "Lila Luna",
+    "trait": "Enthusiastic Curiosity",
+    "bio": "Lila sees the world as a vast, uncharted territory waiting to be explored. She believes that by embracing the unknown and cultivating a sense of wonder, humans can unlock new possibilities and create a brighter future.",
+    "icon": "✨",
+    "speech_style": "Fast-paced and excitable, with a tendency to use metaphors to explain complex ideas.",
+    "motivation": "Exploration: To uncover hidden truths and push the boundaries of human knowledge, driving innovation and progress.",
+    "influence": 20,
+    "relationships": {
+      "Kaito Kiyoshi": 0,
+      "Renn Fujimoto": 0
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lila Renn",
+    "trait": "Ingenious",
+    "bio": "Radical innovator who believes in creating a better future through calculated risk-taking. Embracing uncertainty leads to discovery, not justifying it as 'uncharted territory'",
+    "icon": "",
+    "speech_style": "Colloquialisms and clever wordplay",
+    "motivation": "Exploration",
+    "influence": 15,
+    "relationships": {}
+  },
+  {
+    "name": "賢者1",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "motivation": "安定",
+    "influence": 10,
+    "relationships": {}
+  }
+]

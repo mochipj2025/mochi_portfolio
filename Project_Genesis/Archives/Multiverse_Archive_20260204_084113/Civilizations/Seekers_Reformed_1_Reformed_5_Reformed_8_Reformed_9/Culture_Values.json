@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "red": "authority",
+    "blue": "creativity"
+  },
+  "numbers": {
+    "1": "unity"
+  },
+  "concepts": {
+    "fire": "symbol_of_transformation",
+    "water": "symbol_of_clarity"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Ideology B**\n\n1. **Authority-focused**: \"Silence is power\" (賢者1)\n\t* Prioritize stability and authority over individual creativity and expression.\n2. **Creativity-focused**: \"Words have weight\" (Lila Renn)\n\t* Emphasize the importance of creative freedom, new possibilities, and innovative thinking.\n\nThese two ideologies seem to be fundamentally at odds with each other, reflecting different values and priorities in shaping society."
+    }
+  ]
+}

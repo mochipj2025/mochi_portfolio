@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "blue": "calming"
+  },
+  "numbers": {
+    "8": "balance",
+    "9": "completion"
+  },
+  "concepts": {
+    "dreaming": "path_to_wisdom"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1:  Sleep Quality**\n\nThe first perspective emphasizes the importance of sleep quantity (8 hours or 7 hours), while the second perspective highlights the significance of sleep quality (6 hours for wisdom and understanding, 9 hours for proper processing of memories and emotional balance)."
+    }
+  ]
+}

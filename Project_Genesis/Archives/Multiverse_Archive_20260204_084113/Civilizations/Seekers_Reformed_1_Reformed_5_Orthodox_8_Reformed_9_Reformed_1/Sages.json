@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Pragmatist",
+    "bio": "Rational thinking and practical application are the keys to success. I believe in living life according to one's own principles, rather than being swayed by emotions or societal expectations.",
+    "icon": "",
+    "speech_style": "Straightforward, no-nonsense",
+    "motivation": {
+      "expansion": 0.4,
+      "survival": 0.3,
+      "pursuit": 0.3
+    },
+    "influence": 15,
+    "relationships": {
+      "Renn": 0,
+      "Zenji": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Visionary",
+    "bio": "The universe is full of mysteries waiting to be unraveled. I believe in the power of human imagination and creativity to shape our understanding of reality.",
+    "icon": "",
+    "speech_style": "Fanciful, poetic",
+    "motivation": {
+      "expansion": 0.6,
+      "survival": 0.2,
+      "pursuit": 0.2
+    },
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Zenji": 0
+    }
+  },
+  {
+    "name": "Zenji",
+    "trait": "Sage",
+    "bio": "The pursuit of knowledge and understanding is a lifelong journey. I believe in embracing the complexities of life and finding balance between wisdom and compassion.",
+    "icon": "",
+    "speech_style": "Wisdom-filled, insightful",
+    "motivation": {
+      "expansion": 0.2,
+      "survival": 0.5,
+      "pursuit": 0.3
+    },
+    "influence": 25,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  }
+]

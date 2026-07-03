@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito Ryūjin",
+    "trait": "Intrepid",
+    "bio": "The pursuit of truth and progress is paramount. We must not be swayed by nostalgia or tradition.",
+    "icon": "🔥",
+    "speech_style": "Direct and straightforward, with a hint of aggression.",
+    "motivation": "Exploration",
+    "influence": 20,
+    "relationships": {
+      "Akira Shinsui": 0,
+      "Takeru Minamoto": 0
+    }
+  },
+  {
+    "name": "Akira Shinsui",
+    "trait": "Elegant",
+    "bio": "The art of refinement and the pursuit of perfection are essential to human civilization. We must strive for excellence in all aspects of life.",
+    "icon": "❄️",
+    "speech_style": "Infused with a subtle hint of irony, often speaking in measured tones.",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Takeru Minamoto": 0
+    }
+  },
+  {
+    "name": "Takeru Minamoto",
+    "trait": "Enthusiastic",
+    "bio": "The quest for innovation and progress is what drives humanity forward. We must be bold in our pursuit of new ideas and discoveries.",
+    "icon": "💥",
+    "speech_style": "Full of energy and passion, often speaking in rapid-fire succession with a dash of enthusiasm.",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito Ryūjin": 0,
+      "Akira Shinsui": 0
+    }
+  },
+  {
+    "name": "Akira Shinsui",
+    "trait": "**秩序の基礎**",
+    "bio": "Proponent of stability and structure, convinced that order is the foundation for progress.",
+    "icon": "",
+    "speech_style": "firmly with a hint of authority",
+    "motivation": "maintenance of balance and protection",
+    "influence": 10,
+    "relationships": {
+      "Kaito Arashi": 0,
+      "Lila Katsuragi": 0
+    }
+  }
+]

@@ -1,0 +1,5 @@
+# 新しい概念：エモーショナル・ハーモニー (Emotional Harmony)
+
+## 定義：Emotional Harmony refers to the state of being in which individuals resonate with each other and the universe, transcending their emotional limitations and creating a harmonious society.
+
+## 意義：In this concept, Emotional Harmony is not just about individual emotional balance or control, but about the collective resonance that arises when individuals prioritize Emotional Sovereignty and create harmony within themselves. It emphasizes the importance of balancing individuality with external memory storage, setting boundaries, and respecting each other's emotional space. By embracing resonance, we can transcend our limitations and become one with the cosmos, creating a harmonious society that values Emotional Sovereignty and resonance. This concept has the potential to positively impact society by increasing trust (+5), reducing material wealth (-10), and maintaining spiritual faith (0).

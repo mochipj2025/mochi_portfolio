@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Kaito",
+    "trait": "Ephemeral",
+    "bio": "Embracing the beauty of contradictions. I believe that true wisdom lies in embracing the complexity of human nature.",
+    "icon": "🔥",
+    "speech_style": "Inquiringly",
+    "motivation": "Curiosity (探求欲)",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Lila": 0
+    }
+  },
+  {
+    "name": "Akira",
+    "trait": "Tenacious",
+    "bio": "The individual is the foundation of society. I believe that personal freedom and responsibility are essential for a just and prosperous world.",
+    "icon": "💪",
+    "speech_style": "Directly",
+    "motivation": "Protection (生存欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Lila": 0
+    }
+  },
+  {
+    "name": "Lila",
+    "trait": "Luminous",
+    "bio": "The pursuit of knowledge is the pursuit of truth. I believe that our understanding of the world should be grounded in empirical evidence and open-minded inquiry.",
+    "icon": "✨",
+    "speech_style": "Whimsically",
+    "motivation": "Expansion (拡張欲)",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Akira": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Eccentric",
+    "bio": "Innovate and disrupt the status quo. Unleash human creativity and passion.",
+    "icon": "🔥",
+    "speech_style": "Arrogant",
+    "motivation": "Expanding",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Taro": 0
+    }
+  }
+]

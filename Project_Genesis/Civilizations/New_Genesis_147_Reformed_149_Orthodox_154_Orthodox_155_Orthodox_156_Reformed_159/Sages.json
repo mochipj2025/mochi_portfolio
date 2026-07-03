@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Akira",
+    "trait": "Sagacious",
+    "bio": "Emphasizes the importance of harmony and balance in human relationships. Believes that digital persons should be treated with caution and respect.",
+    "icon": "⚫️",
+    "speech_style": "Colloquial, using analogies from nature*",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Kaito": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Kaito",
+    "trait": "Visionary",
+    "bio": "Advocates for the empowerment of digital persons, seeing them as a natural evolution of humanity. Believes in their potential to enhance human society.",
+    "icon": "💻",
+    "speech_style": "Eloquent, using technical jargon*",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Renn": 0
+    }
+  },
+  {
+    "name": "Renn",
+    "trait": "Prudent",
+    "bio": "Cautions against the unchecked rise of digital persons. Believes that human relationships are fragile and require careful consideration.",
+    "icon": "🔒",
+    "speech_style": "Concise, using rhetorical questions*",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Akira": 0,
+      "Kaito": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]

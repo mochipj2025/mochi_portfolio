@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "red": "divine",
+    "gray": "neutral"
+  },
+  "numbers": {
+    "3": "lucky",
+    "11": "symbol_of_perfection"
+  },
+  "concepts": {
+    "fire": "symbol_of_rebirth",
+    "perspective": "source_of_truth"
+  },
+  "formation_history": [
+    {
+      "gen": 0,
+      "event": "Founded with ideology: 賢者1: . recognizing that our perceptions are shaped by individual perspectives.\n\nThis conflict has significant implications for social dynamics, particularly in terms of power (↑5), wealth (-10), and faith (0). The discussion's outcome will likely influence how individuals perceive authority, their relationships with others, and ultimately, the distribution of resources and values within society."
+    }
+  ]
+}

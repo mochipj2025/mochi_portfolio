@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Hiroto Kiyoshi",
+    "trait": "Serenity",
+    "bio": "Seeking balance in chaos, I guide harmony.",
+    "icon": "🌱",
+    "speech_style": "Gentle whispers",
+    "motivation": "Survival",
+    "influence": 10,
+    "relationships": {
+      "Luminari Aki": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Luminari Aki",
+    "trait": "Eloquence",
+    "bio": "I illuminate the path to wisdom, illuminating the hearts of others.",
+    "icon": "✨",
+    "speech_style": "Poetic declarations",
+    "motivation": "Expansion",
+    "influence": 10,
+    "relationships": {
+      "Hiroto Kiyoshi": 0,
+      "Taro Yamato": 0
+    }
+  },
+  {
+    "name": "Taro Yamato",
+    "trait": "Tenacity",
+    "bio": "Unwavering in my pursuit of truth, I forge unshakeable foundations.",
+    "icon": "🔥",
+    "speech_style": "Forceful assertions",
+    "motivation": "Discovery",
+    "influence": 10,
+    "relationships": {
+      "Hiroto Kiyoshi": 0,
+      "Luminari Aki": 0
+    }
+  },
+  {
+    "name": "賢者2",
+    "trait": "中庸",
+    "bio": "安定を望む名もなき悟りびと。",
+    "icon": "👤",
+    "speech_style": "標準的",
+    "motivation": "安定",
+    "influence": 20,
+    "relationships": {}
+  }
+]
