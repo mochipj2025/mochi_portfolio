@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M.O.C.H.I. LABO Works Archive</title>
+  <meta name="description" content="M.O.C.H.I. LABOのGitHub Pages作品とProject Genesisをまとめたポートフォリオ。">
+  <link rel="canonical" href="https://mochipj2025.github.io/mochi_portfolio/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="M.O.C.H.I. LABO Works Archive">
+  <meta property="og:description" content="もちスラのGitHub Pages作品とProject Genesisをまとめたポートフォリオ。">
+  <meta property="og:url" content="https://mochipj2025.github.io/mochi_portfolio/">
+  <meta property="og:image" content="https://mochipj2025.github.io/mochi_portfolio/assets/mascot-mochisura-bear-hood-01.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="./assets/mascot-mochisura-bear-hood-01.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="M.O.C.H.I. LABO Works Archive">
+      <span class="brand-mark">M</span>
+      <span>
+        <strong>M.O.C.H.I. LABO</strong>
+        <small>Works Archive</small>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="Primary navigation">
+      <a href="#works">Works</a>
+      <a href="#about">About</a>
+      <a href="#vision">Vision</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-backdrop" aria-hidden="true">
+        <div class="signal-grid">
+          <span></span><span></span><span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span><span></span><span></span>
+        </div>
+        <div class="orbit orbit-one"></div>
+        <div class="orbit orbit-two"></div>
+      </div>
+      <div class="hero-content">
+        <p class="eyebrow">Mochisura / Fukuoka hands-on maker</p>
+        <h1 id="hero-title">
+          <span>挑戦を、</span>
+          <span>やさしく進める道具。</span>
+        </h1>
+        <p class="hero-copy">
+          <span>福岡でリラクゼーションセラピストとして活動しながら、</span>
+          <span>AI、デザイン、プログラミングを組み合わせて、</span>
+          <span>人のアイデアが少し前に進むためのWebサービスや創作ツールを作っています。</span>
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#works">作品を見る</a>
+          <a class="button secondary" href="#about">自己紹介</a>
+        </div>
+      </div>
+      <div class="hero-mascot" aria-hidden="true">
+        <img src="./assets/mascot-mochisura-bear-hood-01.png" alt="">
+      </div>
+      <div class="hero-strip" aria-label="Portfolio highlights">
+        <article>
+          <span>12</span>
+          <p>featured works</p>
+        </article>
+        <article>
+          <span>5</span>
+          <p>interface layers</p>
+        </article>
+        <article>
+          <span>404</span>
+          <p>Genesis civilizations</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="works" class="section works-section" aria-labelledby="works-title">
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">Works</div>
+          <h2 id="works-title">作品群</h2>
+        </div>
+        <div class="filter-bar" role="list" aria-label="Filter works by category">
+          <button class="filter-button active" data-filter="all" type="button">All</button>
+          <button class="filter-button" data-filter="featured" type="button">Featured</button>
+          <button class="filter-button" data-filter="prompt" type="button">Prompt</button>
+          <button class="filter-button" data-filter="identity" type="button">Identity</button>
+          <button class="filter-button" data-filter="world" type="button">World</button>
+          <button class="filter-button" data-filter="experience" type="button">Experience</button>
+        </div>
+      </div>
+
+      <div class="featured-grid" aria-label="Featured projects">
+        <article class="feature-panel work-card" data-category="featured world agent">
+          <div class="feature-visual genesis-visual">
+            <img src="./assets/project-genesis-world-map.png" alt="Project Genesis world map">
+          </div>
+          <div class="work-body">
+            <p class="work-type">Featured / Autonomous worldbuilding</p>
+            <h3>Project Genesis</h3>
+            <p>
+              ローカルLLMで文明、思想分岐、伝承、世界地図、学習データを生成する創世シミュレーション。
+              作品群の中で最もAgentの長期記憶と世界モデルに近い実験です。
+            </p>
+            <div class="tag-row">
+              <span>Local LLM</span><span>Memory</span><span>World Model</span>
+            </div>
+            <div class="card-actions">
+              <a href="https://github.com/mochipj2025/mochi_portfolio/tree/main/Project_Genesis" target="_blank" rel="noreferrer">Repository Folder</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="feature-panel work-card" data-category="featured prompt">
+          <div class="feature-visual system-visual prompt-visual" aria-hidden="true">
+            <div class="mini-window main-window">
+              <span>Intent</span>
+              <strong>Promptmaker002</strong>
+              <p>Character / Portrait / LP / Content Kit</p>
+            </div>
+            <div class="mini-window sub-window one">Input</div>
+            <div class="mini-window sub-window two">Structure</div>
+            <div class="mini-window sub-window three">Output</div>
+          </div>
+          <div class="work-body">
+            <p class="work-type">Featured / Prompt interface</p>
+            <h3>Promptmaker002</h3>
+            <p>
+              画像生成AIに渡す指示を、用途ごとのメーカーへ分解したプロンプト制作ポータル。
+              曖昧な願望を、実行可能なAI指示へ変える入口です。
+            </p>
+            <div class="tag-row">
+              <span>Prompt</span><span>Tool Hub</span><span>Creation Flow</span>
+            </div>
+            <div class="card-actions">
+              <a href="https://mochipj2025.github.io/Promptmaker002/" target="_blank" rel="noreferrer">View Site</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="works-grid" id="works-grid"></div>
+    </section>
+
+    <section id="about" class="section intro-section" aria-labelledby="intro-title">
+      <div class="profile-grid">
+        <div class="profile-card">
+          <img src="./assets/mascot-mochisura-bear-hood-01.png" alt="もちスラのマスコット">
+        </div>
+        <div class="profile-copy">
+          <div class="section-kicker">About</div>
+          <h2 id="intro-title">もちスラ｜福岡のほぐし屋きだ</h2>
+          <p>
+            福岡でリラクゼーションセラピストとして活動しながら、AIを活用したものづくりやWebサービスの開発をしています。
+          </p>
+          <p>
+            作業療法士として医療・福祉の現場を経験したあと、「治す」だけではなく、
+            人が安心して過ごせる時間や場所をつくることに魅力を感じ、リラクゼーションの世界へ入りました。
+          </p>
+          <p>
+            現在は施術の現場に立ちながら、画像生成プロンプトツール、ポートフォリオサイト、タロットカードサイト、
+            診断コンテンツ、小規模事業者向けLPなど、「アイデアを形にする仕組み」を作っています。
+          </p>
+          <div class="profile-tags">
+            <span>Relaxation Therapist</span>
+            <span>AI Creative Tools</span>
+            <span>Web Design</span>
+            <span>Character Worlds</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="vision" class="section bridge-section" aria-labelledby="bridge-title">
+      <div>
+        <div class="section-kicker">Vision</div>
+        <h2 id="bridge-title" class="vision-title">
+          <span>作品の先に、</span>
+          <span>自律Agentの入口が</span>
+          <span>見えてきた。</span>
+        </h2>
+      </div>
+      <div class="vision-copy">
+        <p>
+          プロンプトツールは意図を整え、診断やカードは人の状態を読み、ゲームやCodequariumは反応する環境を作る。
+          Project Genesisは、記憶と世界が育っていく場所です。
+        </p>
+        <p>
+          まだ大げさに語る段階ではないけれど、これらを統合すると、
+          人間の挑戦を支える小さな自律Agentの土台になっていきます。
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>M.O.C.H.I. LABO Works Archive</p>
+    <a href="https://github.com/mochipj2025/mochi_portfolio" target="_blank" rel="noreferrer">GitHub Repository</a>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
